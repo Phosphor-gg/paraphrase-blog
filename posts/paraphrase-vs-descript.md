@@ -1,10 +1,10 @@
 ---
-title: "Paraphrase vs Descript: a full suite versus editing only your real voice"
+title: "Paraphrase vs Descript: a full suite or only your real voice"
 date: 2026-10-17
-description: "Descript is a broad audio and video production suite with AI voices. Paraphrase edits your own recording by its transcript and never generates speech. Here is an honest comparison, so you can pick one, or use both."
+description: "Descript is a broad production suite with AI voices. Paraphrase edits your own recording by its transcript and never generates speech. Pick one, or use both."
 ---
 
-# Paraphrase vs Descript: a full suite versus editing only your real voice
+# Paraphrase vs Descript: a full suite or only your real voice
 
 **Bottom line:** Descript does far more: video, remote recording, noise clean-up, captions,
 translation and AI voices. If you use any of that, choose Descript. **Paraphrase** does one job,

@@ -1,7 +1,7 @@
 ---
 title: "Why Paraphrase never generates speech"
 date: 2026-10-17
-description: "Paraphrase has no AI voice, no overdub and no voice cloning, on purpose. Here is why an editor that can only cut your own recording is the point, not a limitation."
+description: "Paraphrase has no AI voice, no overdub and no voice cloning, on purpose. Why an editor that can only cut your own recording is the point, not a limitation."
 ---
 
 # Why Paraphrase never generates speech

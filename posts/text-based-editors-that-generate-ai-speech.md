@@ -1,7 +1,7 @@
 ---
 title: "Which text-based editors generate AI speech? An audit"
 date: 2026-10-17
-description: "Most transcript editors can now put words in a voice that nobody recorded. Here is an audit of five podcast and video editors, sorted by what their own pages say they do: generate speech, only cut your own audio, or not edit by transcript at all."
+description: "Most transcript editors can now put words in a voice nobody recorded. An audit of five editors, sorted by what their own pages say they do with your voice."
 ---
 
 # Which text-based editors generate AI speech? An audit

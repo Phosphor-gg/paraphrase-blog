@@ -1,7 +1,7 @@
 ---
 title: "The best text-based audio and video editors in 2026"
 date: 2026-10-17
-description: "Descript, Riverside, Adobe Podcast and Paraphrase all let you cut a recording by editing its transcript. Here is what each one is best at, where each runs out, and how to choose."
+description: "Descript, Riverside, Adobe Podcast and Paraphrase all cut a recording by editing its transcript. What each one is best at, where it runs out, and how to choose."
 ---
 
 # The best text-based audio and video editors in 2026

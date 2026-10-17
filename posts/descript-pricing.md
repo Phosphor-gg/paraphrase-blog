@@ -1,7 +1,7 @@
 ---
 title: "Descript pricing: what it costs and what is paywalled"
 date: 2026-10-17
-description: "Descript has a free plan and paid plans from $16 a month billed annually, each with monthly media hours and AI credits that do not roll over. Here is what each plan includes, and how Paraphrase prices editing by transcript."
+description: "Descript has a free plan and paid plans from $16 a month billed annually, with media hours and AI credits. What each plan includes, and how Paraphrase compares."
 ---
 
 # Descript pricing: what it costs and what is paywalled

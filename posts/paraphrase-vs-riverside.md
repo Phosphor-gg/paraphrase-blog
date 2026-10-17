@@ -1,7 +1,7 @@
 ---
 title: "Paraphrase vs Riverside: a recording studio versus a transcript editor"
 date: 2026-10-17
-description: "Riverside records guests remotely and edits by transcript, among much else. Paraphrase only edits your own recording by its transcript and never generates speech. An honest comparison so you can pick one, or use both."
+description: "Riverside records guests remotely and edits by transcript, among much else. Paraphrase only edits your own recording and never generates speech. Which to pick."
 ---
 
 # Paraphrase vs Riverside: a recording studio versus a transcript editor

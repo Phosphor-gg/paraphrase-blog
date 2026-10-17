@@ -1,10 +1,10 @@
 ---
-title: "Adobe Podcast pricing: the free plan, Firefly Pro and what happened to Premium"
+title: "Adobe Podcast pricing: the free plan, Firefly Pro and Premium"
 date: 2026-10-17
-description: "Adobe Podcast Premium is no longer sold on its own. Here is what the free plan includes, what Firefly Pro costs and adds, what existing Premium subscribers keep, and how Paraphrase prices editing."
+description: "Adobe Podcast Premium is no longer sold on its own. What the free plan includes, what Firefly Pro costs and adds, and how Paraphrase prices editing."
 ---
 
-# Adobe Podcast pricing: the free plan, Firefly Pro and what happened to Premium
+# Adobe Podcast pricing: the free plan, Firefly Pro and Premium
 
 **Bottom line:** Adobe Podcast is **free to use** within daily limits: Enhance Speech on audio up to
 an hour a day, and Studio projects up to 30 minutes with two downloads a day. Since 30 August 2026

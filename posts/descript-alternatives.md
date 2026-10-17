@@ -1,7 +1,7 @@
 ---
 title: "Descript alternatives: the honest options for editing by transcript"
 date: 2026-10-17
-description: "Descript covers recording, editing by transcript, video, audio clean-up and AI voices in one product. If you are looking at alternatives, here is what each one replaces, what it does not, and when staying put is the right call."
+description: "Descript covers recording, transcript editing, video, clean-up and AI voices in one product. What each alternative replaces, and when staying put is right."
 ---
 
 # Descript alternatives: the honest options for editing by transcript

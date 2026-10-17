@@ -1,7 +1,7 @@
 ---
 title: "Adobe Podcast review: what it does well and where it stops"
 date: 2026-10-17
-description: "An honest review of Adobe Podcast from its own documentation: Enhance Speech, Studio's transcript editing, remote recording and the move to Firefly Pro, plus what it does not do with filler words and how Paraphrase fits alongside it."
+description: "A review of Adobe Podcast from its own documentation: Enhance Speech, Studio's transcript editing, remote recording and the move to Firefly Pro."
 ---
 
 # Adobe Podcast review: what it does well and where it stops

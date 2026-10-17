@@ -1,7 +1,7 @@
 ---
 title: "The best podcast editing software in 2026"
 date: 2026-10-17
-description: "Riverside, Descript, Adobe Podcast, Audacity and Paraphrase compared for podcast editing: recording, cutting, clean-up, export and hosting, with prices checked on 17 October 2026."
+description: "Riverside, Descript, Adobe Podcast, Audacity and Paraphrase compared for podcasts: recording, cutting, clean-up and export, prices checked in October 2026."
 ---
 
 # The best podcast editing software in 2026

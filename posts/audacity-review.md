@@ -1,7 +1,7 @@
 ---
 title: "Audacity review: what it is good at and where it runs out for speech"
 date: 2026-10-17
-description: "An honest review of Audacity from a company that makes a transcript editor. Its free, open source audio processing, the Audacity 4 editing changes, and where waveform editing gets slow for spoken word."
+description: "A review of Audacity from a company that makes a transcript editor: its free audio processing, Audacity 4's editing changes, and where speech editing slows."
 ---
 
 # Audacity review: what it is good at and where it runs out for speech

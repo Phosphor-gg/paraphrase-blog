@@ -1,7 +1,7 @@
 ---
 title: "The best tools for editing recorded interviews"
 date: 2026-10-17
-description: "Riverside, Descript, Adobe Podcast, Paraphrase and Audacity compared for interviews: separate speaker tracks, speaker labels, editing by transcript, and whether a tool can ever put words in someone's mouth."
+description: "Five tools compared for interviews: separate speaker tracks, speaker labels, editing by transcript, and whether a tool can put words in someone's mouth."
 ---
 
 # The best tools for editing recorded interviews

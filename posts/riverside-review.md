@@ -1,7 +1,7 @@
 ---
 title: "Riverside review: what it is good at and where it runs out"
 date: 2026-10-17
-description: "An honest review of Riverside from a company that makes a competing editor. Its local recording, text-based editing and AI tools, what its plans limit, and who it suits."
+description: "A review of Riverside from a competing editor's maker: its local recording, text-based editing and AI tools, what its plans limit, and who it suits."
 ---
 
 # Riverside review: what it is good at and where it runs out

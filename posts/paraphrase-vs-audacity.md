@@ -1,10 +1,10 @@
 ---
-title: "Paraphrase vs Audacity: cutting speech by its words versus on the waveform"
+title: "Paraphrase vs Audacity: cutting speech by words or on a waveform"
 date: 2026-10-17
-description: "Audacity is a free, open source audio editor with real noise reduction and effects. Paraphrase is a transcript editor that cuts your own recording by its words. Here is an honest comparison, and why many people use both."
+description: "Audacity is a free, open source editor with real noise reduction and effects. Paraphrase cuts your own recording by its words. Why many people use both."
 ---
 
-# Paraphrase vs Audacity: cutting speech by its words versus on the waveform
+# Paraphrase vs Audacity: cutting speech by words or on a waveform
 
 **Bottom line:** they do different jobs. **Audacity** is a free, open source audio editor with
 noise reduction, compression and effects, and you cut by selecting regions

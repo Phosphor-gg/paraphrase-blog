@@ -1,7 +1,7 @@
 ---
 title: "The best tools to remove filler words from audio"
 date: 2026-10-17
-description: "How Paraphrase, Riverside, Descript, Adobe Podcast and Audacity find and remove um, uh and like, how much of each cut you can review, and which one to use for your recordings."
+description: "How Paraphrase, Riverside, Descript, Adobe Podcast and Audacity find and remove um, uh and like, and how much of each cut you can review before it is final."
 ---
 
 # The best tools to remove filler words from audio

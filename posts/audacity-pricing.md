@@ -1,7 +1,7 @@
 ---
 title: "Is Audacity free? What it costs and what it does not do"
 date: 2026-10-17
-description: "Audacity is free and open source, with no paid tier for the editor. Here is what is genuinely free, where money can come in (cloud storage, MuseHub add-ons) and what the free editor does not do for spoken word."
+description: "Audacity is free and open source, with no paid tier for the editor. What is genuinely free, where money can come in, and what it does not do for speech."
 ---
 
 # Is Audacity free? What it costs and what it does not do

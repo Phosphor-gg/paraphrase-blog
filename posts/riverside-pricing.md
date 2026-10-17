@@ -1,7 +1,7 @@
 ---
 title: "Riverside pricing: what it costs and what is paywalled"
 date: 2026-10-17
-description: "Riverside has a free plan and paid plans from £24 a month billed yearly, as shown to a UK visitor. Here is what each plan includes, what sits behind the paywall, and how Paraphrase prices transcript editing."
+description: "Riverside has a free plan and paid plans from £24 a month billed yearly, as shown to a UK visitor. What each plan includes, and how Paraphrase prices editing."
 ---
 
 # Riverside pricing: what it costs and what is paywalled

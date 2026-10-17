@@ -1,7 +1,7 @@
 ---
 title: "Descript review: what it is good at and where it runs out"
 date: 2026-10-17
-description: "An honest review of Descript from a company that makes a narrower competing tool. Text-based editing, filler word removal, Edit for Clarity, AI voices, Rooms and the allowance model, all from Descript's own documentation."
+description: "A review of Descript from a narrower competitor: text-based editing, filler removal, Edit for Clarity, AI voices and Rooms, from Descript's own documentation."
 ---
 
 # Descript review: what it is good at and where it runs out

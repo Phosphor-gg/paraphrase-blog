@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Paraphrase blog"
 date: 2026-10-17
-description: "What Paraphrase is, what it deliberately does not do, and what this blog will cover: honest comparisons, pricing breakdowns and guides to editing spoken audio by its transcript."
+description: "What Paraphrase is, what it deliberately does not do, and what this blog covers: honest comparisons, pricing breakdowns and guides to editing speech."
 ---
 
 # Welcome to the Paraphrase blog

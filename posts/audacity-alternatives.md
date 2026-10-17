@@ -1,7 +1,7 @@
 ---
 title: "Audacity alternatives: the honest options for editing spoken audio"
 date: 2026-10-17
-description: "Audacity is free, open source and has real audio processing. If you are looking at alternatives for editing speech, here is what each one replaces, what it costs you, and why many people keep Audacity anyway."
+description: "Audacity is free, open source and has real audio processing. What each alternative for editing speech replaces, and why many people keep Audacity."
 ---
 
 # Audacity alternatives: the honest options for editing spoken audio

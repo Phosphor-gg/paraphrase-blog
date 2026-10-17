@@ -1,7 +1,7 @@
 ---
 title: "Riverside alternatives: the honest options for editing your voice"
 date: 2026-10-17
-description: "Riverside is a remote recording studio with a text-based editor and a lot more besides. If you are looking at alternatives, here is what each one replaces, and when you should not switch at all."
+description: "Riverside is a remote recording studio with a text-based editor and much more. What each alternative replaces, and when you should not switch at all."
 ---
 
 # Riverside alternatives: the honest options for editing your voice

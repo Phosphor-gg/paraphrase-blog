@@ -1,10 +1,10 @@
 ---
-title: "Descript vs Riverside vs Paraphrase: two production suites and one transcript editor"
+title: "Descript vs Riverside vs Paraphrase: two suites and one editor"
 date: 2026-10-17
-description: "Descript and Riverside both record, edit by transcript, clean up sound and offer AI voices. Paraphrase only cuts your own recording by its words. Here is who should pick which, from each tool's own pages."
+description: "Descript and Riverside record, edit by transcript, clean up sound and offer AI voices. Paraphrase only cuts your own recording. Who should pick which."
 ---
 
-# Descript vs Riverside vs Paraphrase: two production suites and one transcript editor
+# Descript vs Riverside vs Paraphrase: two suites and one editor
 
 **Bottom line:** for most people this is a choice between Descript and Riverside, because both
 record, edit by transcript, clean up the sound and add captions. Pick **Riverside** if you record

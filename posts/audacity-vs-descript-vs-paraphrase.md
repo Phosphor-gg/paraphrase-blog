@@ -1,10 +1,10 @@
 ---
-title: "Audacity vs Descript vs Paraphrase: waveform, full suite, or words only"
+title: "Audacity vs Descript vs Paraphrase: waveform, suite or words"
 date: 2026-10-17
-description: "Audacity is a free, open source waveform editor, Descript is a full transcript editor with AI tools and voices, and Paraphrase cuts your own recording by its words. Here is who should pick which, from each tool's own pages."
+description: "A free waveform editor, a full transcript editor with AI voices, and a tool that cuts your own recording by its words: who should pick which."
 ---
 
-# Audacity vs Descript vs Paraphrase: waveform, full suite, or words only
+# Audacity vs Descript vs Paraphrase: waveform, suite or words
 
 **Bottom line:** pick **Audacity** if your budget is zero or your work is on the sound itself: it is
 free, open source, runs on Windows, macOS and Linux, and has built-in Noise Reduction and a

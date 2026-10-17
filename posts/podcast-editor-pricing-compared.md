@@ -1,7 +1,7 @@
 ---
 title: "Podcast editor pricing compared: what each tool really costs"
 date: 2026-10-17
-description: "Descript, Riverside, Adobe Podcast, Audacity and Paraphrase prices side by side, read from each vendor's own pricing page on 17 October 2026, with the cost per hour of audio at each entry tier, working shown."
+description: "Descript, Riverside, Adobe Podcast, Audacity and Paraphrase prices side by side, from each vendor's pricing page, with the cost per hour of audio worked out."
 ---
 
 # Podcast editor pricing compared: what each tool really costs
