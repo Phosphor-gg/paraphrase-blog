@@ -20,14 +20,10 @@ Many people should pair Paraphrase with Audacity.
 | --- | --- | --- | --- |
 | How you cut | Select a region of the waveform | Edit the transcript | Click words in the transcript |
 | Runs on | Windows, macOS, Linux desktop | macOS and Windows apps, Chromium browsers | Browser |
-| Transcription | OpenVINO Whisper plugin, builds for 3.7.1 only | Built in, around 25 languages | Built in, 25 European languages |
-| AI filler and repetition cuts | Not described on its pages | Remove filler words (English only), Edit for Clarity | One AI cleanup: fillers, false starts, hedges, repetition |
-| Generated speech | Not described | Regenerate, voice clones, stock AI speakers | Never |
+| Filler and repetition cuts | By hand, as its Cut page suggests | Remove filler words (English only), Edit for Clarity | One AI cleanup: fillers, false starts, hedges, repetition |
 | Noise reduction | Yes, from a noise profile | Studio Sound | No |
-| Compressor, loudness normalisation | Compressor, yes; Loudness Normalization documented only for Audacity 3 | Loudness normalise on export | No |
-| Plugins and effects | VST3, LV2, Audio Units | Not on the pages we read | No |
+| Levelling | Compressor and Limiter | Loudness normalise on export | No |
 | Multitrack | Yes | Multitrack transcription | No |
-| Video | Audio only on its pages | Yes | MP4, picture and sound cut at the same words |
 | Lossless export | WAV, FLAC and more | WAV | WAV, FLAC |
 | Price (checked 17 Oct 2026) | Free, GPL v3 | Free plan; paid from $16 per person a month billed annually | Free 15 minutes; Premium £13.99 a month, about £4.99 on three years |
 
@@ -53,11 +49,7 @@ All three can take the ums and restarts out of a spoken recording. They differ i
 
 **In Audacity** you find them by listening. Its own Cut page suggests using Cut to "Remove ums,
 coughs, and long pauses from spoken recordings". A waveform shows loudness, not words, so a false
-start or a point made twice looks like any other sentence. Audacity does have transcription, through
-the free OpenVINO plugin running Whisper locally, which writes words into a label track you can
-search and export as SRT, VTT or text. But its download page warns "The OpenVINO plugins are not yet
-compatible with the latest Audacity version", and the builds offered are for 3.7.1. Nothing on
-Audacity's pages describes editing that text to cut the audio.
+start or a point made twice looks like any other sentence.
 
 **In Descript** you cut by deleting text. Remove filler words lists each detected filler with a
 timestamp and preview, for English transcripts. Edit for Clarity removes "unnecessary or off-topic
@@ -69,8 +61,8 @@ filled pauses, false starts, hedges and repetition, including the same point mad
 words. There is no word list, every cut stays on screen struck through, and any word can go back.
 It has been tested on English speech.
 
-**Generated speech.** Descript's Regenerate types new words into an authorised voice clone.
-Audacity's pages describe no speech generation. Paraphrase **never generates speech**:
+**Generated speech.** Descript's Regenerate types new words into an authorised voice clone, and it
+also offers stock AI speakers. Paraphrase **never generates speech**:
 a word you never said cannot appear in an export.
 
 ## Pricing
@@ -78,9 +70,8 @@ a word you never said cannot appear in an export.
 Checked on 17 October 2026. We have not converted currencies.
 
 **Audacity** says it "has always been and will always remain free for everyone", with "No
-subscription required". The costs we found are optional extras: paid Audacity Cloud storage on
-audio.com, and MuseHub add-ons, which Audacity describes as "free and paid options". We could not
-read those prices, so we do not quote them. See
+subscription required". The costs are optional extras: paid Audacity Cloud storage on audio.com,
+and MuseHub add-ons, which Audacity describes as "free and paid options". See
 [Is Audacity free?](/blog/audacity-pricing)
 
 **Descript** shows `$` prices without naming the currency: a free plan, then Hobbyist $16 per person
@@ -125,16 +116,11 @@ The pairwise post is [Paraphrase vs Audacity](/blog/paraphrase-vs-audacity), and
 
 ## Why trust this comparison
 
-Audacity facts come from audacityteam.org (home page, features, FAQ, download, OpenVINO download and
-Audacity 4 pages) and support.audacityteam.org (editing, export, FFmpeg and noise reduction
-articles). Descript facts come from descript.com/pricing and /features and its help centre articles
-on filler words, Edit for Clarity, Regenerate, platforms and audio export. All were read on 17
-October 2026, and we have used neither hands-on for this post. Audacity's pages still disagree in
-places, and we have followed the more cautious one: its transcription page says "Free for Windows,
-Mac & Linux" while the plugin download page warns the plugins "are not yet compatible with the
-latest Audacity version" and offers only Windows and macOS builds for 3.7.1; and Loudness
-Normalization, the Notch Filter and Nyquist plugins are documented in the Audacity 3 manual but not
-confirmed for Audacity 4, so we do not claim them for the current version.
+Audacity facts come from audacityteam.org (home page, features, FAQ, download and Audacity 4 pages)
+and support.audacityteam.org (editing, export, FFmpeg and noise reduction articles). Descript facts
+come from descript.com/pricing and /features and its help centre articles on filler words, Edit for
+Clarity, Regenerate, platforms and audio export. All were read on 17 October 2026. Paraphrase facts
+come from our own code and pricing, checked the same day.
 
 Paraphrase is ours, so this is not neutral. Where it leads: it never generates speech, every cut its
 AI proposes is reviewable word by word, and re-editing is free. Where it does not: it is the

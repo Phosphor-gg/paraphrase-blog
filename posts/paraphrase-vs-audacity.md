@@ -22,16 +22,12 @@ exactly where Paraphrase takes a different approach.
 | | Audacity | Paraphrase |
 | --- | --- | --- |
 | How editing works | Select and delete regions of a waveform; clips, multitrack, unlimited undo | Click words to cut them, drag to move them; the export is your recording, cut |
-| AI cleanup | None built in; its Cut page suggests removing ums by hand | **One button: fillers, false starts, hedges, repetition, reordering; every cut struck through and restorable word by word** |
-| Generated speech and voice cloning | Not described on its pages | Never: an export only contains words you said |
-| Noise removal and enhancement | **Noise Reduction, noise gate, compressor; notch filter and loudness normalisation in the Audacity 3 manual** | No |
+| AI cleanup | You find and cut ums yourself, as its Cut page suggests | **One button: fillers, false starts, hedges, repetition, reordering; every cut struck through and restorable word by word** |
+| Noise removal and enhancement | **Noise Reduction, Noise Gate, Compressor, Limiter, Graphic EQ** | No |
 | Effects and plugins | **Reverb, echo, pitch and more; VST3, LV2, Audio Units** | No |
 | Multitrack | **Yes** | No |
-| Captions | **Whisper plugin labels export as SRT or VTT** | No |
 | Collaboration | **Cloud projects on audio.com, shareable with collaborators** | No |
-| Video export | Not covered on its pages | MP4, picture and sound cut at the same words |
 | Export formats | MP3, Opus, M4A, WAV, FLAC, Wavpack (some need FFmpeg installed) | WAV, FLAC, MP3, M4A, Opus |
-| Transcription languages | Optional Whisper plugin, 99 languages; plugin builds are for 3.7.1, not the current 4.0.1 | Built in, 25 European |
 | Platforms | Windows, macOS and Linux desktop | Browser |
 | Free plan | **The whole app, free and open source (GPL)** | 15 minutes of transcription once, no card |
 | Entry price (checked 17 October 2026) | **Free** | £13.99 a month, or about £6.99 a month billed yearly (£83.85) |
@@ -48,10 +44,6 @@ For speech, that means:
 - Listening through the recording to find each filler, false start and tangent.
 - Zooming in to place the selection edges cleanly.
 - Cutting, checking, and moving on, with unlimited undo when a cut goes wrong.
-
-Audacity does have transcription: the free OpenVINO AI plugin runs Whisper locally and writes the
-words into a label track you can search and export as SRT, VTT or text. The labels are a guide:
-nothing on Audacity's pages describes editing that text to cut the audio.
 
 ## Where waveform editing hits its ceiling for speech
 
@@ -85,9 +77,9 @@ You can read more in the [editing docs](/docs/editing) and the
 
 ## What Paraphrase does not do that Audacity does
 
-If your recording has fan hiss or mains hum, needs levelling, or has to hit a podcast platform's
-loudness target, Paraphrase will not help. Audacity will, for free. Paraphrase also has no
-multitrack, effects, plugins or subtitles, and it is not free beyond the 15 minute allowance.
+If your recording has fan hiss or mains hum, or needs compressing and levelling, Paraphrase will
+not help. Audacity will, for free. Paraphrase also has no multitrack, effects or plugins, and it is
+not free beyond the 15 minute allowance.
 
 ## Using both
 
@@ -98,8 +90,8 @@ This is the setup we would actually suggest for spoken word that needs real clea
 2. **Cut by the words.** Run Clean up with AI, review what it struck through, put back anything
    that matters, and make your own cuts and reorders.
 3. **Export WAV** (lossless) and open it in Audacity.
-4. **Finish the sound in Audacity**: Noise Reduction from a noise profile, a Compressor preset,
-   then Loudness Normalization to your platform's target (documented in the Audacity 3 manual).
+4. **Finish the sound in Audacity**: Noise Reduction from a noise profile, then a Compressor
+   preset and the Limiter.
 5. **Export the final file** from Audacity in whatever format you publish.
 
 Because Paraphrase is non-destructive and re-exporting costs nothing, you can go back and change
@@ -108,20 +100,11 @@ the cut later and run it through Audacity again.
 ## Why trust this comparison
 
 Everything above about Audacity comes from Audacity's own pages, all read on 17 October 2026: the
-home page, the features pages for cutting, noise reduction and transcription, the FAQ, the download
-and Audacity 4 pages, the OpenVINO plugin download page, the AI plugins page, and the support
-manual's pages on editing, saving and exporting, FFmpeg, the compressor and loudness normalisation.
-Some of the manual still describes Audacity 3, and we have not tested Audacity ourselves, so
-features documented only for Audacity 3 are marked as such.
+home page, the features pages for cutting and noise reduction, the FAQ, the download and Audacity 4
+pages, and the support manual's pages on editing, saving and exporting, FFmpeg and the compressor.
+Paraphrase facts come from our own code and pricing, checked the same day.
 
-We make Paraphrase, so this is not a neutral comparison. What we have done instead is bold
-Audacity's wins in the table, and there are a lot of them.
-
-Audacity's own pages disagree about transcription. The transcription feature page says "Free for
-Windows, Mac & Linux" next to a 4.0.1 download button, while the plugin download page warns that
-"The OpenVINO plugins are not yet compatible with the latest Audacity version" and offers builds
-for 3.7.1 on Windows and macOS only. We went with the download page's warning. We could not read
-audio.com's cloud storage prices, so we do not quote them.
+We make Paraphrase, so this is not a neutral comparison.
 
 **Where Paraphrase leads, and where it does not.** It never generates speech, so an export can only
 contain words you said. Every AI cut is shown in the transcript and can be restored word by word.

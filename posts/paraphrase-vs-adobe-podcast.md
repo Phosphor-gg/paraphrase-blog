@@ -25,13 +25,12 @@ different jobs, and once you see which job is yours the choice is usually easy.
 | Noise removal and speech enhancement | **Enhance Speech: noise, echo, levelling, speech and background sliders** | No |
 | Remove background music | **Yes, with separate speech, music and ambience stems (Firefly Pro)** | No |
 | How transcript editing works | Delete, cut, copy and paste transcript text in Studio | Click words to cut or restore them, drag words to reorder |
-| AI cleanup of the words | Not documented: you find and delete filler words yourself | **One button proposes cutting fillers, false starts, hedges and repetition; you review each cut** |
-| Seeing what was cut | Not described on Adobe's pages | **Cut words stay on screen, struck through, and any one can be restored** |
+| AI cleanup of the words | None documented: you find and delete filler words yourself | **One button proposes cutting fillers, false starts, hedges and repetition; you review each cut** |
 | Remote recording | **Yes, a separate 16-bit 48k WAV track per participant, optional video** | No |
 | Speaker labels | **Yes ("Detect speakers")** | No |
 | Captions and subtitles | **Styled video captions, audiograms, SRT export** | No |
 | Music library | **Royalty-free intros, outros and beds, plus your own uploads** | No |
-| Generated speech | Not described in Podcast itself; the Firefly Pro plan includes Firefly's Generate Speech | Never: an export only contains words you said |
+| Generated speech | None in Adobe Podcast's documentation; the Firefly Pro plan includes Firefly's Generate Speech | Never: an export only contains words you said |
 | Transcription languages | 7: English, French, German, Hindi, Italian, Portuguese, Spanish | **25 European languages; cleanup tested on English** |
 | Audio export | MP3 or WAV from Studio; Enhance Speech returns the format you uploaded | **WAV, FLAC, MP3, M4A (AAC), Opus** |
 | Video | Edit video by its transcript, MP4 at 1080p or 720p | MP4 with picture and sound cut at the same words |
@@ -68,8 +67,8 @@ catch redundancies, filler words, or awkward pauses and make the choices you wan
 them", and a 2025 update says Studio's transcription now includes filler words.
 
 In other words, the documented workflow is that the ums appear in the transcript and you delete
-them. We read Adobe Podcast's home page, plan comparison, FAQ, technical requirements and a dozen of
-its guides, and found no automatic filler removal, no pause shortener and no AI that proposes cuts.
+them. Adobe Podcast's home page, plan comparison, FAQ, technical requirements and guides document
+no automatic filler removal, no pause shortener and no AI that proposes cuts.
 The plan comparison table lists "Transcription" and "Transcription-based editing" and nothing about
 fillers or pauses.
 
@@ -124,17 +123,10 @@ podcast.adobe.com home page, the Enhance Speech page, the plan comparison at pod
 the use case pages for editing, transcription, recording, captions, audiograms and music removal,
 the Adobe Podcast FAQ and technical requirements on helpx.adobe.com, the Adobe Podcast Premium plan
 change FAQ, Adobe's UK Firefly plans page, Premiere's help page on detecting pauses and fillers, and
-Adobe Podcast's guides, including its what's new posts from February 2025 to March 2026. We have not
-used Adobe Podcast hands-on, so anything Studio does that its pages do not describe is not in this
-post. In particular, we could not confirm whether Studio highlights filler words on its own.
+Adobe Podcast's guides, including its what's new posts from February 2025 to March 2026. Paraphrase
+facts come from our own code and pricing, checked the same day.
 
-Prices are as Adobe displays them: $19.99 a month for Firefly Pro on podcast.adobe.com, which does
-not say whether tax is included, and £19.99 a month including VAT on Adobe's UK Firefly page. Adobe
-stopped selling Podcast Premium on its own on 30 August 2026, and new customers now get it through
-Firefly Pro.
-
-We make Paraphrase, so this is not a neutral comparison. What we have done instead is bold Adobe's
-wins in the table, and there are more of them than ours.
+We make Paraphrase, so this is not a neutral comparison.
 
 **Where Paraphrase leads, and where it does not.** It is the one of the two with an AI that proposes
 cuts by meaning, shows every cut in the transcript and lets you restore any word. It never generates

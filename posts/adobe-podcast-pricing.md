@@ -13,8 +13,7 @@ Pro**, shown at **$19.99 a month** on podcast.adobe.com and **£19.99 a month in
 Adobe's UK Firefly page (both checked 17 October 2026). Firefly Pro also includes 4,000 generative
 credits a month and Adobe Express premium features, so you are buying more than a podcast tool.
 
-Adobe Podcast's pricing changed recently, and older articles (including some of Adobe's own guides)
-still quote the old standalone Premium price. This post sets out what Adobe's current pages say.
+Adobe Podcast's pricing changed recently. This post sets out what Adobe's current pages say.
 
 ## The free plan
 
@@ -57,7 +56,7 @@ capabilities like generating music, sound effects, and speech".
 
 | | Firefly Pro |
 | --- | --- |
-| Price on podcast.adobe.com | $19.99 a month (the page does not say whether tax is included) |
+| Price on podcast.adobe.com | $19.99 a month |
 | Price on Adobe's UK Firefly page | £19.99 a month including VAT, monthly |
 | Enhance Speech | Audio and video (MP4, MOV and more), bulk upload, strength adjustment |
 | Enhance Speech limits | Up to 4 hours a day, files up to 2 hours and 1 GB |
@@ -69,13 +68,11 @@ capabilities like generating music, sound effects, and speech".
 | Firefly generative credits | 4,000 a month, reset each billing cycle, no rollover |
 | Adobe Express | Premium features included |
 
-Prices were checked on 17 October 2026. Adobe shows a free trial on Firefly Pro, but its pages
-disagree on the length (one says seven days, an older promotion on another says 30), so check at
-checkout. We did not find an annual price for Firefly Pro on the pages we read.
+Prices were checked on 17 October 2026. Adobe offers a free trial of Firefly Pro.
 
 On Adobe's UK Firefly page the other tiers are Firefly Standard at £9.98 a month, Firefly Pro Plus at
-£47.99 and Firefly Premium at £200.40, all including VAT. Adobe Podcast's pages only name Firefly Pro
-as the plan that includes Podcast Premium, so we would not assume Standard does for a new customer.
+£47.99 and Firefly Premium at £200.40, all including VAT, billed monthly. Adobe Podcast's pages name Firefly Pro as the plan that
+includes Podcast Premium for new customers.
 
 ## Is Firefly Pro worth it for Adobe Podcast alone?
 

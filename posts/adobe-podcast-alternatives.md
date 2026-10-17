@@ -7,9 +7,8 @@ description: "Adobe Podcast pairs Enhance Speech with a transcript editor and a 
 # Adobe Podcast alternatives: the honest options for enhancing and editing speech
 
 **Bottom line:** if you want what Enhance Speech does (upload a voice recording, get it back with
-the noise and echo gone), the alternatives that clean the sound are **Descript**, **Riverside**,
-**Podcastle (now Async)**, **Cleanvoice**, **CapCut** and **Audacity**, and we have not tested how
-any of them sounds against Adobe's. If you want an AI to **clean up the words**, cutting filler,
+the noise and echo gone), the alternatives that clean the sound are **Descript**, **Riverside** and
+**Audacity**. If you want an AI to **clean up the words**, cutting filler,
 false starts and repeated points rather than noise, **Paraphrase** does that job, and it pairs with
 Adobe Podcast rather than replacing it.
 
@@ -39,19 +38,19 @@ want a timeline, effects or AI voices end up looking at larger editors.
 
 ## The alternatives at a glance
 
-| Tool | What it is | Cleans the sound | Edits by transcript | Removes fillers for you | Generates speech | Free to start |
-| --- | --- | --- | --- | --- | --- | --- |
-| Adobe Podcast | Speech enhancer plus browser recording and editing studio | Yes (Enhance Speech) | Yes | Not documented | Not in Podcast itself | Yes, daily limits |
-| Paraphrase | Transcript editor for your own recording | No | Yes | AI proposes cuts by meaning, you review each one | Never | 15 minutes of transcription, no card |
-| Descript | Text-based audio and video editor | Yes (Studio Sound) | Yes | Yes (Remove Filler Words, English) | Yes (AI speech, voice clones) | Yes, Free plan |
-| Riverside | Recording platform with a text-based editor | Yes (noise removal, Magic Audio) | Yes | Yes, plus pause removal | Yes (AI Voice, labelled experimental) | Yes, Free plan |
-| Podcastle (now Async) | Creator platform with an audio editor | Yes (Magic Dust) | Yes (Text Mode) | Yes, plus silence removal | Yes (AI voices, voice cloning) | Yes, Free plan |
-| Cleanvoice | Automatic speech clean-up service | Yes (noise, echo, loudness) | No, it works on sound | Yes, by sound | Not described on its pages | 30 minutes, no card |
-| CapCut | Video editor for desktop, web and mobile | Yes (noise reduction, voice enhancer) | Yes | Yes | Yes (text to speech) | Yes |
-| Audacity | Free, open source desktop audio editor | Yes (Noise Reduction) | No, waveform editing | No, by hand | Not described on its site | Free |
+| Tool | What it is | Cleans the sound | How you edit | Removes fillers for you | Free to start |
+| --- | --- | --- | --- | --- | --- |
+| Adobe Podcast | Speech enhancer plus browser recording and editing studio | Yes (Enhance Speech) | Delete words from the transcript | No automatic removal documented | Yes, daily limits |
+| Paraphrase | Transcript editor for your own recording | No | Click words to cut, drag to reorder | AI proposes cuts by meaning, you review each one | 15 minutes of transcription, no card |
+| Descript | Text-based audio and video editor | Yes (Studio Sound) | Edit the transcript | Yes (Remove Filler Words, English) | Yes, Free plan |
+| Riverside | Recording platform with a text-based editor | Yes (noise removal, Magic Audio) | Edit the transcript | Yes, plus pause removal | Yes, Free plan |
+| Audacity | Free, open source desktop audio editor | Yes (Noise Reduction) | Select and cut on the waveform | By hand, as its Cut page suggests | Free |
 
-Everything about other tools comes from their own pages, read on 17 October 2026, and is recorded in
-our research notes. We have not quoted their prices here; check each one before you choose.
+On generated speech: Descript offers AI speech including voice clones, and Riverside has an AI
+Voice feature it labels experimental. Adobe Podcast's own pages describe none in Podcast itself,
+though the Firefly Pro plan that now carries Podcast Premium includes Firefly's "Generate Speech".
+Paraphrase never generates speech. Everything about other tools comes from their own pages, read on
+17 October 2026.
 
 ## Alternatives that also clean the sound
 
@@ -74,31 +73,13 @@ suggests segments to remove. It transcribes around 100 languages.
 
 **Best for:** interview shows that record remotely and want more automation in the edit.
 
-### Podcastle, now Async
+### Audacity
 
-podcastle.ai now redirects to async.com, which describes itself as "Formerly Podcastle". Its audio
-editor has a Text Mode for editing by transcript, automatic filler detection with remove-all,
-silence removal and Magic Dust, its audio enhancer. It also offers over 1,000 AI voices and voice
-cloning.
+The free, open source desktop audio editor for Windows, macOS and Linux, with a built-in Noise
+Reduction effect that works from a noise profile, plus a Noise Gate and Compressor. You edit the
+waveform by hand.
 
-**Best for:** a recording and editing suite with AI voices included.
-
-### Cleanvoice
-
-Cleans recordings by sound rather than by transcript: fillers, stutters, mouth sounds, breaths, long
-silences, background noise and echo, in one automatic pass. Its filler removal covers 20 or more
-languages. You upload, process and download; to change individual edits it documents exporting
-markers to a desktop editor.
-
-**Best for:** hands-off clean-up of lots of files.
-
-### CapCut and Audacity
-
-CapCut is a video editor with transcript-based editing, filler word detection, noise reduction and a
-voice enhancer, plus text to speech. Audacity is the free, open source desktop audio editor for
-Windows, macOS and Linux, with a built-in Noise Reduction effect; you edit the waveform by hand.
-
-**Best for:** social video (CapCut), or full manual control at no cost (Audacity).
+**Best for:** full manual control at no cost.
 
 ## What you will struggle to replace
 
@@ -126,7 +107,7 @@ put any word back. The export is your original recording with pieces cut out, in
 or Opus, or MP4 for a video. It never generates speech.
 
 It is **not an Adobe Podcast replacement**. It transcribes 25 European languages, and the cleanup has
-been tested on English speech. Premium is £13.99 a month with 120 hours of audio included; the
+been tested on English speech. Premium is £13.99 a month with 120 hours of audio included (checked 17 October 2026); the
 [pricing page](/pricing) has the annual and three year options.
 
 **Best for:** running alongside Enhance Speech. Enhance the sound in Adobe Podcast, cut the words in
@@ -138,8 +119,8 @@ Paraphrase, or the other way round. It works for [podcasts](/podcast-editing),
 Often not. If your recordings come back from Enhance Speech sounding right and you are happy
 deleting filler words by hand, Adobe Podcast is doing its job, and the free plan may be all you need.
 
-Switching makes sense if you want a full editor with filler removal built in (Descript, Riverside,
-Podcastle, CapCut), a hands-off clean-up by sound (Cleanvoice), manual control for free (Audacity),
+Switching makes sense if you want a full editor with filler removal built in (Descript, Riverside),
+manual control for free (Audacity),
 or an AI that proposes cuts by meaning while you keep the final say (Paraphrase). There is a
 [side by side comparison](/blog/paraphrase-vs-adobe-podcast) of the last of those, and our
 [Adobe Podcast review](/blog/adobe-podcast-review) covers what it does well in more detail.

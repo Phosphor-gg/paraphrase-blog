@@ -7,7 +7,7 @@ description: "Riverside is a remote recording studio with a text-based editor an
 # Riverside alternatives: the honest options for editing your voice
 
 **Bottom line:** if you record remote interviews and need separate, locally recorded tracks for
-every guest, only **Descript** (Rooms) and **Podcastle** (now Async) on this list also record
+every guest, only **Descript** (Rooms) and **Adobe Podcast** (Studio) on this list also record
 that way, and staying with Riverside is often the simplest answer. If you mostly record yourself
 and Riverside is really your editor, **Paraphrase** is a narrower tool that edits your own
 recording by its transcript, never generates speech, and has an AI cleanup that proposes the whole
@@ -28,8 +28,8 @@ interviews. If you record solo voiceovers, course lessons or monologue episodes,
 for a studio you do not open.
 
 **The price is set by what the platform does.** Pro was £35 a month, or £24 a month billed
-yearly, on Riverside's pricing page as shown to a UK visitor on 17 October 2026. That buys 4K recording,
-hosting, publishing, AI B-roll and more. If you only want to cut ums out of your own voice, that
+yearly, on Riverside's pricing page as shown to a UK visitor on 17 October 2026. That buys 4K
+recording, hosting, publishing, AI B-roll and more. If you only want to cut ums out of your own voice, that
 is a lot of platform. We have covered [what Riverside costs](/blog/riverside-pricing) in detail.
 
 **They want different AI behaviour.** Riverside offers AI Voice, voice clones and VideoDub, which
@@ -38,19 +38,17 @@ in their mouth.
 
 ## The alternatives at a glance
 
-| Tool | What it is | Remote recording | Generates speech | Free option |
-| --- | --- | --- | --- | --- |
-| Riverside | Recording studio and editing platform | Yes, local tracks per guest | Yes (AI Voice, voice clone, VideoDub) | Yes, try 2 hours of multitrack, watermark |
-| Paraphrase | Transcript editor for your own recording | No | No, by design | Yes, 15 minutes of transcription |
-| Descript | Text-based audio and video editor | Yes (Rooms, a separate file per participant) | Yes (AI speech, voice clones) | Yes |
-| Podcastle (now Async) | Creator platform with recording and editing | Yes, listed on its pricing page | Yes (AI voices, voice cloning) | Yes |
-| CapCut | General video editor | Not a recording studio | Yes (text to speech) | Yes |
-| Cleanvoice | AI audio cleanup service | No | Not what it is for | Free trial |
-| Audacity | Free, open source audio editor | No | Not what it is for | Free |
+| Tool | What it is | Remote recording | Free option |
+| --- | --- | --- | --- |
+| Riverside | Recording studio and editing platform | Yes, local tracks per guest | Yes, try 2 hours of multitrack, watermark |
+| Paraphrase | Transcript editor for your own recording | No | Yes, 15 minutes of transcription |
+| Descript | Text-based audio and video editor | Yes (Rooms, a separate file per participant) | Yes |
+| Adobe Podcast | Speech enhancement and a browser recording and editing studio | Yes, a separate track per speaker | Yes |
+| Audacity | Free, open source audio editor | No | Free |
 
-We kept the other tools' entries to what their own pages said when we read them on 17 October
-2026. Podcastle's pricing page now redirects to Async, whose podcast page is headed "Formerly
-Podcastle", which is worth knowing before you search for it.
+On generated speech: Riverside has AI Voice, voice clones and VideoDub, Descript has AI speech and
+voice clones, and Paraphrase never generates speech. We kept each tool's entry to what its own
+pages said when we read them on 17 October 2026.
 
 ## Like-for-like alternatives to Riverside
 
@@ -65,33 +63,20 @@ that.
 
 **Best for:** people who want an editor first and are happy with AI voice in the toolbox.
 
-### Podcastle (now Async)
+### Adobe Podcast
 
-The other one here, besides Descript, that records remotely. Its pricing page lists remote video and audio
-recording, remote multitrack recording, text-based audio editing, silence removal and a large
-library of AI voices with voice cloning. We could not read its paid prices on that page, so we
-are not quoting them.
+The other one here, besides Descript, that records remote guests. In Adobe Podcast's Studio
+(labelled beta), you share a link, each participant's audio "is captured directly in their browser
+and continuously saved", and you get "separate, high-quality tracks for each speaker" after the
+session. Studio transcribes the recording and you edit by deleting text from the transcript. Its
+other tool, Enhance Speech, removes background noise and echo. There is a free plan with daily
+limits; downloading the original speaker-separated recordings needs the paid plan, which for new
+customers is now Adobe's Firefly Pro, shown at $19.99 a month on podcast.adobe.com on
+17 October 2026. Studio is only supported in Chrome on desktop.
 
-**Best for:** people who want a recording studio and an editor, and want to compare one against
-Riverside directly.
-
-### CapCut
-
-A general purpose video editor rather than a podcast tool. Its site lists automatic captions
-and AI text to speech, and you can try it free online. It is a different shape of product, but if
-your Riverside use is really short social clips, it may be enough.
-
-**Best for:** short-form video where captions and effects matter more than the audio edit.
+**Best for:** people who want remote recording and noise clean-up in the browser.
 
 ## Alternatives that do one job
-
-### Cleanvoice
-
-An AI cleanup service rather than an editor: its pricing page lists removing filler words,
-background noise, mouth sounds, breaths, silence and echo, with pay as you go and subscription
-options and a free trial without a card. You hand it a file and get a cleaner file back.
-
-**Best for:** batch cleanup of finished recordings.
 
 ### Audacity
 
@@ -137,10 +122,10 @@ and no hosting. If you interview guests remotely, you need something that record
 ## What you will struggle to replace
 
 Worth being straight about: **Riverside's local recording is the thing most alternatives here do
-not do** (Descript and Podcastle are the exceptions). Each participant's track is recorded on
+not do** (Descript and Adobe Podcast are the exceptions). Each participant's track is recorded on
 their own device, and Riverside's help centre says "Slow internet should not affect their
 quality." You can download those separate tracks as WAV or MP4 for another editor, 15 hours a
-month on Pro according to the plan card and FAQ.
+month on Pro.
 
 It is also a platform. Hosting, publishing to YouTube and Spotify, live streaming, webinars,
 Magic Clips and show notes all live in one account. If you use several of those, switching means

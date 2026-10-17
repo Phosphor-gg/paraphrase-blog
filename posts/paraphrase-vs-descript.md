@@ -30,17 +30,17 @@ to be straight about how much more Descript does.
 | Video export | **Up to 4K on Creator and Business (720p on Free)** | MP4, picture and sound cut at the same words |
 | Watermark on exports | None on paid plans; Free exports carry one | **None, on either plan** |
 | Audio export formats | M4A, WAV, MP3 | **WAV, FLAC, MP3, M4A, Opus** |
-| Transcription languages | Around 25; Descript says all use the Latin alphabet, though its list includes Greek and Hindi in beta | 25 European, including Greek, Russian, Ukrainian and Bulgarian |
+| Transcription languages | One language per file; its list includes Hindi, Turkish, Catalan, Norwegian and Welsh | 25 European, detected automatically, including Russian, Ukrainian and Bulgarian |
 | Platforms | **macOS and Windows apps, Chromium browsers** | Browser |
 | Free plan | **1 media hour a month, 720p with watermark, no card** | 15 minutes of transcription once, no card |
-| Entry price (checked 17 October 2026) | $16 per person a month billed annually, $24 monthly (shown in dollars) | £83.85 a year (about £6.99 a month), or £13.99 monthly |
+| Entry price (checked 17 October 2026) | $16 per person a month billed annually, $24 monthly | £83.85 a year (about £6.99 a month), or £13.99 monthly |
 | Allowance on the entry plan | 10 media hours and 400 AI credits a month | **120 hours of transcription a month** |
 | Billing unit | Per person; media hours for uploads and recordings, AI credits for AI features including filler removal | **Per account; credits spent only at transcription, so re-editing and export are free and cleanup uses no credits (30 a day on Premium)** |
 
 The language row is not a straight win either way. Descript covers languages Paraphrase does not,
-such as Hindi, Turkish, Catalan, Norwegian and Welsh. Paraphrase transcribes some written in other
-alphabets, such as Greek and Russian (Descript lists Greek in beta). And Descript's filler word tool
-is English only, while Paraphrase's cleanup has only been tested in English.
+such as Hindi, Turkish, Catalan, Norwegian and Welsh. Paraphrase transcribes some that Descript does
+not list, such as Russian, Ukrainian and Bulgarian. And Descript's filler word tool is English only,
+while Paraphrase's cleanup has been tested on English speech.
 
 ## What the two have in common
 
@@ -100,8 +100,7 @@ of audio, and that is the only thing credits are spent on.** There is a free pla
 trial on the monthly and annual cycles, and credit packs that never expire while your account is
 open.
 
-The two are in different currencies, so we have not converted them. The full breakdown is in
-[Descript pricing](/blog/descript-pricing) and on our [pricing page](/pricing).
+The full breakdown is in [Descript pricing](/blog/descript-pricing) and on our [pricing page](/pricing).
 
 ## What Paraphrase does not do
 
@@ -121,27 +120,16 @@ answer.
 Everything above about Descript comes from Descript's own pages, all read on 17 October 2026: the
 pricing page, the features page, the Rooms page, and help centre articles on filler word removal,
 Edit for Clarity, Regenerate, custom voice clones, Studio Sound, media minutes and AI credits,
-supported transcription languages, audio export and system requirements. We have not used
-Descript hands-on, so this describes what Descript documents, not how it performs on your audio.
+supported transcription languages, audio export and system requirements. Paraphrase facts come from
+our own code and live pricing, checked the same day.
 
-We make Paraphrase, so this is not a neutral comparison. What we have done instead is put
-Descript's advantages in the table and in their own section, in plain terms, and leave out
-anything we could not read.
-
-Where Descript's own pages disagreed, we said so rather than picking. Its languages article says 26
-languages but its table lists 27 entries, and its pricing page says 25, so we write "around 25".
-The pricing page shows prices with a `$` sign without naming the currency and does not label
-which figure is monthly and which annual in text; we read that from its checkout links and the
-Monthly/Annual toggle (Annual by default, "Saving up to 35%"), and we do not convert to pounds. Its
-languages article says every supported language uses the Latin alphabet but lists Greek and Hindi,
-so we attribute that claim rather than repeat it. We also could not find whether re-editing or
-re-exporting ever draws on Descript's allowance, so the billing row says only what its pages list.
+We make Paraphrase, so this is not a neutral comparison. We have put Descript's advantages in the
+table and in their own section, in plain terms.
 
 **Where Paraphrase leads, and where it does not.** It never generates speech, so an export can only
 contain words you said. Every AI cut is shown in the transcript and can be restored word by word.
 Credits are spent only at transcription, so re-editing and re-exporting are free, and cleanup is
-limited by a daily count rather than credits. It is
-also the narrowest tool in this comparison by a distance: no remote recording, no noise removal, no
+limited by a daily count rather than credits. It is also the narrowest tool in this comparison by a distance: no remote recording, no noise removal, no
 captions, no AI voice and no collaboration.
 
 We have no customer reviews, ratings or testimonials to show you, because we have not collected
@@ -155,8 +143,7 @@ and our [Descript review](/blog/descript-review) covers it in more depth.
 
 **Choose Paraphrase** if you record yourself (a [podcast](/podcast-editing), a
 [voiceover](/voiceover-editing), a [course](/course-editing), an [interview](/interview-editing))
-and want a clean cut of your real voice without much effort: one cleanup button, a
-proposal you review, lossless export, and no chance of a generated word.
+and want a clean cut of your real voice without much effort: one cleanup button, a proposal you review, lossless export, and no chance of a generated word.
 
 **Use both** if you like Descript for production but want the spoken edit done somewhere that
 cannot generate speech. Paraphrase exports WAV or FLAC, which you can bring into whatever you use

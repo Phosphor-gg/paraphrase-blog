@@ -14,8 +14,8 @@ Podcast is a strong choice. If they ramble, pair it with something that edits th
 
 A note on method before anything else. This review is built from Adobe's own documentation, read on
 17 October 2026: podcast.adobe.com, its plan comparison, the Adobe Podcast FAQ and technical
-requirements, the plan change FAQ and Adobe Podcast's guides. **We have not used Adobe Podcast
-hands-on**, so we describe what Adobe documents, not how it sounds on a particular recording.
+requirements, the plan change FAQ and Adobe Podcast's guides. We have not used Adobe Podcast
+hands-on, and we have no customer reviews to report.
 
 ## What Adobe Podcast is
 
@@ -72,11 +72,10 @@ and that you should "pick and choose which ones to cut". A 2025 update says tran
 includes filler words, and another guide says you can "cut awkward pauses or tighten up an answer
 just by editing the transcript".
 
-That is a sensible manual workflow. What we could not find on any Adobe Podcast page is an
-automatic step: no filler word removal, no "remove all", no pause or silence shortener, and nothing
-that reads the transcript and suggests cuts. The plan comparison lists transcription and
-transcription-based editing with no filler or pause row. We could not confirm from Adobe's pages
-whether Studio highlights fillers in the transcript on its own.
+That is a sensible manual workflow. Adobe Podcast's pages do not document an automatic step: no
+filler word removal, no "remove all", no pause or silence shortener, and nothing that reads the
+transcript and suggests cuts. The plan comparison lists transcription and transcription-based
+editing with no filler or pause row.
 
 Adobe does have automatic filler and pause detection elsewhere: **Premiere Pro's** Text-Based
 Editing can find fillers and pauses and "Delete all". That is Adobe's desktop video editor, a

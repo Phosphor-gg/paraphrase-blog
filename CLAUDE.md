@@ -30,11 +30,24 @@ it has to survive being quoted back at us.
   help centre, product pages), read in the session that writes the post. Each
   competitor has a `research/<name>.md` with every fact, the URL it came from
   and the date it was read. A post only states what its research file sources.
-- If a page was unreachable, say what the source was and how confident it is,
-  or leave the detail out. Do not assert specific limits, prices or feature
-  names you could not read.
+- If a page was unreachable, leave the detail out. Do not assert specific
+  limits, prices or feature names you could not read.
 - Prices change. Every pricing claim says when it was checked.
 - Prefer a concrete, checkable statement to a superlative.
+
+## Only competitors we can be sure of
+
+Do not have an article about a competitor unless every core fact about it is
+confirmed on its own live pages: what it costs, and whether it does the thing
+the article compares. If either is unconfirmed, or the vendor's own pages
+contradict each other on it, the competitor gets no article and is not listed
+in roundups. CapCut, Podcastle (now Async) and Cleanvoice were removed on
+17 October 2026 for this reason.
+
+For the competitors we do cover, a fact that cannot be settled is left out.
+Posts do not say "we could not verify" or "their pages disagree"; they state
+what is confirmed and nothing else. Prices are read from the rendered page,
+not its raw HTML, which can hold placeholder figures a script replaces.
 
 ## Tone for comparisons
 

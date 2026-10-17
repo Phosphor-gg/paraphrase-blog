@@ -14,8 +14,7 @@ narrow editor such as Paraphrase fits.
 
 We make a competing editor, so treat this as an interested party's assessment. **We have not used
 Riverside hands-on for this review.** Every claim below comes from Riverside's own pricing page
-and help centre, read on 17 October 2026. Where its pages disagree with each other or did not say,
-we say so rather than guess.
+and help centre, read on 17 October 2026.
 
 ## What Riverside is
 
@@ -23,8 +22,8 @@ Riverside is a remote recording studio that has grown into a content platform. I
 lists timeline editing, transcript editing, captions, AI tools, layouts, music and sound effects,
 motion graphics and exports, and the pricing page adds podcast hosting, publishing, live
 streaming, webinars, newsletters and a creator website. There is a free plan, and Pro, the
-cheapest paid plan, was £35 a month or £24 a month billed yearly as shown to a UK visitor on 17
-October 2026.
+cheapest paid plan, was £35 a month or £24 a month billed yearly as shown to a UK visitor on
+17 October 2026.
 
 ## What Riverside does well
 
@@ -54,11 +53,11 @@ Co-Creator suggest "redundant takes, chatter, and technical discussions" as comm
 discard. Pause removal has a slider for how aggressive it is.
 
 **It is one account for everything.** Hosting, publishing to YouTube and Spotify, Magic Clips,
-show notes and, from the Grow plan up, live streaming are in the same place as the recording. Fewer tools to stitch
-together.
+show notes and, from the Grow plan up, live streaming are in the same place as the recording.
+Fewer tools to stitch together.
 
-**Transcription covers a lot of languages.** The help centre lists roughly a hundred, from English
-and Spanish to Welsh and Yoruba.
+**Transcription covers a lot of languages.** The help centre says it transcribes "dozens of
+languages", from English and Spanish to Welsh and Yoruba.
 
 ## Where Riverside runs out
 
@@ -74,19 +73,16 @@ paying for a studio you do not use. There is more on this in our
 to 720p video, and a watermark on exports (on audio, a "Powered by Riverside" track at the start).
 
 **Separate track downloads are capped below Business.** Recording is unlimited, but downloading
-per-participant tracks is limited to 15 hours a month on Pro by the plan card and FAQ. The help
-centre's download hours article also counts the allowance against hours recorded and says live
-streaming counts towards it, so read it before relying on the cap.
+per-participant tracks is limited to 15 hours a month on Pro, 20 on Grow and 25 on Webinar.
 
 **Some of its AI generates speech.** On paid plans, AI Voice turns text into audio "that simulates
 your speaking voice", voice clones generate audio from a script, and VideoDub replaces up to two
-words at a time with generated audio and matching lip movement. Riverside documents limits and consent steps for these, and
-plenty of people want them. If you would rather your edit could only ever contain words you
+words at a time with generated audio and matching lip movement. Riverside documents limits and
+consent steps for these, and plenty of people want them. If you would rather your edit could only ever contain words you
 actually said, these features are something to leave alone rather than a reason to choose it.
 
 **The AI cleanup is several tools.** Filler words, pauses and Find Fluff are separate tools in the
-editor, each applied and reviewed on its own. We have not tested how they behave together, so we are not judging the
-results, only noting the shape.
+editor, each applied and reviewed on its own.
 
 **Third-party AI is involved.** Riverside's AI page says it uses "third-party AI sub-processors and
 our own in-house AI", names OpenAI, Eleven Labs and Heygen among them, and says those

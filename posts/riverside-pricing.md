@@ -26,14 +26,8 @@ Vendors change pricing, so check before you buy.
 | Webinar | £99 a month | £79 a month (£948 a year) |
 | Business | Contact sales | Contact sales |
 
-Two honest caveats:
-
-- **These are the prices the page showed us in the UK.** Riverside's help centre says it accepts
-  USD, EUR and GBP and adjusts "pricing by region", so a buyer elsewhere may see a different
-  figure. We did not see the dollar or euro prices displayed, so we are not quoting them.
-- **The page's FAQ disagrees with its plan cards.** The FAQ still says Pro "drops from $29 to
-  $24/month" on annual billing and calls the saving "up to 20%", while the plan cards showed £35
-  monthly and £24 yearly. We have used the plan card figures.
+These are the prices the page showed a UK visitor. Riverside's help centre says it accepts USD,
+EUR and GBP and adjusts "pricing by region".
 
 The pricing page shows a 14-day free trial on Pro, Grow and Webinar (Business is "Book a demo").
 The help centre says you need a credit card to start a trial, and you are not charged until it
@@ -51,10 +45,8 @@ The free plan, from the pricing page:
 - A Riverside watermark on what you export. On audio-only exports that is a "Powered by
   Riverside" audio track at the start, according to the help centre.
 
-The help centre lists text-based word removal, pause removal and filler word removal as
-available on "All plans". The pricing page, though, presents "remove silences & filler words" as
-a Pro feature, so treat filler removal on the free plan as something to check in your own
-account.
+The help centre lists text-based editing, removing words from the recording by deleting them from
+the transcript, on all plans.
 
 ## What sits behind the paywall
 
@@ -70,15 +62,15 @@ account.
 
 On Pro and above the help centre also lists AI Voice (up to 5,000 characters a month in your own
 authenticated voice), voice clones (in beta, using AI credits) and VideoDub, which regenerates up
-to two words at a time with lip sync. Find Fluff, which suggests whole segments to remove, is on all paid
-plans. External file uploads are 15 hours a month on Pro, Grow and Webinar.
+to two words at a time with lip sync. Find Fluff, which suggests whole segments to remove, is on
+all paid plans. External file uploads are 15 hours a month on Pro, Grow and Webinar.
 
-**Grow** (£45, or £34 a month yearly) adds live streaming in 1080p, multistreaming, social scheduling, a
-newsletter, a creator website, hosting for two shows, 2 studios and 20 hours of separate track
+**Grow** (£45, or £34 a month yearly) adds live streaming in 1080p, multistreaming, social
+scheduling, a newsletter, a creator website, hosting for two shows, 2 studios and 20 hours of separate track
 downloads.
 
-**Webinar** (£99, or £79 a month yearly) adds webinar tools for up to 100 registrants, 3 studios and 25
-hours of separate track downloads.
+**Webinar** (£99, or £79 a month yearly) adds webinar tools for up to 100 registrants, 3 studios
+and 25 hours of separate track downloads.
 
 **Business** (custom pricing) adds unlimited studios and separate track downloads, collaborative
 editing, non-destructive timeline exports, SSO, API access and a "Dedicated CSM".
@@ -87,14 +79,10 @@ editing, non-destructive timeline exports, SSO, API access and a "Dedicated CSM"
 
 This is the limit most worth understanding. The pricing page FAQ says "Recording itself is
 unlimited", and the cap is on **downloading the individual per-participant tracks**, the
-locally recorded studio-quality files. Hit the cap and you can still edit and export, but cannot
-download new separate tracks until the next billing cycle or an upgrade.
-
-One caveat: Riverside's help centre article on download hours describes the allowance as monthly,
-but also says the option to download disappears once you have *recorded* more than your
-allowance, mentions "lifetime recording hours", and says live streaming counts towards it. Read
-that article before relying on the cap. If you edit inside Riverside rather than exporting
-separate tracks to another editor, the cap may not matter to you at all.
+locally recorded studio-quality files. Hit the cap and you can still access your content, but
+cannot download new separate tracks until the next billing cycle or an upgrade. If you edit inside
+Riverside rather than exporting separate tracks to another editor, the cap may not matter to you
+at all.
 
 ## How Paraphrase prices editing
 

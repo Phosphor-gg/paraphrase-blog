@@ -1,7 +1,7 @@
 ---
 title: "Is Audacity free? What it costs and what it does not do"
 date: 2026-10-17
-description: "Audacity is free and open source, with no paid tier for the editor. Here is what is genuinely free, where money can come in (cloud storage, MuseHub add-ons), and what the free editor does not do for spoken word."
+description: "Audacity is free and open source, with no paid tier for the editor. Here is what is genuinely free, where money can come in (cloud storage, MuseHub add-ons) and what the free editor does not do for spoken word."
 ---
 
 # Is Audacity free? What it costs and what it does not do
@@ -35,11 +35,9 @@ A lot, on the processing side:
 - **Noise Reduction.** Select a few seconds of background noise, get a noise profile, then apply it
   to the rest. Audacity says it works best on steady noise: hiss, fan noise, 50 or 60 Hz hum,
   buzzing.
-- **Noise Gate**, for quiet gaps, and a **Notch Filter** for a hum at one frequency (the Notch
-  Filter is documented in the Audacity 3 manual).
+- **Noise Gate**, which silences audio below a volume threshold.
 - **Compressor**, as a destructive or realtime effect, with factory presets.
-- **Loudness Normalization** to a LUFS target, which the Audacity 3 manual describes as the
-  loudness "required by podcast platforms". We could not find it documented for Audacity 4 yet.
+- **Limiter, Graphic EQ and Filter Curve**, redesigned for Audacity 4.
 - **Other effects**: reverb, echo, delay, distortion, pitch, speed, reverse and vocal remover.
 - **Plugins.** Audacity 4 loads VST3, LV2 and Audio Units plugins.
 - **Export** to formats including MP3, WAV, FLAC, Opus and M4A (AAC). M4A needs FFmpeg, which
@@ -50,26 +48,21 @@ A lot, on the processing side:
 None of these are required to use Audacity.
 
 **Cloud storage on audio.com.** Audacity can save projects to audio.com, which Audacity calls its
-"online companion", with backups, versioning and sharing. The February 2024 announcement said "we
-will offer 5 projects completely free, but charge a small fee for usage beyond this amount", and
-the FAQ refers to people who "signed up for additional Audacity Cloud storage". We could not read
-audio.com's subscription page on 17 October 2026, so we are not quoting its current prices or free
-allowance. Check it yourself if you plan to rely on cloud saving.
+"online companion", with backups, versioning and sharing. Audacity's FAQ refers to people who
+"signed up for additional Audacity Cloud storage", so extra cloud storage is something you pay
+for. Saving to your own disk costs nothing.
 
 **MuseHub add-ons.** Audacity's site links to MuseHub, which it calls "the official distributor of
 Audacity". MuseHub itself is optional (you can download Audacity directly) and Audacity says
 installing through it gives you some free extras, including Muse FX effects plugins. Audacity 4's
-Get Effects browser lists MuseHub plugins "Including free and paid options". Audacity's site also
-promotes plugins including the Soap Voice Clean & Capture Bundle (described as able to "Clean up
-spoken voice and create instant transcripts"), Speaker Splitter Pro, Trinity EQ and Graillon 3. We
-could not read the MuseHub pages to confirm which of these are paid or what they cost, so we are
-not stating it.
+Get Effects browser lists MuseHub plugins "Including free and paid options", so some add-ons cost
+money and you choose whether to buy them.
 
 **Your time.** This is the real cost for spoken word, and it is the next section.
 
 ## What Audacity does not do for spoken word
 
-Free is not the same as quick. For editing speech, three things are worth knowing before you
+Free is not the same as quick. For editing speech, two things are worth knowing before you
 commit an evening to it.
 
 **You cut on the waveform.** To remove something, you select it by clicking and dragging in the
@@ -77,18 +70,8 @@ waveform, then delete it. Audacity's own Cut page lists removing "ums, coughs, a
 as a use for that command, which means finding each one yourself. On a long interview, that is a
 lot of scrubbing and listening.
 
-**Transcription is a plugin, and currently behind the latest version.** Audacity's transcription
-feature page describes running Whisper "entirely on your own computer" via the free OpenVINO AI
-plugin, with "no minute limits, no subscription", in 99 languages. That is genuinely generous. But
-Audacity's own OpenVINO download page warns that "The OpenVINO plugins are not yet compatible with
-the latest Audacity version", and the builds it links are for Audacity 3.7.1 on Windows and macOS.
-Audacity 3.7.x releases are still on its older versions page, but check the plugin's compatibility
-before relying on it with 4.0.1.
-
-**The transcript does not drive the edit.** Whisper writes words into a label track you can "edit,
-search, and export as SRT subtitles, VTT, or plain text". The feature page does not describe
-deleting a word in that transcript and having the audio follow. The labels help you find things;
-you still cut on the waveform.
+**It is desktop only.** Audacity's FAQ says it is "only available for desktop computers or
+laptops" and that "There is no mobile version of Audacity available."
 
 None of this is a criticism. Audacity is a general audio editor, built for music, restoration,
 podcasts and everything else. Word-level cutting of speech is a narrower job.

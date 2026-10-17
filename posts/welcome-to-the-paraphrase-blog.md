@@ -26,7 +26,7 @@ It also does not try to be a full studio. There is no remote recording, no multi
 
 ## What this blog will cover
 
-- **Honest comparisons** with the tools people already use, Descript, Riverside, Podcastle (now Async), CapCut, Cleanvoice, Adobe Podcast and Audacity among them, including where they are the better choice.
+- **Honest comparisons** with the tools people already use, Descript, Riverside, Adobe Podcast and Audacity, including where they are the better choice.
 - **Pricing breakdowns** that say what each tool costs, what sits behind its paywall and when the prices were checked.
 - **Guides** to editing spoken audio by transcript.
 

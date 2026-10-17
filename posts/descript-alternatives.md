@@ -8,10 +8,10 @@ description: "Descript covers recording, editing by transcript, video, audio cle
 
 **Bottom line:** none of the alternatives below is a like-for-like replacement for Descript, which
 combines transcript editing, video, remote recording, screen recording, captions, audio clean-up
-and AI voices in one product. If you want the remote studio, look at **Riverside**. If you
-only want to cut your own spoken audio by its transcript, with an AI cleanup you review and no
-generated speech, **Paraphrase** does that one job and nothing else. If you use most of what Descript does,
-stay with Descript.
+and AI voices in one product. If you want the remote studio, look at **Riverside**. If noise and
+echo are the problem, look at **Adobe Podcast**. If you only want to cut your own spoken audio by
+its transcript, with an AI cleanup you review and no generated speech, **Paraphrase** does that one
+job and nothing else. If you use most of what Descript does, stay with Descript.
 
 Descript's own feature page puts its core idea plainly: "Text-based editing lets you edit video and audio by editing the transcript."
 Around that it has built a full production suite. People looking for alternatives are usually
@@ -44,19 +44,17 @@ mobile browsers or tablets.
 
 ## The alternatives at a glance
 
-| Tool | What it is | Edits by transcript | Generates speech | Free to start | Best for |
-| --- | --- | --- | --- | --- | --- |
-| Descript | Full audio and video production suite | Yes | Yes (text to speech, voice clones, Regenerate) | Yes, Free plan | Doing everything in one place |
-| Riverside | Remote recording studio with editing | Yes (its help centre lists it on all plans) | Yes, AI Voice on paid plans (labelled experimental) | Yes, Free plan | Recording guests remotely |
-| Podcastle | Podcast recording and editing | Yes, a text-based audio editor | Yes, text to speech | Yes, Free plan | Recording plus AI voices |
-| CapCut | Video editor for social content | Yes, a transcript editing tool | Yes, text to speech | Yes | Short-form video and captions |
-| Cleanvoice | Automatic audio clean-up | No, its FAQ says it does not work from the transcript | Not described on its pages | Free trial | Removing fillers, silence and mouth sounds |
-| Audacity | Free, open source audio editor | No, waveform editing | Not described on its site | Free, always | Hands-on waveform editing at no cost |
-| Paraphrase | Edits your own recording by its transcript | Yes, that is all it does | Never | Yes, 15 minutes | Cutting spoken audio cleanly |
+| Tool | What it is | Edits by transcript | Free to start | Best for |
+| --- | --- | --- | --- | --- |
+| Descript | Full audio and video production suite | Yes | Yes, Free plan | Doing everything in one place |
+| Riverside | Remote recording studio with editing | Yes, on all plans | Yes, Free plan | Recording guests remotely |
+| Adobe Podcast | Browser-based speech enhancement and a recording and editing studio | Yes, in Studio | Yes, Free plan | Cleaning up noisy speech |
+| Audacity | Free, open source audio editor | No, waveform editing | Free, always | Hands-on waveform editing at no cost |
+| Paraphrase | Edits your own recording by its transcript | Yes, that is all it does | Yes, 15 minutes | Cutting spoken audio cleanly |
 
-The other tools' entries are kept deliberately short. We checked each on its own site on
-17 October 2026 and only list what we read there; prices for the others are left out because
-several of their pricing pages were inconsistent or incomplete when we read them.
+On generated speech: Descript has text to speech, voice clones and Regenerate, Riverside has AI
+Voice on paid plans (labelled experimental), and Paraphrase never generates speech. We checked
+each tool on its own site on 17 October 2026.
 
 ## Alternatives that replace part of Descript
 
@@ -71,33 +69,17 @@ participant locally "in up to 4K" with a separate file each, so the two are clos
 
 **Best for:** shows built around remote guests, where recording quality matters more than editing.
 
-### Podcastle
+### Adobe Podcast
 
-A podcast recording and editing tool. Its pricing page (podcastle.ai/pricing currently redirects to
-async.com/pricing) lists a free plan with an hour of remote multitrack recording, a small
-text-to-speech allowance, and AI noise reduction, and its audio editor page says you can "edit by
-deleting words from an automatic transcript". If what you like about Descript is having recording,
-editing and AI voices together, this is the same shape.
+Two tools that run in the browser. **Enhance Speech** removes "noise and echo from voice
+recordings", and **Studio**, labelled beta, records, transcribes and edits: you "simply delete text
+in the transcript to remove the corresponding audio or video from your project". Studio also
+records remote guests, with speaker-separated downloads of the originals on the paid plan. There
+is a free plan with daily limits; the paid route for new customers is now Adobe's Firefly Pro
+plan, shown at $19.99 a month on podcast.adobe.com on 17 October 2026. Filler words appear in the
+transcript and you delete the ones you want gone yourself.
 
-**Best for:** people who want a recording studio and AI voices without Descript's video side.
-
-### CapCut
-
-A video editor aimed at social content, with desktop, browser and mobile versions, free to start
-with no card. Its homepage lists auto captions and text to speech, and a separate transcript
-editing page describes editing a video by editing its transcript. It covers Descript's video,
-captions and script editing side, with no remote recording studio described on the pages we read.
-
-**Best for:** short-form video where captions matter most.
-
-### Cleanvoice
-
-An automatic clean-up service rather than an editor. Its pricing page describes removing filler
-words, mouth sounds, breaths, silence and dead air, plus noise and echo removal. Its FAQ says it
-"doesn't work based on the transcript-to-edit flow": you upload the file and it processes it for
-you.
-
-**Best for:** batch-cleaning finished recordings when you do not want to touch an editor.
+**Best for:** making a rough recording sound cleaner, with light transcript editing alongside.
 
 ### Audacity
 

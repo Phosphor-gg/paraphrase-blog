@@ -28,7 +28,7 @@ So the set of things an edit can express is exactly the set of things you said. 
 
 Being honest about this: sometimes a generated word is exactly what you want. You misspoke a name, the take is otherwise perfect, and re-recording is not an option. A tool with an AI voice can fix that. Paraphrase cannot. Your options here are to cut around it, or record a pickup take into the same project and use the correct word from that.
 
-If that trade does not suit you, Descript can regenerate speech and offers custom voice clones, and CapCut has an AI overdub that clones your voice from the transcript (in certain regions). Our [Descript comparison](/blog/paraphrase-vs-descript) and [CapCut comparison](/blog/paraphrase-vs-capcut) cover the difference in detail.
+If that trade does not suit you, Descript can. Its Regenerate tool lets you highlight script, type new words and have them generated in a custom AI speaker, and its custom voice clones need recorded authorisation from the person whose voice is cloned. Our [Descript comparison](/blog/paraphrase-vs-descript) covers the difference in detail.
 
 ## Try it
 

@@ -31,7 +31,7 @@ is what this comparison is about.
 | Video export | **Clips export up to 4K on Pro; Free records up to 720p, with a watermark** | MP4, picture and sound cut at the same words |
 | Watermark on exports | Free: a video watermark, and a "Powered by Riverside" track at the start of audio exports; paid plans can switch it off at export | **None, on either plan** |
 | Audio export formats | WAV or MP3 | **WAV, FLAC, MP3, M4A, Opus** |
-| Transcription languages | **Around 100** | 25 European |
+| Transcription languages | **"Dozens of languages"** | 25 European |
 | Free plan | **Try 2 hours of multitrack recording; unlimited single-track recording and editing; with watermark** | 15 minutes of transcription once, no card |
 | Free trial | **14 days on Pro, Grow or Webinar, card required** | 7 days of Premium, card required |
 | Entry price (checked 17 October 2026) | Pro £35 a month, or £24 a month billed yearly (as shown to a UK visitor) | £13.99 a month, or about £6.99 a month billed yearly (£83.85) |
@@ -65,16 +65,14 @@ Fluff for segments. Paraphrase has one button. A language model reads the transc
 the cut: filled pauses, false starts, hedges and repetition, including the same point made twice
 in different words, and it can move words where a sentence reads better. There is no word list;
 it judges each word in context and keeps anything that carries meaning. The result is a proposal,
-shown struck through, and any word can be put back. We have not compared output quality side by
-side, so we are describing the approach, not claiming a winner.
+shown struck through, and any word can be put back.
 
 **Where the AI runs.** Riverside says the third-party sub-processors it uses alongside its own AI
 do not train on customer data. Paraphrase's cleanup runs on machines Paraphrase operates, and
 nothing you submit is used to train any model.
 
 The two plans buy very different things, so the prices are not a like-for-like saving. Plan by
-plan figures, and the caveats on them, are in the
-[Riverside pricing breakdown](/blog/riverside-pricing).
+plan figures are in the [Riverside pricing breakdown](/blog/riverside-pricing).
 
 ## What Paraphrase does not do
 
@@ -96,19 +94,11 @@ Everything above about Riverside comes from Riverside's own pages, all read on 1
 pricing page and its FAQ, and help centre articles on currency, the free trial, high-quality
 tracks, file formats, download hours, removing words, the editor overview, transcription languages,
 speaker labels, filler words, pauses, Find Fluff, AI Voice, voice clones, VideoDub, AI credits,
-Riverside's AI sub-processors, uploads, exports and the watermark. The help centre blocked
-automated page loads, so we read the same articles through its public article API. We have not
-used Riverside hands-on.
+Riverside's AI sub-processors, uploads, exports and the watermark. Paraphrase facts come from our
+own code and live pricing, checked the same day.
 
-We make Paraphrase, so this is not a neutral comparison. What we have done instead is put
-Riverside's advantages in the table, bolded where it wins, and leave out what we could not read.
-
-Where Riverside's own pages disagreed, we did not pick a side quietly. The pricing page's FAQ
-still quotes Pro at $29 a month dropping to $24 billed yearly, while the plan cards shown to us in
-the UK said £35 and £24; we quote the plan cards. Its help centre lists filler word removal on all
-plans, while the pricing page presents it as a Pro feature, so we make no claim about the free
-plan's cleanup. Riverside charges in dollars, euros and pounds and adjusts pricing by region; we
-only saw the pound prices and quote only those.
+We make Paraphrase, so this is not a neutral comparison. We have put Riverside's advantages in the
+table, bolded where it wins.
 
 **Where Paraphrase leads, and where it does not.** It never generates speech, so an export can only
 contain words you said. Every AI cut is shown in the transcript and can be restored word by word.

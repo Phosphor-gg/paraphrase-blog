@@ -9,15 +9,14 @@ description: "An honest review of Descript from a company that makes a narrower 
 **Bottom line:** Descript is a very broad text-based editor: audio and video, remote
 recording, noise and echo clean-up, captions, translation and AI voices, all driven from a
 transcript. Where it runs out is mostly the other side of that breadth: two separate monthly
-allowances that do not roll over, filler word detection and Regenerate that are English only, and AI speech
-offered inside features some people would rather keep away from their voice. If you use the
+allowances that do not roll over, filler word detection and Regenerate that are English only, and
+AI speech offered inside features some people would rather keep away from their voice. If you use the
 breadth, it is a lot of tool for the price. If you only cut spoken audio, a narrower tool may suit
 you better.
 
 We make Paraphrase, a narrower tool in the same space, so treat this as an interested party's
 assessment. We have not used Descript hands-on for this review. Every claim below comes from
-Descript's own pricing page, feature pages and help centre, read on 17 October 2026, and where the
-documentation does not say something we say so rather than guess.
+Descript's own pricing page, feature pages and help centre, read on 17 October 2026.
 
 ## What Descript is
 
@@ -35,8 +34,8 @@ mobile browsers or tablets.
 
 **The scope is the point.** It lets you record a remote guest, transcribe both tracks with
 speaker detection, cut the conversation by editing text, clean the sound, add captions, and export
-up to 4K video (on Creator and above), without leaving the app. If you make video podcasts or talking-head content, that
-integration is the reason to use it.
+up to 4K video (on Creator and above), without leaving the app. If you make video podcasts or
+talking-head content, that integration is the reason to use it.
 
 **Rooms is a proper remote studio.** Descript describes it as "a remote recording studio that runs
 in your browser" where "everyone records locally in up to 4K" and "every participant gets a
@@ -74,18 +73,15 @@ Remove filler words, Edit for Clarity, Underlord and AI speech, and "Unused Medi
 Credits don't roll over into the next cycle." Descript says the cost of a tool you apply yourself
 scales with the size of the job, caps Studio Sound and Remove Filler Words at 30 credits per file
 each time you apply them, and says Underlord has "no fixed price per action", so how far 400 credits
-go depends on what you run. Our
-[Descript pricing breakdown](/blog/descript-pricing) has the full plan table.
+go depends on what you run. Our [Descript pricing breakdown](/blog/descript-pricing) has the full plan table.
 
-**Filler word detection and Regenerate are English only.** The filler words article says: "This feature currently
-detects filler words in English transcripts only." Regenerate "only supports English audio" and is
-limited to 250 characters per action. Descript's pages do not state a language limit for Edit for
-Clarity. Transcription itself covers around 25 languages, one language per file.
+**Filler word detection and Regenerate are English only.** The filler words article says: "This
+feature currently detects filler words in English transcripts only." Regenerate "only supports English audio" and is
+limited to 250 characters per action. Transcription handles one language per file.
 
 **AI speech sits close to the edit.** Edit for Clarity has a "Reword for flow" option that can
 "regenerate the audio with AI speech so the edits sound seamless", with generated edits shown in
-blue. It is a setting you turn on, and it needs an AI speaker assigned to each speaker. But
-if your work depends on every word in the export being something you actually said (journalism,
+blue. It needs an AI speaker assigned to each speaker. But if your work depends on every word in the export being something you actually said (journalism,
 testimony, a client's own voice), you have to keep track of which features generate and which do
 not.
 
@@ -93,11 +89,10 @@ not.
 .mp3". FLAC and Opus are not among them.
 
 **The free plan is for trying, not shipping.** Free exports are 720p with a watermark, the 100 AI
-credits are one-time, and the AI tools are marked "Limited" without a stated limit.
+credits are one-time, and the AI tools are marked "Limited".
 
-**Breadth has a learning curve.** We have not used it hands-on, so we will not claim it is hard to
-learn. But a product with this many tools takes more learning than one with a handful, and if you
-only need one of them, you are learning around the rest.
+**Breadth is more than some people need.** If you only need one of these tools, you are working
+around the rest.
 
 ## Where Paraphrase differs, and where it does not
 
@@ -132,13 +127,10 @@ The [full comparison](/blog/paraphrase-vs-descript) goes through both side by si
 ## Who Descript is right for
 
 Descript is right for you if you make video as well as audio, record remote guests, need captions
-or translation, work in a team, or want noise and echo clean-up in the same place you edit. For a
-video podcast in particular, Descript describes its podcasting workflow as covering multitrack
-recording, text-based editing, audio repair and publishing in one place.
+or translation, work in a team, or want noise and echo clean-up in the same place you edit.
 
 It is less of a fit if you only cut your own spoken audio, or want a tool where generated speech
-cannot appear at all. That is a
-description of what a broad suite is for rather than a criticism, and plenty of people will
+cannot appear at all. That is a description of what a broad suite is for rather than a criticism, and plenty of people will
 reasonably use Descript for everything.
 
 If you want to see what a narrower approach feels like, [make a free Paraphrase

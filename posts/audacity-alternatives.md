@@ -16,7 +16,7 @@ those for the cut and Audacity for the polish.
 Audacity describes itself as "the world's most popular free software for recording and editing
 audio", and its homepage counts "100M+ downloads since 2000". It is free, it is GPL licensed, it
 runs on Windows, macOS and Linux, and it has a wide set of manual audio processing tools. People looking for
-alternatives are usually after one of three things, and only one of them is a reason to leave.
+alternatives are usually after one of a few things, and only some of them are reasons to leave.
 
 ## Why people look for Audacity alternatives
 
@@ -25,13 +25,6 @@ clicking and dragging in the waveform" and pressing Delete. Audacity's own Cut p
 ums, coughs, and long pauses from spoken recordings" as a use, and that is exactly how it works:
 you find each um by ear and by eye, select it and cut it. For a long interview that is a lot of
 listening.
-
-**Transcription is a plugin, and the plugin is behind.** Audacity's transcription runs Whisper
-locally through the free OpenVINO AI plugin, which writes the words into a label track. Audacity's
-own plugin download page currently warns that "The OpenVINO plugins are not yet compatible with
-the latest Audacity version", and the builds it offers are for Audacity 3.7.1 while the current
-release is 4.0.1. Even when it is installed, the transcript is labels on a timeline; the feature
-page does not describe cutting the audio by editing that text.
 
 **It is desktop only.** Audacity's FAQ says it is "only available for desktop computers or
 laptops" and that "There is no mobile version". If you want to edit from a machine you cannot
@@ -42,19 +35,17 @@ processing tools are extensive. More on that below.
 
 ## The alternatives at a glance
 
-| Tool | What it is | How you edit speech | Generates speech? | Free option |
-| --- | --- | --- | --- | --- |
-| Audacity | Free open source desktop audio editor | Select and cut on the waveform | No | Free, always |
-| Descript | AI video and audio editor | Edit the transcript | Yes, AI voices and voice clones | Free plan |
-| Riverside | Record, edit and repurpose platform | Text-based editor | Not covered here | Free plan |
-| Podcastle (now Async) | Recording and AI editing | Removes filler, pauses, repeats | Yes, AI voices | Free to start |
-| CapCut | Photo and video editor | Video timeline, plus transcript-based editing | Not covered here | Free online |
-| Cleanvoice | Automatic voice cleanup | Cuts filler and pauses for you | Not covered here | 30 free minutes |
-| Paraphrase | Transcript editor for your own recording | Click words to cut, drag to reorder | Never | 15 minutes free |
+| Tool | What it is | How you edit speech | Free option |
+| --- | --- | --- | --- |
+| Audacity | Free open source desktop audio editor | Select and cut on the waveform | Free, always |
+| Descript | AI video and audio editor | Edit the transcript | Free plan |
+| Riverside | Record, edit and repurpose platform | Text-based editor | Free plan |
+| Adobe Podcast | Browser speech enhancement and recording studio | Delete words from the transcript in Studio | Free plan |
+| Paraphrase | Transcript editor for your own recording | Click words to cut, drag to reorder | 15 minutes free |
 
-Feature descriptions for the other tools come from their own homepages (and, for CapCut, its
-transcript editing page), read on 17 October 2026.
-"Not covered here" means we did not check, not that the tool lacks it.
+On generated speech: Descript offers AI voices and voice clones, and Riverside has an AI Voice
+feature on paid plans that it labels experimental. Paraphrase never generates speech. Feature
+descriptions for the other tools come from their own pages, read on 17 October 2026.
 
 ## Transcript editors
 
@@ -92,55 +83,37 @@ polish.
 ### Riverside
 
 Riverside describes itself as a platform to "record, edit, repurpose", with recording "solo or with
-guests" in "separate tracks" and a "text-based editor". If your real need is recording remote
-guests, that is a different job from what either Audacity or Paraphrase does.
+guests" in "separate tracks" and a "text-based editor". Its help centre also describes an AI
+Voice feature on paid plans that generates audio "that simulates your speaking voice", which
+Riverside labels experimental. If your real need is recording remote guests, that is a different
+job from what either Audacity or Paraphrase does.
 
 **Best for:** recording guests remotely and editing in the same place. See our
 [Riverside review](/blog/riverside-review).
 
-## Automatic cleaners
+## Speech enhancement in the browser
 
-### Cleanvoice
+### Adobe Podcast
 
-Cleanvoice's pitch is "Find every filler word and long pause, and cut them out", plus removing
-background noise, mouth sounds and breaths. It hands back a cleaned file. You get 30 free minutes
-after signing up. It takes the um-hunting you would do by hand in Audacity off your plate without
-changing how you edit everything else.
+Adobe Podcast is a browser tool with two parts. **Enhance Speech** removes "noise and echo from
+voice recordings", and is free within limits (30 minutes per file, up to 500 MB, an hour a day).
+**Studio**, labelled beta, records solo or with remote guests and lets you "simply delete text in
+the transcript to remove the corresponding audio". Adobe's pages describe filler words appearing
+in the transcript for you to remove yourself; they do not describe automatic filler removal. The
+paid route is Adobe's Firefly Pro plan, shown at $19.99 a month on podcast.adobe.com on 17 October
+2026.
 
-**Best for:** automating filler and noise removal, then carrying on in your usual editor. See our
-[Cleanvoice review](/blog/cleanvoice-review).
-
-### Podcastle (now Async)
-
-podcastle.ai now redirects to async.com. That page offers a recording studio, AI voices and voice
-cloning, removing "filler, pauses, repeats, bad takes", and background noise removal "with Magic
-Dust". It is a broader, AI-heavy product.
-
-**Best for:** people who want recording, AI voices and cleanup in one subscription.
-
-## Video editors
-
-### CapCut
-
-CapCut is an "AI-Powered Photo & Video Editor" with desktop, online and mobile versions, free to
-try online. It also has "Transcript-based editing", which its own page describes as "a free online
-transcript editor" that picks out filler words and speech gaps for you to remove. If your spoken
-audio is really the soundtrack of short videos, a video editor may be what you need rather than an
-audio one.
-
-**Best for:** short-form video where the audio is secondary. See our
-[CapCut review](/blog/capcut-review).
+**Best for:** one-click noise and echo clean-up without installing anything. See our
+[Adobe Podcast review](/blog/adobe-podcast-review).
 
 ## What you will struggle to replace
 
 Worth being plain about this. Several tools above offer noise removal (Descript lists "Studio
-Sound" and background noise removal, Cleanvoice strips background noise, Async has "Magic Dust",
-CapCut lists noise reduction), but **Audacity's hands-on set of processing tools is a different
-thing, and Paraphrase has none of it.** Noise Reduction with a noise profile, Noise Gate, a
-Compressor with factory presets, plus reverb, pitch, speed and third-party VST3, LV2 and Audio
-Unit plugins. The Audacity 3 manual also documents a Notch Filter for mains hum and Loudness
-Normalization to the LUFS target podcast platforms ask for. All free, all running on your own
-machine.
+Sound" and background noise removal, Riverside's editor can remove background noise, Adobe Podcast
+has Enhance Speech), but **Audacity's hands-on set of processing tools is a different thing, and
+Paraphrase has none of it.** Noise Reduction with a noise profile, Noise Gate, a Compressor with
+factory presets, a Limiter, Graphic EQ, plus reverb, pitch, speed and third-party VST3, LV2 and
+Audio Unit plugins. All free, in a desktop app.
 
 And it is free and open source: no subscription, no credits. If that matters to you, nothing
 else on this list is a like-for-like swap.
@@ -154,7 +127,7 @@ what eats your time is finding and cutting ums, restarts and rambling in long sp
 a transcript editor lets you find and cut them by reading instead of scrubbing, and you can still
 finish in Audacity. In Paraphrase
 that looks like: cut by the words, export WAV or FLAC (both lossless), then open it in Audacity for
-noise reduction, compression and loudness. We cover that in more detail in our
+noise reduction and compression. We cover that in more detail in our
 [Audacity review](/blog/audacity-review), and the costs in
 [Is Audacity free?](/blog/audacity-pricing).
 
