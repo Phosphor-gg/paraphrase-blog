@@ -23,9 +23,10 @@ and added.
 
 ## Getting audio in
 
-- Record in the browser. The take is uploaded a few seconds at a time while
-  you record, so losing the connection or closing the tab does not lose what
-  was already sent.
+- Record in the browser. The recorder hands over a piece about every second
+  and the take is uploaded while you record (paraphrase-website
+  services/media.rs, CHUNK_MS = 1000), so losing the connection or closing
+  the tab does not lose what was already sent.
 - Upload an audio or video file (the browser accepts `audio/*` and `video/*`;
   the server reads it with ffmpeg, so most formats work).
 - For a video, the sound is taken out in the browser and uploaded on its own;
@@ -87,6 +88,9 @@ and added.
 - Speaker labels, captions, subtitles, translation.
 - Collaboration, comments, share links.
 - Screen recording.
+- Podcast hosting or publishing to podcast directories.
+- Summaries, show notes, chapters or any other generated text about the
+  recording.
 - A public API (exists internally, not offered).
 
 ## Pricing (live Stripe, checked 17 October 2026)
@@ -105,7 +109,10 @@ and added.
   three year one), card required, one per account.
 - **Credit packs** (either plan, never expire while the account is open):
   £3.99 for 4 hours, £12.99 for 13 hours 20 minutes, £34.99 for 40 hours.
-- Failed recordings have their credits returned automatically.
+- If a recording fails for a reason on Paraphrase's side, its credits are
+  returned automatically (recording_service::refund_if_ours). A file that
+  cannot be read at all is not refunded. Do not say "failed recordings are
+  refunded" without that qualifier.
 - Prices in GBP.
 
 ## Privacy
@@ -113,7 +120,9 @@ and added.
 - Nothing submitted is used to train any model, Paraphrase's or anyone else's;
   not sold or licensed.
 - The original recording is kept while it is in your account (that is what
-  makes re-editing free); deleting a recording deletes it.
+  makes re-editing free); deleting a recording deletes it. Deleting a
+  project, or the whole account, deletes every recording's files too
+  (fixed 17 October 2026: account deletion used to leave the files).
 
 ## Pages to link
 

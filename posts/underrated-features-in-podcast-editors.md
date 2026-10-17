@@ -55,9 +55,9 @@ what happens when two people talk at once. When speakers overlap, Riverside asks
 remove, rather than taking both. You can also mute words instead of cutting them.
 
 Why it is underrated: you only meet it when two voices collide, which is exactly where cutting by
-transcript is hardest in an interview. Riverside is known for recording, with tracks "recorded
-locally on each participant's computer or device"; this is the editing side, and it is easy to
-miss. More in our [Riverside review](/blog/riverside-review).
+transcript is hardest in an interview. Riverside's pages lead with recording, with tracks
+"recorded locally on each participant's computer or device"; this is the editing side, and it is
+easy to miss. More in our [Riverside review](/blog/riverside-review).
 
 ## 3. Descript's per-word filler options and "Avoid harsh cuts"
 
@@ -75,7 +75,7 @@ Then there is the **"Avoid harsh cuts"** setting, which skips fillers that canno
 Why it is underrated: removing every filler can leave speech sounding clipped. Replacing some with a
 gap keeps the speaker's rhythm, and "Avoid harsh cuts" stops the tool cutting where it would damage
 the words around it. Two limits from Descript's own article: "This feature currently detects filler
-words in English transcripts only", and it uses AI credits. See our
+words in English transcripts only", and it uses AI credits (up to 30 per file each time). See our
 [Descript review](/blog/descript-review).
 
 ## 4. Podcastle (now Async)'s remove all, for any word
@@ -85,7 +85,7 @@ but everyone's real verbal tic is something else. The Words tab lets you search 
 **"Remove all"** of its instances.
 
 Why it is underrated: preset filler lists catch sounds, not habits. If you say "basically" forty
-times an episode, this is the quickest way to find every one. Listen before you commit, because a
+times an episode, this finds every one in a single search. Listen before you commit, because a
 word that is a tic in one sentence can carry meaning in the next. The Silences tab is worth knowing
 too: it looks for silences longer than 0.5 seconds by default, "but you can adjust this length". Our
 [Podcastle review](/blog/podcastle-review) has more.
@@ -99,7 +99,8 @@ misheard word in the transcript and the caption is fixed with it.
 Why it is underrated: for short video with captions, that is one correction instead of two, and one
 fewer place for a typo to survive into a published clip. CapCut's filler highlighting comes with
 advice worth borrowing in any tool: "Treat highlighting as a shortlist, not a verdict." One caveat:
-CapCut's own pages disagree on whether auto captions need Pro, so check in the app. See our
+a CapCut article says auto captions are "exclusive to Pro users", while its transcript editing page
+calls the transcript editor free, so check in the app what your plan includes. See our
 [CapCut review](/blog/capcut-review).
 
 ## 6. Audacity 4's "Delete and close gap (all tracks)"
@@ -124,7 +125,8 @@ builds offered are for Audacity 3.7.1, so we cannot recommend it to someone on 4
 Every claim above was read on the vendor's own pages on 17 October 2026: Cleanvoice's home page FAQ
 and integrations page; Riverside's help centre articles on removing words and on local recording;
 Descript's help centre article on removing filler words; Async's help centre articles on Text Mode,
-filler words and silence removal; CapCut's transcript editing and filler word pages; and Audacity's
+filler words and silence removal; CapCut's transcript editing and filler word pages and its
+Standard vs Pro article; and Audacity's
 4 transition guide, cut feature page and OpenVINO download page. We did not use review sites, and
 we have not tested these features hands-on, so treat "why it is underrated" as our reading of the
 documentation rather than a test result.

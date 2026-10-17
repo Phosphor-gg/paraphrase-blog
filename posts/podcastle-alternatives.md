@@ -10,7 +10,7 @@ description: "Podcastle has become Async, a chat-based AI creative suite with th
 in one place, nothing on this list replaces Podcastle (now Async) more completely than staying on
 it; **Riverside** and **Descript** are the closest all-round alternatives. If what you actually want
 is to tidy up your own voice by editing a transcript, with an export that contains only words you
-really said, **Paraphrase** does that one job and costs less, but it does far less overall.
+really said, **Paraphrase** does that one job and costs less than Async's paid plans, but it does far less overall.
 
 Something to know before you compare anything: **Podcastle is now called Async.** Visiting
 podcastle.ai redirects to async.com, and Async's podcast page is headed "Formerly Podcastle". The
@@ -22,31 +22,33 @@ that is a perfectly good reason to look.
 
 ## Why people look for Podcastle alternatives
 
-**The product has widened.** Podcastle was a podcast tool. Async's plans now lead with AI credits
+**The product has widened.** Async describes its podcast studio as the "same end-to-end studio you
+knew and loved, now part of Async". Async's plans lead with AI credits
 for models like Kling, Veo and Seedance, chat-based video editing and image generation. If you only
 ever used the recorder and the audio editor, much of what the plans now advertise is not for you.
 
-**The free plan is a trial in practice.** Async's free plan limits are lifetime, not monthly: 2
-hours of audio transcription, 1 hour of remote multitrack recording, 10 AI credits, audio export up
-to 160kbps MP3, and an export limit of "1 file". That is generous for trying it, and not a plan you
+**The free plan is a trial in practice.** Async's free plan allowances are lifetime, not monthly: 2
+hours of audio transcription, 1 hour of remote multitrack recording and 10 AI credits. Audio export
+is up to 160kbps MP3, the export limit is "1 file", and its comparison table does not include Magic
+Dust, noise reduction or silence removal on Free. That is enough for trying it, and not a plan you
 can keep producing a show on. We break this down in [what Podcastle costs](/blog/podcastle-pricing).
 
 **Transcription covers five languages.** Async's help centre lists English, Spanish, German, French
 and Italian for transcription, which matters if you edit by transcript in any other language.
 
-**Some people want less AI voice, not more.** Async offers over 1,000 AI voices and voice cloning
-from a few seconds of audio. That is a feature for many people. For others, a tool that cannot put
+**Some people want less AI voice, not more.** Async offers over 1,000 AI voices and, on Pro and
+above, voice cloning from a few seconds of audio. That is a feature for many people. For others, a tool that cannot put
 words in their mouth is the point.
 
 ## The alternatives at a glance
 
 | Tool | What it is | Edit by transcript | Generates speech | Free option | Best for |
 | --- | --- | --- | --- | --- | --- |
-| Podcastle (Async) | Recording studio, audio and video editor, hosting, AI generation | Yes, Text Mode | Yes, 1,000+ voices and cloning | Free plan, lifetime limits | Everything for a podcast in one place |
+| Podcastle (Async) | Recording studio, audio and video editor, hosting, AI generation | Yes, Text Mode ("Limited" on Free) | Yes, 1,000+ voices; cloning on Pro and above | Free plan, lifetime limits | Everything for a podcast in one place |
 | Descript | AI video and audio editor | Yes | Yes, generated voice audio | Yes, terms not checked | Editing video and audio as text |
-| Riverside | Remote recording studio with an editor | Yes | Not checked | Not checked | Recording remote guests on separate tracks |
+| Riverside | Remote recording studio with an editor | Yes | Yes, AI Voice text to speech (paid plans) | Free plan | Recording remote guests on separate tracks |
 | CapCut | AI video editor | Not checked | Yes, text to speech | Free tools listed | Short-form and social video |
-| Cleanvoice | Automatic filler and silence removal | Not checked | Not checked | 30 minutes free | Cleaning a finished recording automatically |
+| Cleanvoice | Automatic filler and silence removal | No, by its own FAQ | Not checked | 30 minutes free | Cleaning a finished recording automatically |
 | Audacity | Free, open source audio editor | Not checked | Not checked | Free, always | Waveform editing on your own computer |
 | Paraphrase | Edits your own recording by its transcript | Yes, words can also be moved | Never | 15 minutes, no card | One voice, tidied, nothing generated |
 
@@ -57,9 +59,9 @@ tool lacks it. Check before relying on any of those cells.
 
 ### Riverside
 
-The closest match for the thing Podcastle was best known for: remote recording. Riverside's own
+The closest match for Async's remote recording studio. Riverside's own
 site says it captures "up to 4K video and uncompressed audio in separate tracks, unaffected by
-internet connection", which is the same promise Async makes for its studio. It also has a
+internet connection", much the same promise Async makes for its studio. It also has a
 text-based editor where you "search, cut, copy, and paste right in the transcript", and it generates
 transcriptions, titles and chapters.
 
@@ -67,7 +69,7 @@ transcriptions, titles and chapters.
 
 ### Descript
 
-The best-known text-based editor. Descript describes itself as an editor where "you cut, trim, and
+A text-based editor for video and audio. Descript describes itself as an editor where "you cut, trim, and
 rearrange the video by changing the transcript", with filler words and retakes cut "in a click".
 Like Async, it can also generate voice audio, video, music and images to fill gaps. If what you
 liked about Podcastle was Text Mode, Descript is the like-for-like move.
@@ -132,8 +134,8 @@ Often not. If you use the recording studio with remote guests, the hosting hub a
 together, Async still does all of that in one browser tab, and moving means a new recorder, a new
 editor and a new host. That is a lot of change to avoid some features you can simply ignore.
 
-Switching makes sense if you were only using a slice of it (the editor, say) and the plans now cost
-more than that slice is worth to you, if you need transcription in a language outside Async's five,
+Switching makes sense if you were only using a slice of it (the editor, say) and the plans cost more
+than that slice is worth to you, if you need transcription in a language outside Async's five,
 or if you want a tool that structurally cannot generate your voice.
 
 Our [Podcastle review](/blog/podcastle-review) covers what it does well, and

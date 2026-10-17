@@ -7,11 +7,12 @@ description: "Riverside is a remote recording studio with a text-based editor an
 # Riverside alternatives: the honest options for editing your voice
 
 **Bottom line:** if you record remote interviews and need separate, locally recorded tracks for
-every guest, nothing on this list fully replaces Riverside, and you should probably stay. If you
-mostly record yourself and Riverside is really your editor, **Paraphrase** is a narrower, cheaper
-tool that edits your own recording by its transcript, never generates speech, and has an AI
-cleanup that proposes the whole edit in one pass. **Descript** is the closest all-round match if
-you want text editing plus AI voices.
+every guest, only **Descript** (Rooms) and **Podcastle** (now Async) on this list also record
+that way, and staying with Riverside is often the simplest answer. If you mostly record yourself
+and Riverside is really your editor, **Paraphrase** is a narrower tool that edits your own
+recording by its transcript, never generates speech, and has an AI cleanup that proposes the whole
+edit in one pass. **Descript** is the closest all-round match if you want remote recording and
+text editing plus AI voices.
 
 Riverside started as a remote recording studio and has grown into a platform: recording, a
 text-based editor, AI tools, podcast hosting, live streaming, webinars and newsletters. People
@@ -26,8 +27,8 @@ or device. Slow internet should not affect their quality." That is genuinely val
 interviews. If you record solo voiceovers, course lessons or monologue episodes, you are paying
 for a studio you do not open.
 
-**The price is set by what the platform does.** Pro is $29 a month, or $24 a month billed
-yearly, on Riverside's pricing page as checked on 17 October 2026. That buys 4K recording,
+**The price is set by what the platform does.** Pro was £35 a month, or £24 a month billed
+yearly, on Riverside's pricing page as shown to a UK visitor on 17 October 2026. That buys 4K recording,
 hosting, publishing, AI B-roll and more. If you only want to cut ums out of your own voice, that
 is a lot of platform. We have covered [what Riverside costs](/blog/riverside-pricing) in detail.
 
@@ -39,17 +40,17 @@ in their mouth.
 
 | Tool | What it is | Remote recording | Generates speech | Free option |
 | --- | --- | --- | --- | --- |
-| Riverside | Recording studio and editing platform | Yes, local tracks per guest | Yes (AI Voice, voice clone, VideoDub) | Yes, 2 hours of multitrack one-off, watermark |
+| Riverside | Recording studio and editing platform | Yes, local tracks per guest | Yes (AI Voice, voice clone, VideoDub) | Yes, try 2 hours of multitrack, watermark |
 | Paraphrase | Transcript editor for your own recording | No | No, by design | Yes, 15 minutes of transcription |
-| Descript | Text-based audio and video editor | Check their site | Yes (AI speech, voice clones) | Yes |
+| Descript | Text-based audio and video editor | Yes (Rooms, a separate file per participant) | Yes (AI speech, voice clones) | Yes |
 | Podcastle (now Async) | Creator platform with recording and editing | Yes, listed on its pricing page | Yes (AI voices, voice cloning) | Yes |
 | CapCut | General video editor | Not a recording studio | Yes (text to speech) | Yes |
 | Cleanvoice | AI audio cleanup service | No | Not what it is for | Free trial |
 | Audacity | Free, open source audio editor | No | Not what it is for | Free |
 
 We kept the other tools' entries to what their own pages said when we read them on 17 October
-2026. Podcastle's pricing page now redirects to Async, which is worth knowing before you search for
-it.
+2026. Podcastle's pricing page now redirects to Async, whose podcast page is headed "Formerly
+Podcastle", which is worth knowing before you search for it.
 
 ## Like-for-like alternatives to Riverside
 
@@ -57,14 +58,16 @@ it.
 
 The closest all-round match. Descript's pricing page describes text-based editing, a Remove
 Filler Words tool, and AI speech with custom voice clones on its paid plans, with a free plan to
-start. If what you like about Riverside is editing a video by editing its transcript, and you also
-want generated speech for fixing lines, Descript covers that.
+start. It also records remotely: its Rooms page says "Everyone records locally in up to 4K" and
+"Every participant gets a separate file". If what you like about Riverside is recording guests and
+editing by the transcript, and you also want generated speech for fixing lines, Descript covers
+that.
 
 **Best for:** people who want an editor first and are happy with AI voice in the toolbox.
 
 ### Podcastle (now Async)
 
-The other one here that records remotely. Its pricing page lists remote video and audio
+The other one here, besides Descript, that records remotely. Its pricing page lists remote video and audio
 recording, remote multitrack recording, text-based audio editing, silence removal and a large
 library of AI voices with voice cloning. We could not read its paid prices on that page, so we
 are not quoting them.
@@ -74,7 +77,7 @@ Riverside directly.
 
 ### CapCut
 
-A general purpose video editor rather than a podcast tool. Its site leads with automatic captions
+A general purpose video editor rather than a podcast tool. Its site lists automatic captions
 and AI text to speech, and you can try it free online. It is a different shape of product, but if
 your Riverside use is really short social clips, it may be enough.
 
@@ -93,7 +96,8 @@ options and a free trial without a card. You hand it a file and get a cleaner fi
 ### Audacity
 
 Free, open source, runs on Windows, macOS and Linux. It edits a waveform, not a transcript, so
-every cut is done by eye and ear. It costs nothing and will be around for a long time.
+every cut is done by eye and ear. Its site says it "has always been and will always remain free
+for everyone".
 
 **Best for:** people who prefer manual control and do not want a subscription.
 
@@ -105,7 +109,7 @@ It edits **your own recording by editing its transcript**. You record in the bro
 audio or video, every word gets a timestamp, and every edit is a choice of which of your words
 stay and in what order. Click a word to cut it, drag a word to move it. The export is your
 original recording with pieces cut out, joined at word boundaries, as WAV, FLAC, MP3, M4A or Opus,
-or MP4 if you uploaded video.
+or MP4 when the project has a video take.
 
 The difference that matters most against Riverside: **it never generates speech.** No AI voice,
 no voice clone, no overdub. A word you never said cannot appear in an export because there is no
@@ -123,7 +127,7 @@ Pricing is £13.99 a month, about £6.99 a month on the annual cycle or about £
 year cycle, with 120 hours of audio a month. Editing, cleanup and export use no credits. There is
 a [full breakdown on the pricing page](/pricing).
 
-It is **not a Riverside replacement** for most Riverside users. No remote recording studio, no
+It is **not a Riverside replacement** if you record guests. No remote recording studio, no
 separate per-speaker tracks, no speaker labels, no captions, no noise removal, no collaboration
 and no hosting. If you interview guests remotely, you need something that records them.
 
@@ -132,10 +136,11 @@ and no hosting. If you interview guests remotely, you need something that record
 
 ## What you will struggle to replace
 
-Worth being straight about: **Riverside's local recording is the thing most alternatives do not
-do.** Each participant's track is recorded on their own device and uploaded, so a guest's patchy
-connection does not ruin their audio. You can download those separate tracks as WAV or MP4 for
-another editor, 15 hours a month on Pro according to the plan card.
+Worth being straight about: **Riverside's local recording is the thing most alternatives here do
+not do** (Descript and Podcastle are the exceptions). Each participant's track is recorded on
+their own device, and Riverside's help centre says "Slow internet should not affect their
+quality." You can download those separate tracks as WAV or MP4 for another editor, 15 hours a
+month on Pro according to the plan card and FAQ.
 
 It is also a platform. Hosting, publishing to YouTube and Spotify, live streaming, webinars,
 Magic Clips and show notes all live in one account. If you use several of those, switching means

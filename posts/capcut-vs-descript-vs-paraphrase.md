@@ -21,13 +21,13 @@ after.
 | What it is | Full video editor | Audio and video editor built on the transcript | Transcript editor for your own recording |
 | Platforms | Desktop, mobile, browser | macOS and Windows apps, Chromium browsers | Browser |
 | Edit by transcript | Yes, "Transcript-based editing" | Yes | Yes |
-| Filler words | Highlights candidates (um, uh, like, you know) and pauses | Remove filler words, English only | Part of one AI cleanup |
-| False starts, repeated points | Not described on its pages | Edit for Clarity, Remove Retakes | Yes, in the AI cleanup |
+| Filler words | Highlights fillers (um, uh, like, you know) and pauses; one-click "Remove filler words" | Remove filler words, English only | Part of one AI cleanup |
+| False starts, repeated points | One page mentions "repeated phrases"; nothing on a point made twice in different words | Edit for Clarity, Remove Retakes | Yes, in the AI cleanup |
 | Generated speech | AI overdub voice cloning (some regions), text to speech | Regenerate, voice clones, stock AI speakers | Never |
 | Captions | Yes, follow transcript edits | Yes | No |
-| Templates and effects | Large library | Templates listed | No |
+| Templates and effects | Yes, free and premium | Templates listed | No |
 | Video export | Up to 4K and 60fps on Pro, device dependent | 720p Free, 1080p Hobbyist, 4K Creator | MP4, picture and sound cut at the same words |
-| Free plan | Yes, premium elements add a watermark | 1 media hour a month, 720p, watermark | 15 minutes of transcription, no card |
+| Free plan | Yes; premium elements, and some templates, add a watermark | 1 media hour a month, 720p, watermark | 15 minutes of transcription, no card |
 | Entry paid price (checked 17 Oct 2026) | Pro £21.99 a month as shown to us in the UK | $16 per person a month billed annually | £13.99 a month, about £4.99 on three years |
 
 ## What each one is for
@@ -53,10 +53,12 @@ much of the deciding each does for you.
 
 - **CapCut's** desktop filler workflow turns on "Identify filter words" in Auto captions and
   highlights candidates such as "um", "uh", "like" and "you know"; you "choose whether to delete or
-  manually adjust them". Its own advice is to "Treat highlighting as a shortlist, not a verdict."
-  Its pages describe filler words and pauses, and we did not find them describing false starts or
-  repeated points. Whether filler removal needs Pro is unclear from CapCut's own pages, so check in
-  the app.
+  manually adjust them". It also documents automatic removal: "With the 'Remove filler words' option
+  enabled, CapCut instantly cleans your audio", and in transcript editing it "removes them with one
+  click". Its own advice is to "Treat highlighting as a shortlist, not a verdict." Its documented
+  examples are fillers and pauses; one page says it helps clean "hesitations or repeated phrases",
+  and we found nothing about catching the same point made twice in different words. Whether filler
+  removal needs Pro is unclear from CapCut's own pages, so check in the app.
 - **Descript's** Remove filler words lists each one with a timestamp and preview and works on
   English transcripts only. Edit for Clarity cleans "up pacing" and removes "unnecessary or
   off-topic content" at Low, Medium or Heavy intensity, keeping cuts as text you can restore. Both
@@ -92,8 +94,8 @@ AI credits that do not roll over. Watermark-free export starts on Hobbyist. See
 [Descript pricing](/blog/descript-pricing).
 
 **Paraphrase** Premium is £13.99 a month, £83.85 a year or £179.65 for three years (about £4.99 a
-month), with 120 hours of transcription a month and 30 cleanups a day. Credits are spent only at
-transcription, so re-editing and re-exporting are free. See [pricing](/pricing).
+month), with 120 hours of transcription a month and 30 cleanups a day (3 on the free plan). Credits
+are spent only at transcription, so re-editing and re-exporting are free. See [pricing](/pricing).
 
 ## What Paraphrase does not do
 
@@ -108,8 +110,8 @@ For video, this list matters:
 
 ## Which should you pick?
 
-**You make shorts and edit on your phone:** CapCut. Captions that follow your edits and a large
-effects library, on every platform. Our [CapCut review](/blog/capcut-review) goes deeper.
+**You make shorts and edit on your phone:** CapCut. Captions that follow your edits, plus effects
+and templates, on desktop, mobile and the web. Our [CapCut review](/blog/capcut-review) goes deeper.
 
 **You make tutorials, screen recordings or longer video:** Descript, with screen recording, Studio
 Sound and Edit for Clarity in one editor. See our [Descript review](/blog/descript-review).
@@ -129,8 +131,11 @@ CapCut facts come from capcut.com/pricing, its tools pages for transcript editin
 AI overdub, and its help centre articles on Pro pricing, plans, trials, cancellation, watermarks and
 export. Descript facts come from descript.com/pricing and /features and its help centre articles on
 filler words, Edit for Clarity, Regenerate, platforms and export. All were read on 17 October 2026,
-and we have used neither hands-on. Where CapCut's pages contradict each other (its language count,
-its cloud storage, whether filler removal is free) we have said so or left it out.
+and we have used neither hands-on. Where CapCut's pages contradict each other we have said so or
+left the detail out: its pricing page says Pro has 1 TB of storage where a help article says 100GB,
+one page offers "free cloud storage" while another says it was discontinued, its Teams per-seat
+prices are inconsistent, and its pages do not agree on whether filler removal needs Pro. CapCut's
+page says transcripts come in "100+ languages"; we did not check that list in the app.
 
 Paraphrase is ours, so this is not neutral. Where it leads: it never generates speech, every cut
 its AI proposes is reviewable word by word, re-editing is free, and the MP4 is cut at the same

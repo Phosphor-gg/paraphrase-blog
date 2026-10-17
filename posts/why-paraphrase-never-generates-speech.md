@@ -20,16 +20,16 @@ So the set of things an edit can express is exactly the set of things you said. 
 
 **The export is evidence of what you said.** A podcast guest, an interviewee or a lecturer can be cut, tightened and reordered, but not made to say something new. If you publish interviews, that is a property worth having.
 
-**The AI cannot go further than you would.** The cleanup is a language model, and language models can be confidently wrong. In Paraphrase the worst it can do is propose cutting a word you wanted, and every cut it makes shows struck through for you to restore. It cannot invent a phrase to smooth over a cut.
+**The AI cannot go further than you would.** The cleanup is a language model, and language models can be confidently wrong. In Paraphrase the worst it can do is propose cutting or moving a word you wanted left alone, and every cut it proposes shows struck through for you to restore. It cannot invent a phrase to smooth over a cut.
 
 **There is no voice model of you.** Nothing is trained on your recordings, by us or anyone else, and there is no clone of your voice sitting on a server.
 
 ## What you give up
 
-Being honest about this: sometimes a generated word is exactly what you want. You misspoke a name, the take is otherwise perfect, and re-recording is not an option. A tool with an AI voice fixes that in seconds. Paraphrase cannot. Your options here are to cut around it, or record a pickup take into the same project and use the correct word from that.
+Being honest about this: sometimes a generated word is exactly what you want. You misspoke a name, the take is otherwise perfect, and re-recording is not an option. A tool with an AI voice can fix that. Paraphrase cannot. Your options here are to cut around it, or record a pickup take into the same project and use the correct word from that.
 
 If that trade does not suit you, Descript can regenerate speech and offers custom voice clones, and CapCut has an AI overdub that clones your voice from the transcript (in certain regions). Our [Descript comparison](/blog/paraphrase-vs-descript) and [CapCut comparison](/blog/paraphrase-vs-capcut) cover the difference in detail.
 
 ## Try it
 
-A free account comes with fifteen minutes of transcription and three AI cleanups a day, no card needed. [Start on paraphrase.bot](https://paraphrase.bot) and see what the cleanup proposes for your own recording.
+A new free account comes with fifteen minutes of transcription and three AI cleanups a day, no card needed. [Start on paraphrase.bot](https://paraphrase.bot) and see what the cleanup proposes for your own recording.

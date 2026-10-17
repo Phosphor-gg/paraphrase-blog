@@ -1,7 +1,7 @@
 ---
 title: "The best tools to remove filler words from audio"
 date: 2026-10-17
-description: "How Paraphrase, Riverside, Descript, Podcastle (now Async), CapCut, Cleanvoice and Audacity find and remove um, uh and like, how much of each cut you can review, and which one to use for your recordings."
+description: "How Paraphrase, Riverside, Descript, Podcastle (now Async), CapCut, Cleanvoice, Adobe Podcast and Audacity find and remove um, uh and like, how much of each cut you can review, and which one to use for your recordings."
 ---
 
 # The best tools to remove filler words from audio
@@ -12,13 +12,14 @@ speech sounds and processes the whole file for you. If you want to see and appro
 catch more than "um" (false starts, hedges, and the same point made twice), **Paraphrase** (ours)
 shows each proposed cut struck through in the transcript and never generates speech to smooth a
 join. **Riverside** and **Descript** both give you a reviewable filler list inside a full editor,
-Riverside with contextual fillers like "like" and "you know". **Audacity** is the free, fully manual
-route.
+Riverside with contextual fillers like "like" and "you know". **Adobe Podcast** shows fillers in
+its transcript for you to delete yourself; it documents no automatic removal. **Audacity** is the
+free, fully manual route.
 
 Filler words are the sounds and phrases people use while thinking: "um", "uh", "mhm", and in some
 contexts "like", "you know" or "I mean". Removing all of them is rarely right. Cleanvoice's own
-FAQ says "Not every um has to go", and CapCut's tells you to "Treat highlighting as a shortlist,
-not a verdict." So the useful questions are how a tool finds them, what else it catches, and how
+FAQ says "Not every um has to go", and a CapCut guide tells you to "Treat highlighting as a
+shortlist, not a verdict." So the useful questions are how a tool finds them, what else it catches, and how
 easily you can check its work.
 
 ## Filler word removal compared
@@ -26,15 +27,18 @@ easily you can check its work.
 | Tool | How it finds fillers | Catches beyond um and uh | How you review | Filler languages | Generates speech | Free to try | Entry paid price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Paraphrase | Language model reads the transcript in context, no word list | False starts, hedges, repetition, restated points | Every cut struck through, click to restore | Tested on English | Never | 15 minutes, 3 cleanups a day | £13.99 a month |
-| Riverside | Detected and highlighted in the transcript | "Like", "you know" only when used as fillers; breaths | Accept or discard each card, restore any | Not stated | Yes, paid plans | Free plan | $24 a month yearly, $29 monthly |
-| Descript | Underlined in the transcript, listed in a sidebar | Retakes and Edit for Clarity are separate tools | Each instance with audio preview | English only | Yes, opt-in | Free plan, "Limited" | $16 a person a month yearly |
+| Riverside | Detected and highlighted in the transcript | "Like", "you know" only when used as fillers; breaths | Accept or discard each card, restore any | Not stated | Yes, paid plans | Free plan | £24 a month yearly (£288), £35 monthly |
+| Descript | Underlined in the transcript, listed in a sidebar | Retakes and Edit for Clarity are separate tools | Each instance with audio preview | English only | Yes, AI speech and voice clones | Free plan, "Limited" | $16 a person a month yearly |
 | Podcastle (now Async) | Preset list in a Filler tab | Any word you search for; Rough Cut for video | Remove one by one or all at once | Not stated (transcription lists 5) | Yes | Free plan | £11.99 a month yearly, £19.99 monthly |
-| CapCut | Highlighted in the transcript | Pauses | Preview, delete or adjust | Pages disagree | Yes | Free plan; Pro need unclear | Pro £21.99 a month (UK, varies) |
+| CapCut | Recognised in the transcript; one-click removal | Pauses; one page also mentions "repeated phrases" | Preview, delete or adjust | Not stated for fillers | Yes | Free plan; Pro need unclear | Pro £21.99 a month (UK, varies) |
 | Cleanvoice | Acoustic, "on how speech sounds, not on text" | Stutters, hesitations, mouth sounds, breaths, dead air | Report with preview; change edits by exporting markers | 20+ | Not described | 30 free minutes | $11 (€10) a month for 10 hours |
+| Adobe Podcast | You, reading the transcript, which includes filler words | Nothing automatic | You choose each deletion | Transcription in 7 languages | Not in Adobe Podcast; its Firefly Pro plan includes Generate Speech | Free plan | Firefly Pro $19.99 a month |
 | Audacity | You, by ear | Whatever you select | Your own ears, unlimited undo | Any | Not described | Free | No paid edition |
 
 Prices as shown on each vendor's pricing page on 17 October 2026, in the currency shown, not
-converted.
+converted. Riverside's are as shown to a UK visitor; Adobe Podcast's plans page does not say
+whether its $19.99 includes tax, and Adobe's UK Firefly page shows Firefly Pro at £19.99 a month
+including VAT.
 
 **How this list is ordered:** by how easily you can see, check and reverse every individual
 removal before you export, and then by how much it catches beyond plain "um" and "uh". If your
@@ -83,7 +87,8 @@ An "Avoid harsh cuts" setting skips fillers it cannot remove cleanly. Separate t
 and broader tightening (Edit for Clarity), and that one can optionally regenerate audio with AI
 speech to smooth edits.
 
-The limits: filler detection works "in English transcripts only", and each run uses AI credits.
+The limits: filler detection works "in English transcripts only", and each run uses AI credits,
+up to 30 per file each time you apply it.
 
 **Best for:** English recordings you are editing in Descript anyway. See our
 [Descript review](/blog/descript-review).
@@ -93,41 +98,63 @@ The limits: filler detection works "in English transcripts only", and each run u
 Async's Text Mode has a Filler tab that "automatically detects different versions of filler words
 (think 'um, uh, mhm')" from a preset list, and lets you remove them "individually, or all at once".
 A Words search can remove every instance of any word you choose. For video, Rough Cut removes
-fillers, retakes and silences together. Its site adds a fair warning: "AI can make mistakes.
-Please review all edits."
+fillers, retakes and silences together.
 
 **Best for:** podcasts recorded and hosted in Async. See our [Podcastle review](/blog/podcastle-review).
 
 ## 5. CapCut: filler detection for video creators
 
 CapCut highlights filler words and pauses in the transcript and lets you "choose whether to delete
-or manually adjust them", with preview before export. Its pages say only filler words and pauses,
-nothing about false starts. Whether filler removal needs Pro is unclear from CapCut's own pages,
-which say different things, so check in the app.
+or manually adjust them", with preview before export; its pages also describe removing them in one
+click. Its documented examples are fillers ("um", "uh", "like", "you know") and pauses, and its
+filler page also says it helps clean "hesitations or repeated phrases" in podcasts. We found
+nothing about catching the same point made twice in different words. Whether filler removal needs
+Pro is unclear from CapCut's own pages, which say different things, so check in the app.
 
 **Best for:** short-form video already in CapCut. See our [CapCut review](/blog/capcut-review).
 
-## 6. Cleanvoice: the best hands-off filler remover
+## 6. Cleanvoice: hands-off filler removal
 
-Cleanvoice ranks sixth only on this list's review axis. On effort and coverage it leads. Upload a
-file and it removes filler words, stutters ("without cutting the word out"), hesitations, mouth
+Cleanvoice ranks sixth only on this list's review axis. On effort and coverage it is a different
+proposition: upload a file and it removes filler words, stutters ("without cutting the word out"), hesitations, mouth
 sounds, breaths and dead air, filling gaps with room noise "to make the flow of the podcast more
 natural". Detection is acoustic and covers more than 20 languages, and "Preserve Length" mutes
 instead of cutting so a video stays in sync. It handles up to five tracks together.
 
 To review, Cleanvoice's blog describes a report with a playback preview and an original-versus-edited
 toggle. To change individual edits, its documented route is exporting markers to Audacity,
-Audition, Reaper or another editor. We have not confirmed whether you can undo a single edit inside
-the app.
+Audition, Reaper or another editor, and its help centre says time-based editing is not supported.
+We have not confirmed whether you can undo a single edit inside the app. Each processing run is
+billed, so reprocessing a file with different settings costs again.
 
 **Best for:** batches of episodes, non-English speech, and mouth noise. See our
 [Cleanvoice review](/blog/cleanvoice-review) and [pricing](/blog/cleanvoice-pricing).
 
-## 7. Audacity: free and entirely manual
+## 7. Adobe Podcast: fillers in the transcript, removed by you
+
+Adobe Podcast Studio (labelled beta) transcribes "every word", and Adobe says its transcription
+"delivers more accurate results, including filler words". Its guides say the text-based editor "can
+help you easily identify filler words in your recording", and advise you to "pick and choose which
+ones to cut". You remove one by deleting it from the transcript. None of the Adobe Podcast pages we
+read describe automatic filler detection and removal, a "remove all" for fillers, or a pause
+shortener, and its plan comparison has no filler-word row.
+
+Adobe does have filler detection in a different product: Premiere Pro, a separate desktop
+application, lets you filter a transcript for filler words or pauses and "Delete all". It is not
+part of Adobe Podcast, and we did not read its price.
+
+Where Adobe Podcast is strong is Enhance Speech, which removes noise and echo, something
+Paraphrase does not do at all. See our [Adobe Podcast review](/blog/adobe-podcast-review) and
+[Paraphrase vs Adobe Podcast](/blog/paraphrase-vs-adobe-podcast).
+
+**Best for:** recordings you are already cleaning up with Enhance Speech, where you are happy to
+choose each filler yourself.
+
+## 8. Audacity: free and entirely manual
 
 Audacity has no automatic filler detection on the pages we read. You listen, select the "um" on the
 waveform and delete it; its own Cut page lists "Remove ums, coughs, and long pauses" as a use. It
-is slow, but every cut is yours, and it costs nothing.
+takes time, but every cut is yours, and it costs nothing.
 
 **Best for:** short recordings and anyone with time but no budget. See our
 [Audacity review](/blog/audacity-review).
@@ -137,7 +164,8 @@ is slow, but every cut is yours, and it costs nothing.
 Each competitor detail comes from the vendor's own pages, read on 17 October 2026: Riverside's
 filler and Find Fluff help articles, Descript's Remove filler words and Edit for Clarity articles,
 Async's filler and Text Mode articles, CapCut's filler-word tool pages, Cleanvoice's filler, stutter
-and integrations pages, and Audacity's Cut feature page. We did not test the other tools hands-on.
+and integrations pages, Adobe Podcast's guides, plan comparison and FAQ (and Adobe's Premiere Pro
+help article on filler detection), and Audacity's Cut feature page. We did not test the other tools hands-on.
 
 Paraphrase is ours. It leads on reviewing each AI cut in the transcript and on never generating
 speech; it does not lead on language coverage, mouth sounds or hands-off processing. We have no
@@ -148,7 +176,8 @@ customer reviews or accuracy benchmarks to cite, and have not invented any.
 - **Lots of episodes, little time:** Cleanvoice.
 - **Not English:** Cleanvoice's 20+ languages. Descript's detection is English only, and
   Paraphrase's cleanup is tested on English.
-- **You want to approve every cut:** Paraphrase, Riverside or Descript.
+- **You want to approve every cut:** Paraphrase, Riverside or Descript, or Adobe Podcast if you
+  would rather find each one yourself.
 - **Rambling, not just ums:** Paraphrase's cleanup, Descript's Edit for Clarity, or Riverside's
   Find Fluff.
 - **Video that must stay in sync:** mute rather than cut, which Cleanvoice and Riverside offer.

@@ -4,6 +4,10 @@ Every fact below was read on CapCut's own site (capcut.com) on 17 October 2026.
 Where CapCut's own pages disagree with each other, both are recorded and the
 conflict is noted. Items marked **UNVERIFIED** must not be stated as fact.
 
+Re-verified the same day by a second pass: every CapCut URL below was
+re-rendered in headless Chromium (`--dump-dom`) and the text compared with
+this file. Corrections from that pass are marked "(corrected on re-check)".
+
 ## Pricing
 
 Source: https://www.capcut.com/pricing (read 2026-10-17, from the UK; the
@@ -11,6 +15,9 @@ page displayed GBP). Read from the raw page text, not a summary.
 
 - The page says: "Displayed pricing is for reference only. Sign in to see
   final pricing, taxes, and any applicable offers for your account."
+- The Monthly and Yearly toggles are labelled "up to 40% off" and "up to 30%
+  off" respectively. What those discounts apply to is not explained; do not
+  state them.
 - **Free:** GBP 0. "Free templates to start fast", "Basic editing tools".
 - **Pro:** GBP 21.99 a month, or GBP 199.99 a year. Lists: 1200 monthly AI
   credits, buy credits, access to AI features, all premium templates, all
@@ -35,6 +42,7 @@ Source: https://www.capcut.com/help/how-much-does-capcut-pro-cost (read 2026-10-
 - To see your price: web, Upgrade button top right; desktop, the subscription
   button under your User ID; mobile, Me, then "Join CapCut Pro".
 - "CapCut Pro usually offers monthly and yearly subscription plans."
+- Article dated 23 Sep 2026.
 
 Source: https://www.capcut.com/help/monthly-and-yearly-plans (read 2026-10-17)
 
@@ -59,7 +67,11 @@ Source: https://www.capcut.com/resource/capcut-standard-vs-pro (read 2026-10-17,
 
 Source: https://www.capcut.com/help/capcut-pro-free-trail (read 2026-10-17)
 
-- "CapCut offers a 7-day free trial of CapCut Pro" to eligible new users.
+- "CapCut offers a 7-day free trial of CapCut Pro to eligible new users in
+  supported regions." The trial "grants full access to all Pro features,
+  including 4K/60fps export, no watermark, premium templates, AI tools (with
+  subscription credits), and expanded cloud storage". (Article dated
+  2 Apr 2026.)
 - Web: only if "You've never had an active Pro subscription (including past
   trials)". Mobile: "If you've ever subscribed before (even briefly), the
   trial option won't appear."
@@ -70,8 +82,9 @@ Source: https://www.capcut.com/help/capcut-pro-free-trail (read 2026-10-17)
 
 Source: https://www.capcut.com/help/cancel-subscription (read 2026-10-17)
 
-- "If you forget to cancel your subscription at least 24 hours before the
-  renewal date, your account will be charged."
+- "CapCut subscriptions, including CapCut Pro and CapCut Teams, are set to
+  auto-renewal." "If you forget to cancel your subscription at least 24 hours
+  before the renewal date, your account will be charged".
 - "CapCut subscriptions are considered virtual goods, and generally,
   purchases do not support refunds." Appeals allowed in special cases such as
   accidental double billing.
@@ -86,14 +99,27 @@ Source: https://www.capcut.com/help/join-capcut-pro-for-exporting (read 2026-10-
   regardless of resolution."
 - On mobile, cancelling the prompt still exports, "with a CapCut watermark,
   even at 1080p".
-- On desktop, the export options "4K", "60fps" and "No Watermark" appear
-  locked for non-Pro users.
+- On desktop, the export options "4K", "60fps" and "No Watermark" "appear
+  grayed out or locked if you're not a Pro user". Desktop trigger also
+  includes having "enabled 4K/60fps export".
+- Online triggers listed include badged templates, effects, fonts, music or
+  stickers, premium transitions or LUTs, and having "Used AI tools (e.g., AI
+  Image Generation, AI Script-to-Video)". (corrected on re-check: previously
+  omitted)
+- Mobile triggers include badged items and "trying to export longer than 15
+  minutes (free limit varies by region)". (corrected on re-check: previously
+  omitted)
 
 Source: https://www.capcut.com/help/video-without-watermark (read 2026-10-17)
 
 - "certain advanced templates, effects, and stock elements add a watermark
   when used in the free version". Replacing premium stickers, transitions or
   filters with free alternatives can remove the restriction.
+- Also: "Templates often include a small CapCut watermark at the end of the
+  video", and "In some cases, CapCut automatically adds a short ending clip
+  with the CapCut logo", which you can delete from the timeline. So a
+  watermark is not only a premium element matter. (corrected on re-check:
+  previously omitted)
 
 Source: https://www.capcut.com/help/export-videos-in-capcut (read 2026-10-17)
 
@@ -123,16 +149,29 @@ Source: https://www.capcut.com/tools/video-transcript-editing (read 2026-10-17)
   in your video or audio file. Feel free to remove them when necessary."
 - Transcript edits are linked to captions: "text corrections carry into the
   caption track".
-- Describes itself as "free and online" and "a free online transcript editor".
-- Says "100+ languages"; its own FAQ lists "English, French, Russian, and
-  Arabic" as available options. **Conflict**; do not state a language count.
+- FAQ: "Yes, CapCut offers a free online transcript editor." ("Free and
+  online" also appears, as the heading of a card about transcription
+  services.) (corrected on re-check: "free and online" is a card heading, not
+  a description of transcript editing; quote the FAQ sentence instead)
+- Says "Effortlessly create transcripts in 100+ languages, including English,
+  French, Russian, Arabic, and many more". Its FAQ says "Available options
+  include English, French, Russian, and Arabic". (corrected on re-check: this
+  was recorded as a conflict, but "include" is not an exhaustive list, so the
+  two do not contradict each other.) Posts may say CapCut's page claims 100+
+  languages, attributed to CapCut, and that we did not check the list in the
+  app.
+- Also says you can "save your work for future use on CapCut's free cloud
+  storage platform", while the Standard vs Pro article says free cloud
+  storage was discontinued. Conflict; do not state either.
 - "export it without watermarks". (Read alongside the watermark help pages:
   premium elements still trigger a watermark.)
 
-Source: https://capcut.com/resource/edit-video-with-text (read 2026-10-17)
+Source: https://capcut.com/resource/edit-video-with-text (read 2026-10-17, article dated 17 Jun 2025)
 
-- Desktop: select the video, choose "Layout", then "Transcript-based editing".
-  Deleting transcript text removes the matching video.
+- Desktop: select the video, open "Menu" (top left), choose "Layout", then
+  "Transcript-based editing". "If you delete any unwanted text from the
+  transcript, the corresponding part of the video will be deleted
+  automatically." You can show or hide deleted text.
 - FAQ: CapCut "automatically recognizes filler words in the transcript and
   removes them with one click".
 - Export settings include "bit rate, codec, format, resolution, and frame
@@ -151,16 +190,31 @@ Source: https://www.capcut.com/tools/filler-words (read 2026-10-17)
   pauses while preserving your rhythm".
 - "real-time preview control, so you can verify every edit before export".
 - "With one click, the tool scans the audio track".
+- The same page also describes automatic removal, not only highlighting:
+  "auto caption automatically detects and removes common filler words", and
+  "With the 'Remove filler words' option enabled, CapCut instantly cleans
+  your audio". (corrected on re-check: previously only the highlight-and-
+  review workflow was recorded)
+- Podcasters scenario: "Podcasts often feature spontaneous dialogue that can
+  include hesitations or repeated phrases. CapCut's filler word removal
+  feature helps clean these effortlessly." (corrected on re-check: this
+  contradicts the earlier note that its pages describe fillers and pauses
+  only)
 - FAQ on cost: "You can remove filler words from the video or audio for free
   with CapCut's trial."
 
-Source: https://www.capcut.com/create/filler-word-removal-for-video (read 2026-10-17)
+Source: https://www.capcut.com/create/filler-word-removal-for-video (read 2026-10-17, article dated 12 Aug 2026)
 
 - "Treat highlighting as a shortlist, not a verdict."
 - "a detected word is not automatically a mistake. Context determines whether
   removing it improves the edit."
 - CapCut "may also trim pauses, so review the timeline result".
 - The examples ("um," "uh," "like," "you know") are described as candidates.
+- "A pause is not automatically dead space."
+- Its decision guide lists "An accidental repeated start such as 'the, the,
+  the file.'" among edits usually worth making, and says a transcript "cannot
+  decide whether a word, restart, or pause belongs". This is editing advice,
+  not a claim that CapCut detects restarts.
 
 **UNVERIFIED: whether filler word removal needs Pro.** The filler words page
 says it is free "with CapCut's trial", which implies a trial of something
@@ -170,8 +224,15 @@ starts) is Pro only. No pricing page or help centre article states it. Posts
 must say this is unclear and to check in the app.
 
 **UNVERIFIED:** whether CapCut's filler detection covers false starts,
-restarts or repeated points. Its pages describe filler words and pauses only.
-Posts may say "its pages describe filler words and pauses" and nothing more.
+restarts or repeated points. (corrected on re-check: the earlier note said its
+pages describe filler words and pauses only; that is wrong.) Its documented
+examples are "um," "uh," "like," "you know" and pauses, but the filler words
+page also says it helps clean "hesitations or repeated phrases" in podcasts,
+and the overdub page says that feature corrects "errors, filler words,
+repeats, or pauses". Nothing we read describes catching the same point made
+twice in different words. Posts may say: its documented examples are fillers
+and pauses, one page also mentions "repeated phrases", and we found nothing
+about a point made twice in different words.
 
 ## Speech generation (relevant to Paraphrase's "never generates speech")
 
@@ -181,7 +242,11 @@ Source: https://www.capcut.com/tools/overdub-audio-with-ai (read 2026-10-17)
   precise and accurate version of your voice."
 - Replace "incorrect audio with accurate voice-over by editing the
   transcript", using the Transcript-based editing icon.
-- "This feature is only available in certain regions."
+- "Note: This feature is only available in certain regions."
+- "This feature meticulously corrects errors, filler words, repeats, or
+  pauses in the original audio". "you can ... type in the corrected text, and
+  CapCut's overdubing tool updates the audio to match the new text."
+- Which plan overdub needs is not stated on the page. Do not state it.
 
 Source: https://www.capcut.com/pricing (navigation, read 2026-10-17)
 
@@ -204,14 +269,22 @@ Read 2026-10-17 on each tool's own site. Keep claims to these.
   voice clones listed. (Not quoting prices: monthly versus annual display was
   ambiguous in our read.)
 - **Riverside**, https://riverside.com/pricing: free plan; text-based editing,
-  removing silences and filler words on Pro; remote recording. The page
-  described itself as a staging version that may be out of date, so **no
-  prices quoted**.
+  "remove silences & filler words" listed under Pro; remote recording; the
+  comparison table lists "AI Voice: text-to-speech". The page showed a notice
+  that it was a staging environment that "may not be up to date", so **no
+  prices quoted** here. (corrected on re-check, from research/riverside.md and
+  the pricing page: Riverside's help centre lists filler word removal on "All
+  plans", so the pricing page and help centre differ; and AI Voice text to
+  speech (Pro and above) and an AI voice clone ("in beta") are documented, so
+  Riverside does generate speech.)
 - **Podcastle**, https://podcastle.ai/pricing now redirects (308) to
-  https://async.com/pricing, which mentions Podcastle, a free plan,
+  https://async.com/pricing ("Formerly Podcastle"), which lists a free plan,
   "Text-based audio editing", AI silence removal, remote recording, "1000+ AI
-  voices" and voice cloning. Paid prices were not visible. Filler word removal
-  not mentioned on that page.
+  voices" and voice cloning. (corrected on re-check: paid prices are visible
+  on the rendered page, in GBP, see research/podcastle.md; and "Filler Word
+  Removal" is in the page's tools menu, with filler detection documented in
+  Async's help centre, per research/podcastle.md.) Not quoting its prices in
+  CapCut posts.
 - **Cleanvoice**, https://cleanvoice.ai/: "Find every filler word and long
   pause, and cut them out"; strips background noise, mouth sounds and breaths;
   works with video. FAQ: "Cleanvoice doesn't work based on the
@@ -219,4 +292,7 @@ Read 2026-10-17 on each tool's own site. Keep claims to these.
   read.
 - **Audacity**, https://www.audacityteam.org/: "free software for recording
   and editing audio", "proudly open source", Windows, macOS and Linux. Audio
-  only on that page.
+  only on that page. Transcription exists only through an optional OpenVINO
+  AI plugin, which writes a label track and does not edit the audio by the
+  transcript (research/audacity.md). Do not say Audacity has "no
+  transcript"; say it does not edit by transcript.

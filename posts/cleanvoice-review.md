@@ -8,9 +8,9 @@ description: "An honest review of Cleanvoice from a company that makes a differe
 
 **Bottom line:** Cleanvoice is a thorough, hands-off clean-up service. One pass can cut filler
 words, stutters and long pauses and remove mouth clicks, breaths, background noise and echo, with
-filler removal in more than 20 languages, from $11 (€10) a month. It listens to sounds rather than reading
-meaning, so it will not catch a false start, a hedge or a point you made twice; for that, add a
-transcript editor such as Paraphrase.
+filler removal in more than 20 languages, from $11 (€10) a month. It detects sounds rather than
+editing by transcript, and nothing on its pages describes cutting a false start, a hedge or a
+point you made twice in different words; for that, add a transcript editor such as Paraphrase.
 
 We make Paraphrase, a transcript-based editor, so treat this as an interested party's assessment.
 **We have not used Cleanvoice hands-on for this review.** Everything about Cleanvoice below comes
@@ -27,8 +27,8 @@ then Enhance, then Edit", and it also has a REST API with Python and JavaScript 
 ## What Cleanvoice does well
 
 **It removes things a transcript cannot see.** This is the big one. Mouth clicks, lip smacks and
-saliva crackle; breaths, which you can mute or just reduce; hum, hiss, fans, wind, traffic, café
-chatter and room reverb; uneven loudness. None of those are words, so no transcript editor will
+saliva crackle; breaths, which you can mute or just reduce; hum, hiss, fans, wind, traffic, cafés,
+audience chatter and room reverb; uneven loudness. None of those are words, so no transcript editor will
 find them. If you record close to a sensitive microphone, or anywhere that is not a studio, this is
 the work that takes hours by hand.
 
@@ -39,13 +39,14 @@ Its stutter remover tries to "edit out the stutter without cutting the word out"
 
 **It is honest about its own limits.** Its pages tell you that "not every um has to go" and that
 removing all of them "can make speech sound clipped", that a few soft mouth clicks inside words may
-remain because removing them could damage the word, and that very loud noise can leave artefacts.
-Each one ends the same way: listen back before you publish. That is good advice, and unusual to see
+remain because removing them could damage the word, and that a voice buried under very loud noise
+can leave artefacts. Each one ends with the same advice: listen back, or preview, before you
+publish. That is good advice, and unusual to see
 on a product page.
 
 **It respects video and multitrack timelines.** You can **mute edits instead of cutting them**
-(Preserve Length), so a video or a separately recorded track stays in sync. Up to five tracks are
-edited together.
+(Preserve Length), so a video or other footage stays in sync. Up to five tracks are edited
+together and kept in sync.
 
 **Languages are broad.** Filler removal works in more than 20 languages, including English,
 German, French, Dutch, Spanish, Italian, Portuguese, Polish, Arabic, Turkish and Bulgarian, and the
@@ -64,21 +65,25 @@ show notes, chapters and social posts, plus batch upload.
 **It listens for sounds, not for meaning.** Cleanvoice's own FAQ says it "doesn't work based on the
 transcript-to-edit flow". That is a real design choice with real advantages, and it also sets the
 ceiling. A false start ("so what we, what I mean is"), a hedge ("I think, sort of, maybe"), or the
-same point made twice in different words is clean, fluent speech as far as sound goes. Deciding
-whether it should stay is a judgement about what you meant, and nothing in the Cleanvoice
-documentation we read describes making that judgement.
+same point made twice in different words can be clean, fluent speech as far as sound goes.
+Deciding whether it should stay is a judgement about what you meant, and nothing in the Cleanvoice
+documentation we read describes making that judgement. (Its stutter page mentions "repeated
+words", while its help centre says removing repetitive words is "yet to go live", so we make no
+claim either way about word-for-word repeats.)
 
 **Changing individual edits happens elsewhere.** After processing, Cleanvoice's own guide describes
 a report of how many fillers, stutters, breaths and pauses were removed, with playback and a toggle
 between the original and the edited version. Its documented way to change specific edits is to
 export markers or timestamps into Audition, Premiere, DaVinci Resolve, REAPER, Audacity or an EDL
 editor and adjust them there. The timestamp export marks fillers, stutters and mouth sounds, but
-not dead air. We could not confirm from Cleanvoice's pages whether you can restore a single edit
-inside its web app, so we are not claiming either way. If you already work in one of those editors,
+not dead air. Its help centre also says you cannot choose time ranges to apply or skip edits, and
+points to the same export instead. No page we read says outright whether you can restore a single
+edit inside the web app, so we are not claiming either way. If you already work in one of those editors,
 the export is a strength. If you do not, it is an extra application.
 
 **Files are kept for seven days.** Original and edited files are deleted permanently after 7 days,
 which is good for privacy and means going back to re-process an old episode needs your own copy.
+Reprocessing is billed as a new edit, according to its help centre.
 
 **Short files cost a little more than their length.** Billing rounds each file up to the minute,
 with a one minute minimum.

@@ -27,10 +27,10 @@ for you to review and re-editing never costs anything.
 | Noise and enhancement | Studio Sound | Magic Audio, remove background noise | No |
 | Captions and translation | Yes | Yes | No |
 | Podcast hosting | Not on the pages we read | Yes, Pro and above | No |
-| Transcription languages | Around 25, all Latin alphabet | Roughly 100 | 25 European |
+| Transcription languages | Around 25 | Roughly 100 | 25 European |
 | Audio export | M4A, WAV, MP3 | WAV, MP3 | WAV, FLAC, MP3, M4A, Opus |
-| Free plan | 1 media hour a month, 720p, watermark | 2 hours of multitrack (one-off), 720p, watermark | 15 minutes of transcription, no card |
-| Entry paid price (checked 17 Oct 2026) | $16 per person a month billed annually | $24 a month billed yearly | £13.99 a month, about £4.99 on three years |
+| Free plan | 1 media hour a month, 720p, watermark | Try 2 hours of multitrack recording, 720p, watermark | 15 minutes of transcription, no card |
+| Entry paid price (checked 17 Oct 2026) | $16 per person a month billed annually | £24 a month billed yearly (£288 a year), as shown to a UK visitor | £13.99 a month, about £4.99 on three years |
 
 ## What each one is for
 
@@ -41,8 +41,8 @@ browsers.
 
 **Riverside** starts from recording. Each guest's tracks "are recorded locally on each participant's
 computer or device", so "Slow internet should not affect their quality." The editor adds captions,
-Magic Audio, music and effects, and export to Premiere Pro or Final Cut Pro. Paid plans add podcast hosting, publishing to YouTube, Spotify, Apple and others, and
-on Grow and above, live streaming and social scheduling.
+Magic Audio, music and effects, and export to Premiere Pro or Final Cut Pro. Paid plans add podcast hosting and publishing to YouTube, Spotify, Apple and others,
+and Grow and above add Full HD live streaming, multistreaming and social scheduling.
 
 **Paraphrase** does one thing: you record or upload, every word gets a timestamp, and you edit by
 choosing which of your words stay and in what order. The export is your original recording with
@@ -50,8 +50,8 @@ pieces cut out at word boundaries.
 
 ## Where the three overlap
 
-All three let you cut by deleting words from a transcript and see what you cut. Descript keeps
-removed text as "ignored text" you can restore; Riverside shows it "in gray with a strikethrough";
+All three let you cut by deleting words from a transcript. Descript keeps
+the cuts made by Edit for Clarity as "ignored text" you can restore; Riverside shows removed text "in gray with a strikethrough";
 Paraphrase leaves cut words on screen, struck through, and one click puts each back. Riverside lets
 you copy and paste text to rearrange the recording; Paraphrase lets you drag a word to move it.
 
@@ -71,7 +71,8 @@ We have not compared output quality side by side, so this describes approaches, 
 
 **Generated speech** is the clearest split. Descript's Regenerate can "generate text-to-speech audio
 to fix a flubbed delivery", and Riverside's AI Voice "simulates your speaking voice" while VideoDub
-regenerates up to two words with lip sync. Both gate it: the voice has to be authorised before it is used. Paraphrase **never generates speech**. A word you never said cannot appear in
+regenerates up to two words with lip sync. Both ask for consent: Regenerate needs a custom AI speaker
+"authorized for use in Descript", and AI Voice works only with "your own, authenticated voice". Paraphrase **never generates speech**. A word you never said cannot appear in
 an export, because there is no audio for it. More on why in
 [why Paraphrase never generates speech](/blog/why-paraphrase-never-generates-speech).
 
@@ -84,14 +85,17 @@ person a month billed annually or $24 monthly; Creator $24 or $35; Business $50 
 comes with media hours (10, 30 or 40 a month) and AI credits (400, 800 or 1,500) that "don't roll
 over". Full detail in [Descript pricing](/blog/descript-pricing).
 
-**Riverside** shows US dollars. Pro is $29 a month or $24 a month billed yearly; Grow $39 or $34;
-Webinar $99 or $79; Business is "Contact Sales". Paid plans start with a 14-day free trial that
-needs a card. It adjusts "pricing by region"; we read only the dollar prices. Full detail in [Riverside pricing](/blog/riverside-pricing).
+**Riverside** showed us, as a UK visitor, prices in pounds. Pro is £35 a month, or £24 a month
+billed yearly (£288 a year); Grow £45 or £34 (£408 a year); Webinar £99 or £79 (£948 a year);
+Business is "Contact Sales". Pro, Grow and Webinar offer a 14-day free trial, which its help centre
+says needs a card. Riverside says it adjusts "pricing by region", and we did not see the page in
+other currencies. Full detail in [Riverside pricing](/blog/riverside-pricing).
 
 **Paraphrase** Premium is £13.99 a month, £83.85 a year (about £6.99 a month) or £179.65 for three
 years (about £4.99 a month), with 120 hours of transcription a month. One credit transcribes one
 second of audio, and credits are spent only at transcription: editing, cleanup and export cost
-nothing, so re-editing a recording or exporting it again is free. See [pricing](/pricing).
+no credits, so re-editing a recording or exporting it again is free. Cleanup has a daily limit
+(3 a day free, 30 on Premium). See [pricing](/pricing).
 
 ## What Paraphrase does not do
 
@@ -128,8 +132,13 @@ the guarantee comes from the tool rather than a setting you remember to leave of
 Descript facts come from descript.com/pricing, /features and /rooms and the Descript help centre
 articles for each feature named above. Riverside facts come from riverside.com/pricing and the
 Riverside help centre articles for each feature named above. All were read on 17 October 2026, and
-we have used neither hands-on. Where a vendor's own pages disagree (Riverside's pricing page and help centre
-differ on which plans include filler word removal, for example) we have left the detail out.
+we have used neither hands-on. Riverside's prices are filled in by a script, so we read the page as
+rendered; the dollar figures in its underlying HTML are not what a visitor sees, and we do not quote
+them. Some disagreements on the vendors' own pages still stand: Riverside's pricing FAQ still says
+Pro "drops from $29 to $24/month" and annual billing saves "up to 20%", and neither the $29 nor
+the 20% fits the £35 monthly and £24 yearly prices it showed us; its help centre lists filler word removal on all plans while its
+pricing page presents it under Pro; and Descript's language page says it supports 26 languages,
+lists 27 and its pricing page says 25, so we say "around 25".
 
 Paraphrase is ours, so this is not neutral; its facts come from our code and Stripe setup.
 Where it leads: it never generates speech, every cut the AI proposes is reviewable word by word,

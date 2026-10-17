@@ -10,7 +10,7 @@ description: "Descript has a free plan and paid plans from $16 a month billed an
 annually ($24, $35 or $65 billed monthly) for Hobbyist, Creator and Business. Each plan gives you
 monthly **media hours** and **AI credits**, and neither rolls over. Paraphrase is £13.99 a month
 (about £4.99 on the three year cycle) for 120 hours of transcription, with editing, AI cleanup and
-export not drawing on any allowance. They are not buying the same thing: Descript's plans buy a
+export using no credits (AI cleanup has a daily limit instead). They are not buying the same thing: Descript's plans buy a
 full production suite, Paraphrase's buys one narrow job.
 
 Prices checked on 17 October 2026 on Descript's own [pricing page](https://www.descript.com/pricing)
@@ -24,15 +24,16 @@ and help centre. Vendors change pricing, so check before you buy.
 | Hobbyist | $16 per person a month | $24 per person a month | 1 included |
 | Creator | $24 per person a month | $35 per person a month | Up to 3, billed separately |
 | Business | $50 per person a month | $65 per person a month | Up to 5, billed separately |
-| Enterprise | Custom | Custom | Custom |
+| Enterprise | Custom | Custom | Talk to sales |
 
 Two honest caveats:
 
 - **The page shows prices with a `$` and does not name the currency.** We are reporting the figures
   as displayed. If you are outside the US, check what you are actually charged.
-- **The page does not label which figure is which.** It shows two prices per plan and a toggle
-  saying annual billing saves "up to 35%" over monthly. The lower figure's sign-up link selects the
-  yearly interval, so we have read the lower one as annual.
+- **The figures are not labelled monthly or annual in text.** The page has a Monthly/Annual
+  toggle, set to Annual by default, saying annual billing saves "up to 35%" over monthly. With
+  Annual selected the lower figure shows, and its sign-up link selects the yearly interval, so we
+  have read the lower one as annual.
 
 Descript also offers discounts for students, educators and non-profits through a form, and says
 you can cancel from your subscription page.
@@ -56,8 +57,10 @@ one second each.
 **AI credits** count what you ask the AI to do. The help centre lists Underlord, Studio Sound,
 Remove filler words, Green Screen, Eye Contact, AI speech, avatars and generated video, and notes
 that chatting with Underlord uses "a few AI credits" per message. Descript does not publish a
-fixed credit cost for each action that we could find, so we cannot tell you how many filler word
-passes 400 credits buys.
+single price list. It says the cost of a tool you apply yourself "scales with the size of the job",
+that Studio Sound and Remove Filler Words cost at most 30 credits per file each time you apply
+them, and that Underlord has "no fixed price per action". So 400 credits covers at least 13 runs of
+either of those two tools, and how far it goes beyond that depends on what you run.
 
 **Neither rolls over.** In Descript's words: "Unused Media minutes and AI Credits don't roll over
 into the next cycle." On Creator and Business you can buy top-ups, which are "available for one-time
@@ -67,7 +70,8 @@ use without changing your subscription plan".
 
 Descript's Free plan needs no card. Its FAQ says it "includes everything you need to record, edit
 and mix audio and video content", and it is genuinely usable for trying the product: 1 media hour
-a month, text-based editing, 5 GB of storage, and 2 hours of Rooms remote recording a month.
+a month, text-based editing, 5 GB of storage, and 2 hours of Rooms remote recording (the page
+does not say "per month" for Free, as it does for the paid plans).
 
 The limits that matter: exports are capped at 720p and carry a watermark, the 100 AI credits are
 one-time, and AI features such as Remove filler words, Studio Sound, Underlord, text to speech,
@@ -83,7 +87,7 @@ From Descript's plan comparison:
 | Local export resolution | 720p | 1080p | 4K | 4K |
 | Upload file size | 1 GB | 10 GB | 20 GB | 50 GB |
 | Cloud storage | 5 GB | 100 GB | 1 TB | 2 TB |
-| Remote recording hours a month | 2 | 5 | 15 | 25 |
+| Rooms recording hours (per drive) | 2 | 5 a month | 15 a month | 25 a month |
 | Filler words, Studio Sound, Underlord | Limited | Yes | Yes | Yes |
 | Text to speech, Regenerate, voice clones | Limited | Yes | Yes | Yes |
 | Stock AI speakers | Limited | 25+ | 25+ | 60+ |
@@ -91,8 +95,9 @@ From Descript's plan comparison:
 | Priority support with SLA | No | No | No | Yes |
 
 Included on every plan, according to the page: transcription in 25 languages, multitrack
-transcription, speaker detection, screen recording, unlimited projects, audio export, shareable
-pages and editor comments.
+transcription, detection of 8+ speakers, unlimited projects, unlimited audio export length,
+unlimited shareable pages, commenting and live collaboration, and in Rooms, screen sharing, cloud
+backup recordings and editor comments.
 
 For someone editing spoken audio, the realistic entry point is **Hobbyist**: no watermark, 10 hours
 of media a month, and the AI tools unlocked within 400 credits.
@@ -135,8 +140,8 @@ comparable is the shape:
   captions, translation, AI voices and team seats. If you use those, Paraphrase is not a substitute
   at any price.
 - **Descript measures two things, Paraphrase one.** Descript counts media you bring in and AI work
-  you run. Paraphrase counts seconds transcribed and nothing else, so running cleanup again or
-  re-exporting in another format never touches your balance.
+  you run. Paraphrase's credits count seconds transcribed and nothing else, so running cleanup
+  again (within its daily limit) or re-exporting in another format never touches your balance.
 - **The hours are different sizes.** Descript Hobbyist includes 10 media hours a month and Creator
   30. Paraphrase Premium includes 120 hours of transcription a month. If you edit a lot of spoken
   audio and nothing else, that gap matters more than the headline price.

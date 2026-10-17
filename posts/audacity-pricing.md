@@ -6,10 +6,10 @@ description: "Audacity is free and open source, with no paid tier for the editor
 
 # Is Audacity free? What it costs and what it does not do
 
-**Bottom line:** yes. Audacity is free and open source under the GNU General Public License, with
-no paid version of the editor and no subscription, and its noise reduction, compression and
-loudness tools are all included. The places money can come in are optional: extra cloud storage
-on audio.com and paid plugins on MuseHub. What free does not buy you is a faster way to cut speech,
+**Bottom line:** yes. Audacity is free and open source under the GNU General Public License (GPL
+v3, per its Audacity 4 page), with no paid version of the editor and no subscription, and its
+noise reduction and compression tools are included. The places money can come in are optional:
+extra cloud storage on audio.com and paid plugins on MuseHub. What free does not buy you is a faster way to cut speech,
 because editing is still done on the waveform.
 
 Audacity's own homepage is direct about it: "Audacity has always been and will always remain free
@@ -28,22 +28,22 @@ course, always remain 100% free and open source."
 
 ## What you get for free
 
-More than most paid tools in this space, on the processing side:
+A lot, on the processing side:
 
 - **Recording and multitrack editing.** Record, import, cut, split, trim, move clips between
   tracks, mix and pan. Unlimited undo during a session.
 - **Noise Reduction.** Select a few seconds of background noise, get a noise profile, then apply it
   to the rest. Audacity says it works best on steady noise: hiss, fan noise, 50 or 60 Hz hum,
   buzzing.
-- **Noise Gate and Notch Filter**, for quiet gaps and a hum at one frequency (documented in the
-  Audacity 3 manual).
+- **Noise Gate**, for quiet gaps, and a **Notch Filter** for a hum at one frequency (the Notch
+  Filter is documented in the Audacity 3 manual).
 - **Compressor**, as a destructive or realtime effect, with factory presets.
-- **Loudness Normalization** to a LUFS target, which Audacity's manual describes as the loudness
-  "required by podcast platforms".
+- **Loudness Normalization** to a LUFS target, which the Audacity 3 manual describes as the
+  loudness "required by podcast platforms". We could not find it documented for Audacity 4 yet.
 - **Other effects**: reverb, echo, delay, distortion, pitch, speed, reverse and vocal remover.
 - **Plugins.** Audacity 4 loads VST3, LV2 and Audio Units plugins.
 - **Export** to formats including MP3, WAV, FLAC, Opus and M4A (AAC). M4A needs FFmpeg, which
-  Audacity cannot bundle for patent reasons, so it is a separate free install.
+  Audacity cannot bundle for patent reasons, so it is a separate install.
 
 ## Where money can come in
 
@@ -57,10 +57,13 @@ audio.com's subscription page on 17 October 2026, so we are not quoting its curr
 allowance. Check it yourself if you plan to rely on cloud saving.
 
 **MuseHub add-ons.** Audacity's site links to MuseHub, which it calls "the official distributor of
-Audacity", and to plugins including the Soap Voice Clean & Capture Bundle (described as able to
-"Clean up spoken voice and create instant transcripts"), Speaker Splitter Pro, Trinity EQ, MuseFX
-and Graillon 3. We could not read the MuseHub pages to confirm their prices, so we are not stating
-them.
+Audacity". MuseHub itself is optional (you can download Audacity directly) and Audacity says
+installing through it gives you some free extras, including Muse FX effects plugins. Audacity 4's
+Get Effects browser lists MuseHub plugins "Including free and paid options". Audacity's site also
+promotes plugins including the Soap Voice Clean & Capture Bundle (described as able to "Clean up
+spoken voice and create instant transcripts"), Speaker Splitter Pro, Trinity EQ and Graillon 3. We
+could not read the MuseHub pages to confirm which of these are paid or what they cost, so we are
+not stating it.
 
 **Your time.** This is the real cost for spoken word, and it is the next section.
 
@@ -79,7 +82,8 @@ feature page describes running Whisper "entirely on your own computer" via the f
 plugin, with "no minute limits, no subscription", in 99 languages. That is genuinely generous. But
 Audacity's own OpenVINO download page warns that "The OpenVINO plugins are not yet compatible with
 the latest Audacity version", and the builds it links are for Audacity 3.7.1 on Windows and macOS.
-If you want transcription today, you may need to stay on 3.7.
+Audacity 3.7.x releases are still on its older versions page, but check the plugin's compatibility
+before relying on it with 4.0.1.
 
 **The transcript does not drive the edit.** Whisper writes words into a label track you can "edit,
 search, and export as SRT subtitles, VTT, or plain text". The feature page does not describe
@@ -96,7 +100,7 @@ to cut them or drag them to reorder, and it exports your original recording with
 removed. It never generates speech. It also has none of Audacity's processing: no noise removal,
 no levelling, no EQ, no effects.
 
-It is paid, and it prices by transcription because that is where its cost is. One credit
+Beyond a free allowance it is paid, and it prices by transcription. One credit
 transcribes one second of audio, spent once. Editing, AI cleanup and export do not use credits, so
 re-editing and re-exporting are free.
 

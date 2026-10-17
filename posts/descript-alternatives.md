@@ -1,25 +1,24 @@
 ---
 title: "Descript alternatives: the honest options for editing by transcript"
 date: 2026-10-17
-description: "Descript does more than almost anything else in this category. If you are looking at alternatives, here is what each one replaces, what it does not, and when staying put is the right call."
+description: "Descript covers recording, editing by transcript, video, audio clean-up and AI voices in one product. If you are looking at alternatives, here is what each one replaces, what it does not, and when staying put is the right call."
 ---
 
 # Descript alternatives: the honest options for editing by transcript
 
-**Bottom line:** there is no single like-for-like replacement for Descript, because almost nothing
-else combines transcript editing, video, remote recording, screen recording, captions, audio
-cleanup and AI voices in one product. If you want the remote studio, look at **Riverside**. If you
+**Bottom line:** none of the alternatives below is a like-for-like replacement for Descript, which
+combines transcript editing, video, remote recording, screen recording, captions, audio clean-up
+and AI voices in one product. If you want the remote studio, look at **Riverside**. If you
 only want to cut your own spoken audio by its transcript, with an AI cleanup you review and no
-generated speech, **Paraphrase** does that one job for less. If you use most of what Descript does,
+generated speech, **Paraphrase** does that one job and nothing else. If you use most of what Descript does,
 stay with Descript.
 
-Descript is the tool most people mean when they say "edit audio like a document". Its own feature
-page puts it plainly: "Text-based editing lets you edit video and audio by editing the transcript."
+Descript's own feature page puts its core idea plainly: "Text-based editing lets you edit video and audio by editing the transcript."
 Around that it has built a full production suite. People looking for alternatives are usually
 after one of a few things, and switching only solves some of them.
 
-All Descript details below come from Descript's own pricing page and help centre, read on
-17 October 2026.
+All Descript details below come from Descript's own pricing, features and Rooms pages and its
+help centre, read on 17 October 2026.
 
 ## Why people look for Descript alternatives
 
@@ -47,12 +46,12 @@ mobile browsers or tablets.
 
 | Tool | What it is | Edits by transcript | Generates speech | Free to start | Best for |
 | --- | --- | --- | --- | --- | --- |
-| Descript | Full audio and video production suite | Yes | Yes, opt-in (voice clones, Regenerate) | Yes, Free plan | Doing everything in one place |
-| Riverside | Remote recording studio with editing | Yes, on paid plans | Not stated on its pricing page | Yes, Free plan | Recording guests remotely |
-| Podcastle | Podcast recording and editing | See its site | Yes, text to speech | Yes, Free plan | Recording plus AI voices |
-| CapCut | Video editor for social content | Not stated on its homepage | Yes, text to speech | Yes | Short-form video and captions |
-| Cleanvoice | Automatic audio clean-up | Not stated | No | Free trial | Removing fillers, silence and mouth sounds |
-| Audacity | Free, open source audio editor | No, waveform editing | No | Free, always | Hands-on waveform editing at no cost |
+| Descript | Full audio and video production suite | Yes | Yes (text to speech, voice clones, Regenerate) | Yes, Free plan | Doing everything in one place |
+| Riverside | Remote recording studio with editing | Yes (its help centre lists it on all plans) | Yes, AI Voice on paid plans (labelled experimental) | Yes, Free plan | Recording guests remotely |
+| Podcastle | Podcast recording and editing | Yes, a text-based audio editor | Yes, text to speech | Yes, Free plan | Recording plus AI voices |
+| CapCut | Video editor for social content | Yes, a transcript editing tool | Yes, text to speech | Yes | Short-form video and captions |
+| Cleanvoice | Automatic audio clean-up | No, its FAQ says it does not work from the transcript | Not described on its pages | Free trial | Removing fillers, silence and mouth sounds |
+| Audacity | Free, open source audio editor | No, waveform editing | Not described on its site | Free, always | Hands-on waveform editing at no cost |
 | Paraphrase | Edits your own recording by its transcript | Yes, that is all it does | Never | Yes, 15 minutes | Cutting spoken audio cleanly |
 
 The other tools' entries are kept deliberately short. We checked each on its own site on
@@ -65,9 +64,10 @@ several of their pricing pages were inconsistent or incomplete when we read them
 
 **The closest match if remote recording is why you use Descript.** Riverside's pricing page offers
 a free plan with "2 hours of multi-track recordings (Separate audio and video tracks)", and its Pro
-plan lists "Unlimited text-based editing" and removing "silences & filler words". Descript's own
-equivalent is Rooms, which records every participant locally "in up to 4K" with a separate file
-each, so this is a like-for-like choice rather than an upgrade either way.
+plan lists "Unlimited text-based editing" and removing "silences & filler words". Its help centre
+lists text-based editing on all plans, and AI Voice, which generates speech in your own
+authenticated voice, on paid plans. Descript's own equivalent is Rooms, which records every
+participant locally "in up to 4K" with a separate file each, so the two are close in shape.
 
 **Best for:** shows built around remote guests, where recording quality matters more than editing.
 
@@ -75,25 +75,27 @@ each, so this is a like-for-like choice rather than an upgrade either way.
 
 A podcast recording and editing tool. Its pricing page (podcastle.ai/pricing currently redirects to
 async.com/pricing) lists a free plan with an hour of remote multitrack recording, a small
-text-to-speech allowance, and AI noise reduction. If what you like about Descript is having
-recording, editing and AI voices together, this is the same shape.
+text-to-speech allowance, and AI noise reduction, and its audio editor page says you can "edit by
+deleting words from an automatic transcript". If what you like about Descript is having recording,
+editing and AI voices together, this is the same shape.
 
 **Best for:** people who want a recording studio and AI voices without Descript's video side.
 
 ### CapCut
 
-A video editor aimed at social content, with desktop, browser, mobile and tablet versions, free to
-start with no card. Its homepage lists auto captions and text to speech. It does not describe
-editing by transcript, so it replaces Descript's video and captions side rather than its script
-editing.
+A video editor aimed at social content, with desktop, browser and mobile versions, free to start
+with no card. Its homepage lists auto captions and text to speech, and a separate transcript
+editing page describes editing a video by editing its transcript. It covers Descript's video,
+captions and script editing side, with no remote recording studio described on the pages we read.
 
-**Best for:** short-form video where captions and templates matter most.
+**Best for:** short-form video where captions matter most.
 
 ### Cleanvoice
 
 An automatic clean-up service rather than an editor. Its pricing page describes removing filler
-words, mouth sounds, breaths, silence and dead air, plus noise and echo removal. You do not edit a
-transcript; it processes the file for you.
+words, mouth sounds, breaths, silence and dead air, plus noise and echo removal. Its FAQ says it
+"doesn't work based on the transcript-to-edit flow": you upload the file and it processes it for
+you.
 
 **Best for:** batch-cleaning finished recordings when you do not want to touch an editor.
 
@@ -134,9 +136,11 @@ Where it differs from Descript:
   different words), and can move words where a sentence reads better. Every cut shows struck
   through and any word can be put back. It has been tested on English speech. See
   [how AI cleanup works](/docs/ai-cleanup).
-- **You pay once, at transcription.** One credit transcribes one second of audio. Editing, cleanup
-  and export use no credits, so re-editing and re-exporting are free.
-- **Lossless exports.** WAV, FLAC, MP3, M4A and Opus, plus MP4 when the project has a video take.
+- **Credits are spent once, at transcription.** One credit transcribes one second of audio.
+  Editing, cleanup and export use no credits, so re-editing and re-exporting are free. Cleanup has
+  a daily limit instead (30 a day on Premium, 3 on the free plan).
+- **Lossless and compressed exports.** WAV and FLAC (lossless), MP3, M4A and Opus, plus MP4 when
+  the project has a video take.
 
 Where it does not compete, plainly: no noise removal or enhancement, no remote recording studio or
 multitrack, no speaker labels, captions or translation, no collaboration, no screen recording, and

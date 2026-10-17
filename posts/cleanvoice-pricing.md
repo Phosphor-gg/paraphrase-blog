@@ -20,9 +20,10 @@ so check before you buy.
 
 ## The free trial
 
-Cleanvoice gives you **30 minutes of processed audio free, with no credit card**. Its home page
-says you get the 30 minutes of credit once you sign up, and its upload boxes invite you to try
-without signing up first. The pricing data marks the trial as including all
+Cleanvoice gives you **30 minutes of processed audio free, with no credit card**. Its help centre
+says the 30 minutes are added when you sign up and do not expire. You can also try a guest upload
+without signing up, but guest audio over 30 minutes (or video over 10 minutes) is trimmed and you
+only review part of the result until you sign up. The pricing page marks the trial as including all
 features. That is enough to put a real segment of an episode through every setting and hear the
 result, which is the right way to judge a tool like this.
 
@@ -44,7 +45,7 @@ the 10 hour plan you get 10 hours each month and can carry up to 30 hours from p
 you cancel, unused subscription credits last until the end of the billing period. You can upgrade,
 downgrade or cancel at any time.
 
-For more than 200 hours a month there is a custom plan "starting at $0.01 / minute" with custom API
+For 200 or more hours a month there is a custom plan "starting at $0.01 / minute" with custom API
 endpoints and priority support, arranged on a call.
 
 ## Pay-as-you-go packs
@@ -67,6 +68,9 @@ A few details from Cleanvoice's pricing FAQ that change the real cost:
   noise. For lots of short clips it adds up.
 - **Multitrack uploads currently cost nothing extra**, though Cleanvoice says this will change.
 - **Failed uploads are not charged.**
+- **Reprocessing is charged again.** Cleanvoice's help centre says each processing run is billed
+  separately, so running the same file again with different settings counts as a new edit
+  (support may give you a credit if you were unhappy with a result).
 - **Every plan includes every feature**: filler words, background noise, silences, video,
   mouth sounds and breaths, the Studio Sound enhancer, timeline export, and transcription with
   summaries. There is no feature tier to climb.
@@ -76,7 +80,8 @@ files for **7 days**, then deletes them permanently. Keep your own copies.
 
 ## How Paraphrase prices editing
 
-Paraphrase is a different kind of tool, so its pricing measures something different. It edits your
+Paraphrase is a different kind of tool, so its pricing measures something different. Prices
+below are from Paraphrase's live billing setup, checked 17 October 2026. It edits your
 recording by its transcript: you cut and reorder words, and one AI button proposes a cut you review
 word by word. It has no noise removal or other sound processing.
 

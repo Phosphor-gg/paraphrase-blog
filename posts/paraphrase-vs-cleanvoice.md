@@ -28,32 +28,33 @@ usually obvious.
 | Noise removal and enhancement | **Yes: noise, echo, reverb, loudness, Studio Sound enhancer** | No |
 | Captions | **Transcripts export as .srt subtitles** | No |
 | Multitrack | **Up to 5 tracks, edited in sync** | No |
-| Video | Cleans the audio of a video, cutting or muting edits to keep its length | MP4 export with picture and sound cut at the same words |
-| Export formats | MP3, WAV, FLAC, M4A, Opus, AAC | WAV, FLAC, MP3, M4A, Opus |
+| Video | Cleans the audio of a video; edits are cut, or muted to keep its length | MP4 export with picture and sound cut at the same words |
+| Export formats | MP3, WAV, FLAC, M4A, Opus, AAC (per its API docs); video keeps its original container | WAV, FLAC, MP3, M4A, Opus |
 | Transcription languages | **99; filler removal in 20+** | 25 European; cleanup tested on English |
 | Files kept | 7 days | Until you delete them |
 | API | **REST API with Python and JavaScript SDKs** | No public API |
-| Free plan | **30 minutes of processed audio, no card** | 15 minutes of transcription once, no card |
+| Free to try | **Free trial: 30 minutes of processed audio, no card** | 15 minutes of transcription once, no card |
 | Entry price (checked 17 October 2026) | $11 (€10) a month for 10 hours, excluding VAT; pay as you go from $11 (€10) for 5 hours | £13.99 a month for 120 hours |
-| Billing unit | Per minute of audio processed, rounded up; subscription hours roll over up to 3 times the monthly amount | Per second transcribed, spent only at transcription, so cleanup, re-editing and export are free |
+| Billing unit | Per minute of audio processed, rounded up, one minute minimum; reprocessing is billed again; subscription hours roll over up to 3 times the monthly amount | Per second transcribed, spent only at transcription, so cleanup, re-editing and export are free |
 
 ## What Cleanvoice actually does
 
 You upload audio or video, pick a template of fixes, and get a processed file back. Filler removal
 adds room noise where a filler was so the flow sounds natural, and long silences are shortened by
-context rather than by a volume threshold. Mouth sounds cover clicks, lip smacks and saliva
+context: a thinking pause gets shorter, a pause at a change of topic stays longer. Mouth sounds cover clicks, lip smacks and saliva
 crackle; breaths can be muted or reduced.
 
 After processing you see how much was removed and can compare the original with the edited version.
 To change individual edits, Cleanvoice's documented route is exporting markers or timestamps into
-Audition, Premiere, DaVinci Resolve, REAPER, Audacity or any EDL editor.
+Audition, Premiere, DaVinci Resolve, REAPER, Audacity or any EDL editor. Its help centre says
+you cannot choose time ranges to apply or skip edits.
 
 ## Where cleaning by sound reaches its ceiling
 
 Cleanvoice says it "doesn't work based on the transcript-to-edit flow", and that its filler
-detection "works on how speech sounds, not on text". That is exactly why it handles accents, many
-languages and non-verbal noise so well. It also means some of the most common problems in a spoken
-recording are invisible to it, because they are fluent speech:
+detection "works on how speech sounds, not on text". That is why it can work across accents, many
+languages and non-verbal noise. It also means some of the most common problems in a spoken
+recording are fluent speech, and nothing in Cleanvoice's documentation describes cutting them:
 
 - **False starts.** "So the thing about, what I wanted to say is" contains no um and no stutter.
 - **Hedges.** "I think, sort of, maybe" are real words said cleanly.
@@ -91,7 +92,7 @@ about your recordings, Paraphrase will not touch them and Cleanvoice will.
 ## Why trust this comparison
 
 Everything above about Cleanvoice comes from Cleanvoice's own pages, all read on 17 October 2026:
-the home page and its FAQ, the pricing page, the feature pages for filler words, stutters, mouth
+the home page and its FAQ, the pricing page, its help centre, the feature pages for filler words, stutters, mouth
 sounds, breaths, dead air, background noise, the audio enhancer, transcripts, summaries, video
 editing and integrations, its API documentation, and a Cleanvoice blog post describing the report
 screen. We have not used Cleanvoice hands-on.
@@ -99,9 +100,10 @@ screen. We have not used Cleanvoice hands-on.
 We make Paraphrase, so this is not a neutral comparison. What we have done instead is bold
 Cleanvoice's wins in the table, and say where we could not read something rather than guess.
 
-Two gaps are worth naming. Cleanvoice's help centre would not load as readable pages, so we could
-not confirm whether its web app lets you undo a single edit in place; the table describes only the
-documented route, exporting markers to another editor. And a Cleanvoice summary file mentions a
+Two gaps are worth naming. Cleanvoice's help centre says you cannot choose time ranges to apply
+or skip edits and points to the export, but no page we read says outright whether its web app lets
+you undo a single edit in place; the table describes only the documented route, exporting markers
+to another editor. And a Cleanvoice summary file mentions a
 200-hour pay-as-you-go pack that does not appear on its pricing page, so we left it out. Prices
 are as listed, excluding VAT, in the dollars and euros the page offers.
 

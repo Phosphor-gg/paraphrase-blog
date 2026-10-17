@@ -9,7 +9,7 @@ description: "Podcastle is now Async. Its paid plans run from £19.99 a month, o
 **Bottom line:** Podcastle is now Async, and its paid plans are **Essentials at £19.99 a month**,
 **Pro at £39.99** and **Teams at £84.99 per creator**, or £11.99, £23.99 and £49.99 a month on yearly
 billing. Each plan sets separate hour limits for transcription, recording and AI voices, plus a
-monthly pot of AI credits. The free plan's limits are lifetime, not monthly. Paraphrase is £13.99 a
+monthly pot of AI credits. The free plan's allowances are lifetime, not monthly. Paraphrase is £13.99 a
 month with 120 hours of transcription, but it only edits your recording; it does not record guests,
 clean up sound or generate anything.
 
@@ -54,7 +54,7 @@ From Async's comparison table and plan cards:
 | Audio transcription | 2 hours, lifetime | 10 hours | 25 hours | 100 hours |
 | Remote multitrack recording | 1 hour, lifetime | 2 hours (card says 4 hours of recording) | 20 hours | 50 hours |
 | Text to speech | About 15 minutes, lifetime | About 2 hours | About 10 hours | About 40 hours |
-| Recording quality | 720p video, 44kHz | 720p video, 44kHz | 4K, 48kHz | 4K, 48kHz |
+| Recording quality | Up to 720p video, 44kHz | Up to 720p video, 44kHz | Up to 4K, 48kHz | Up to 4K, 48kHz |
 | Audio export | Up to 160kbps MP3 | 320kbps MP3 or WAV | 320kbps MP3 or WAV | 320kbps MP3 or WAV |
 | Video export | Up to 720p | Up to Full HD | Up to 4K | Up to 4K |
 | Export limit | 1 file | Unlimited | Unlimited | Unlimited |
@@ -65,14 +65,20 @@ Recording", while the comparison table's remote multitrack recording row says 2 
 tell from the page which applies to what, so check with Async if recording hours on Essentials
 matter to you.
 
-Every paid plan card lists "AI Audio enhancement: Magic Dust, Noise reduction, Silence removal".
+Every paid plan card lists "AI Audio enhancement: Magic Dust, Noise reduction, Silence removal";
+the comparison table does not include them on Free.
 Essentials and Pro get AI subtitles in English only; Teams gets "5+ languages", plus AI dubbing and
 lip sync, Producer Mode and a brand kit. Session participants are capped at 10 on every plan.
 
-Several features in the comparison table are shown as ticks rather than numbers (text-based audio
-editing, voice cloning, podcast hosting and others). Those ticks did not survive when we read the
-table, so we cannot tell you plan by plan which ones are on the free tier. If you need one of them
-on Free, check the live page.
+Several features in the comparison table are shown as ticks rather than numbers. Plan by plan:
+
+- **Text-based audio editing:** "Limited" on Free, included on every paid plan. The page does not
+  say what "Limited" means.
+- **Voice cloning:** Pro, Teams and Business only, not Free or Essentials.
+- **Podcast hosting and publishing:** every plan, including Free.
+- **Watermark removal:** paid plans only.
+- **Team workspace and collaboration:** Teams and Business only.
+- **Producer Mode:** Teams and Business only; branded waiting room widgets from Pro up.
 
 ## How the credits work
 
@@ -93,9 +99,10 @@ separate from credits. If you only edit podcasts, the hours are the numbers to r
 ## Free plan, trials and refunds
 
 - **No card** is needed for the free plan.
-- The free plan's main limits are **lifetime**: 2 hours of audio transcription, 1 hour of remote
-  recording, about 15 minutes of text to speech, 10 credits, and an export limit of 1 file at up to
-  160kbps MP3. It is a way to try the product, not to run a show.
+- The free plan's main allowances are **lifetime**: 2 hours of audio transcription, 1 hour of
+  remote recording, about 15 minutes of text to speech and 10 credits. Exports are limited to 1 file,
+  audio at up to 160kbps MP3, and the comparison table shows no Magic Dust, noise reduction, silence
+  removal or watermark removal on Free. It is a way to try the product, not to run a show.
 - **Refunds:** "a 7-day refund policy on new subscriptions, which applies to the initial upgrade
   (excluding AI credits used)".
 - **Cancelling:** any time, from Profile Settings. Upgrades are immediate and prorated; downgrades
@@ -104,7 +111,7 @@ separate from credits. If you only edit podcasts, the hours are the numbers to r
 
 ## How Paraphrase prices editing
 
-Paraphrase is one plan, priced for transcription only:
+Paraphrase has a free plan and one paid plan, Premium, priced for transcription only:
 
 | Billing cycle | Price | Works out at |
 | --- | --- | --- |
@@ -130,8 +137,8 @@ The numbers invite a direct comparison, and it is only half fair.
 - **On transcription hours alone, Paraphrase includes more.** 120 hours a month for £13.99 against
   10 hours for £19.99 on Async Essentials, or 25 hours on Pro at £39.99.
 - **On everything else, Async includes far more.** Remote multitrack recording, noise reduction and
-  levelling, AI voices and cloning, subtitles, hosting with an RSS feed, video editing up to 4K, and
-  AI generation credits. Paraphrase does none of those. If you use them, the price buys real things.
+  levelling, AI voices (and voice cloning from Pro up), subtitles, hosting with an RSS feed, video
+  export up to Full HD on Essentials or 4K from Pro, and AI generation credits. Paraphrase does none of those. If you use them, the price buys real things.
 - **Languages differ.** Async's help centre lists five transcription languages: English, Spanish,
   German, French and Italian. Paraphrase transcribes 25 European languages.
 - **Paraphrase never generates speech.** That is a design choice rather than a missing tier.

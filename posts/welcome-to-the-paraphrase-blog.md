@@ -26,7 +26,7 @@ It also does not try to be a full studio. There is no remote recording, no multi
 
 ## What this blog will cover
 
-- **Honest comparisons** with the tools people already use, Descript, Riverside, Podcastle, CapCut, Cleanvoice and Audacity among them, including where they are the better choice.
+- **Honest comparisons** with the tools people already use, Descript, Riverside, Podcastle (now Async), CapCut, Cleanvoice, Adobe Podcast and Audacity among them, including where they are the better choice.
 - **Pricing breakdowns** that say what each tool costs, what sits behind its paywall and when the prices were checked.
 - **Guides** to editing spoken audio by transcript.
 
@@ -34,4 +34,4 @@ Every competitor claim is checked against that competitor's own pages, and every
 
 ## Try it
 
-A free account comes with fifteen minutes of transcription and three AI cleanups a day, with no card. [Create one on paraphrase.bot](https://paraphrase.bot), or see [what Premium includes](/pricing).
+A new free account comes with fifteen minutes of transcription and three AI cleanups a day, with no card. [Create one on paraphrase.bot](https://paraphrase.bot), or see [what Premium includes](/pricing).

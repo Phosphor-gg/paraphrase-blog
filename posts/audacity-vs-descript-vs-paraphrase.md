@@ -7,11 +7,11 @@ description: "Audacity is a free, open source waveform editor, Descript is a ful
 # Audacity vs Descript vs Paraphrase: waveform, full suite, or words only
 
 **Bottom line:** pick **Audacity** if your budget is zero or your work is on the sound itself: it is
-free, open source, runs on Windows, macOS and Linux, and has real noise reduction,
-compression and loudness normalisation, but you cut on a waveform. Pick **Descript** if you want to
+free, open source, runs on Windows, macOS and Linux, and has built-in Noise Reduction and a
+compressor, but you cut on a waveform. Pick **Descript** if you want to
 edit audio and video by transcript with Studio Sound, captions, screen recording and AI voices in one
-app. Pick **Paraphrase** if cutting speech is what eats your time and you want the cheapest way to do
-it by the words: an AI cleanup you review word by word, free re-editing, and no generated speech.
+app. Pick **Paraphrase** if cutting speech is what eats your time and you want to do it by the
+words: an AI cleanup you review word by word, free re-editing, and no generated speech.
 Many people should pair Paraphrase with Audacity.
 
 ## Quick comparison
@@ -20,25 +20,24 @@ Many people should pair Paraphrase with Audacity.
 | --- | --- | --- | --- |
 | How you cut | Select a region of the waveform | Edit the transcript | Click words in the transcript |
 | Runs on | Windows, macOS, Linux desktop | macOS and Windows apps, Chromium browsers | Browser |
-| Transcription | Whisper plugin, built for 3.7.1 | Built in, around 25 languages | Built in, 25 European languages |
-| AI filler and repetition cuts | Not in its documentation | Remove filler words (English only), Edit for Clarity | One AI cleanup: fillers, false starts, hedges, repetition |
+| Transcription | OpenVINO Whisper plugin, builds for 3.7.1 only | Built in, around 25 languages | Built in, 25 European languages |
+| AI filler and repetition cuts | Not described on its pages | Remove filler words (English only), Edit for Clarity | One AI cleanup: fillers, false starts, hedges, repetition |
 | Generated speech | Not described | Regenerate, voice clones, stock AI speakers | Never |
 | Noise reduction | Yes, from a noise profile | Studio Sound | No |
-| Compressor, loudness normalisation | Yes | Loudness normalise on export | No |
+| Compressor, loudness normalisation | Compressor, yes; Loudness Normalization documented only for Audacity 3 | Loudness normalise on export | No |
 | Plugins and effects | VST3, LV2, Audio Units | Not on the pages we read | No |
 | Multitrack | Yes | Multitrack transcription | No |
 | Video | Audio only on its pages | Yes | MP4, picture and sound cut at the same words |
 | Lossless export | WAV, FLAC and more | WAV | WAV, FLAC |
-| Price (checked 17 Oct 2026) | Free, GPL | Free plan; paid from $16 per person a month billed annually | Free 15 minutes; Premium £13.99 a month, about £4.99 on three years |
+| Price (checked 17 Oct 2026) | Free, GPL v3 | Free plan; paid from $16 per person a month billed annually | Free 15 minutes; Premium £13.99 a month, about £4.99 on three years |
 
 ## What each one is for
 
 **Audacity** is "the world's most popular free software for recording and editing audio", in its
 own words, now at version 4.0.1. You record or import, see a waveform, and remove a section by
 selecting it "by clicking and dragging in the waveform" and pressing Delete. Around that sit Noise
-Reduction, a noise gate, a compressor, Loudness Normalization to podcast platform targets, effects,
-third-party plugins and unlimited undo. Its footer credits Muse Group and contributors, and it is licensed
-under the GNU General Public License.
+Reduction, a noise gate, a compressor, effects, third-party plugins and unlimited undo. Its footer
+credits Muse Group and contributors, and Audacity 4 is licensed under the GPL v3.
 
 **Descript** is an audio and video editor you drive by its transcript. It lists captions, screen
 recording, Studio Sound, Remove Filler Words, Remove Retakes, Edit for Clarity, Regenerate,
@@ -79,18 +78,19 @@ a word you never said cannot appear in an export.
 Checked on 17 October 2026. We have not converted currencies.
 
 **Audacity** says it "has always been and will always remain free for everyone", with "No
-subscription required". Money only comes in for optional extras: paid Audacity Cloud storage on
-audio.com and paid MuseHub add-ons. We could not read those prices, so we do not quote them. See
+subscription required". The costs we found are optional extras: paid Audacity Cloud storage on
+audio.com, and MuseHub add-ons, which Audacity describes as "free and paid options". We could not
+read those prices, so we do not quote them. See
 [Is Audacity free?](/blog/audacity-pricing)
 
 **Descript** shows `$` prices without naming the currency: a free plan, then Hobbyist $16 per person
 a month billed annually or $24 monthly, Creator $24 or $35, Business $50 or $65, each with media hours
 and AI credits that do not roll over. See [Descript pricing](/blog/descript-pricing).
 
-**Paraphrase** is free for 15 minutes of transcription with 3 cleanups a day and no card. Premium is
-£13.99 a month, £83.85 a year or £179.65 for three years (about £4.99 a month), with 120 hours of
-transcription a month. Credits are spent only at transcription, so re-editing and re-exporting are
-free. See [pricing](/pricing).
+**Paraphrase** gives a new account 15 minutes of transcription with no card, and 3 cleanups a day.
+Premium is £13.99 a month, £83.85 a year or £179.65 for three years (about £4.99 a month), with 120
+hours of transcription a month and 30 cleanups a day. Credits are spent only at transcription, so
+re-editing and re-exporting are free. See [pricing](/pricing).
 
 ## What Paraphrase does not do
 
@@ -105,15 +105,16 @@ Audacity does most of this for free, and Descript does much of it too:
 
 ## Which should you pick?
 
-**Your budget is zero, or your edits are light:** Audacity. It is mature and genuinely capable. Our
+**Your budget is zero, or your edits are light:** Audacity. It is free and covers recording,
+waveform editing and effects. Our
 [Audacity review](/blog/audacity-review) covers it.
 
 **You want one app for audio, video, captions and remote guests:** Descript. See our
 [Descript review](/blog/descript-review).
 
 **Cutting long interviews, lectures or voiceovers takes longer than recording them:** Paraphrase for
-the cut, then Audacity for the sound. Export WAV from Paraphrase, then run Noise Reduction, a
-compressor and Loudness Normalization in Audacity. Because re-editing is free, you can change the cut
+the cut, then Audacity for the sound. Export WAV from Paraphrase, then run Noise Reduction and a
+compressor in Audacity. Because re-editing is free, you can change the cut
 later and run it through again. See [interview editing](/interview-editing) and
 [podcast editing](/podcast-editing).
 
@@ -128,7 +129,12 @@ Audacity facts come from audacityteam.org (home page, features, FAQ, download, O
 Audacity 4 pages) and support.audacityteam.org (editing, export, FFmpeg and noise reduction
 articles). Descript facts come from descript.com/pricing and /features and its help centre articles
 on filler words, Edit for Clarity, Regenerate, platforms and audio export. All were read on 17
-October 2026, and we have used neither hands-on for this post.
+October 2026, and we have used neither hands-on for this post. Audacity's pages still disagree in
+places, and we have followed the more cautious one: its transcription page says "Free for Windows,
+Mac & Linux" while the plugin download page warns the plugins "are not yet compatible with the
+latest Audacity version" and offers only Windows and macOS builds for 3.7.1; and Loudness
+Normalization, the Notch Filter and Nyquist plugins are documented in the Audacity 3 manual but not
+confirmed for Audacity 4, so we do not claim them for the current version.
 
 Paraphrase is ours, so this is not neutral. Where it leads: it never generates speech, every cut its
 AI proposes is reviewable word by word, and re-editing is free. Where it does not: it is the

@@ -22,8 +22,9 @@ we say so rather than guess.
 Riverside is a remote recording studio that has grown into a content platform. Its editor overview
 lists timeline editing, transcript editing, captions, AI tools, layouts, music and sound effects,
 motion graphics and exports, and the pricing page adds podcast hosting, publishing, live
-streaming, webinars, newsletters and a creator website. There is a free plan, and paid plans start
-at $29 a month or $24 a month billed yearly.
+streaming, webinars, newsletters and a creator website. There is a free plan, and Pro, the
+cheapest paid plan, was £35 a month or £24 a month billed yearly as shown to a UK visitor on 17
+October 2026.
 
 ## What Riverside does well
 
@@ -39,7 +40,8 @@ separate, high-quality tracks do not include the watermark."
 **The text-based editor covers the basics properly.** Click a word or drag across a phrase and
 delete it; cut text stays visible in grey with a strikethrough so you can see what you removed.
 You can copy and paste text to rearrange the recording, and when two people talk over each other
-it asks which speaker you meant to cut. Speakers are labelled by their studio display name.
+it asks which speaker you meant to cut. Speakers are labelled by their studio display name,
+unless two people recorded into the same audio input.
 
 **Filler word removal is reviewable, not just a switch.** The help centre describes a review panel
 that groups fillers into types: "um", "uh" and "hmm"; contextual fillers like "like", "you know"
@@ -52,7 +54,7 @@ Co-Creator suggest "redundant takes, chatter, and technical discussions" as comm
 discard. Pause removal has a slider for how aggressive it is.
 
 **It is one account for everything.** Hosting, publishing to YouTube and Spotify, Magic Clips,
-show notes and live streaming are in the same place as the recording. Fewer tools to stitch
+show notes and, from the Grow plan up, live streaming are in the same place as the recording. Fewer tools to stitch
 together.
 
 **Transcription covers a lot of languages.** The help centre lists roughly a hundred, from English
@@ -68,21 +70,22 @@ correction and more. If you record alone and only want a clean edit of your own 
 paying for a studio you do not use. There is more on this in our
 [Riverside pricing breakdown](/blog/riverside-pricing).
 
-**The free plan is a trial of the studio.** It includes 2 hours of multitrack recording, once, up
+**The free plan is a trial of the studio.** It lets you try 2 hours of multitrack recording, up
 to 720p video, and a watermark on exports (on audio, a "Powered by Riverside" track at the start).
 
 **Separate track downloads are capped below Business.** Recording is unlimited, but downloading
-per-participant tracks is limited to 15 hours a month on Pro by the plan card and FAQ. The
-comparison table on the same page said 5 hours for Pro, so check before relying on it.
+per-participant tracks is limited to 15 hours a month on Pro by the plan card and FAQ. The help
+centre's download hours article also counts the allowance against hours recorded and says live
+streaming counts towards it, so read it before relying on the cap.
 
 **Some of its AI generates speech.** On paid plans, AI Voice turns text into audio "that simulates
-your speaking voice", voice clones generate audio from a script, and VideoDub regenerates up to two
-words with matching lip movement. Riverside documents limits and consent steps for these, and
+your speaking voice", voice clones generate audio from a script, and VideoDub replaces up to two
+words at a time with generated audio and matching lip movement. Riverside documents limits and consent steps for these, and
 plenty of people want them. If you would rather your edit could only ever contain words you
 actually said, these features are something to leave alone rather than a reason to choose it.
 
-**The AI cleanup is several tools.** Filler words, pauses and Find Fluff are separate passes, each
-with its own panel. We have not tested how they behave together, so we are not judging the
+**The AI cleanup is several tools.** Filler words, pauses and Find Fluff are separate tools in the
+editor, each applied and reviewed on its own. We have not tested how they behave together, so we are not judging the
 results, only noting the shape.
 
 **Third-party AI is involved.** Riverside's AI page says it uses "third-party AI sub-processors and

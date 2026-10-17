@@ -25,6 +25,9 @@ in the original have been replaced with commas or colons.
 - The Async home page describes itself as a "Chat-based AI creative suite for
   video content production", headline "Edit videos like you have a pro
   editor". https://async.com/, read 2026-10-17.
+- Every async.com page's navigation menu has a "Formerly Podcastle" entry
+  for "Async Podcast Studio": "Same end-to-end studio you knew and loved, now
+  part of Async." https://async.com/pricing (navigation), read 2026-10-17.
 - Not verified: when the rename happened, or why. No announcement was read.
   Do not state a date or reason.
 
@@ -81,10 +84,33 @@ Source for this whole section: https://async.com/pricing, read 2026-10-17.
 
 ### Comparison table (columns Free / Essentials / Pro / Teams / Business)
 
-Rows where values were readable. Rows that are only checkmarks lost their
-per-plan marks in extraction, so per-plan availability for those is
-**unverified** (e.g. Text-based audio editing, Magic Dust, AI Silence
-removal, AI Noise reduction, Voice cloning, Podcast hosting, Team workspace).
+Rows where values were readable. Checkmark-only rows were re-read on
+2026-10-17 by rendering the page in headless Chromium (Playwright) and
+mapping each cell's icon (check or minus) to its column by on-screen
+position, because the DOM order of a few cells differs from the visual
+order. Per-plan marks below are from that read.
+
+Checkmark rows (Free / Essentials / Pro / Teams / Business):
+
+- Text-based audio editing: "Limited" / yes / yes / yes / yes.
+- Magic Dust, AI Auto leveling, AI Noise reduction, AI Silence removal: no
+  on Free; yes on every paid plan.
+- Multitrack audio timeline editing: "Limited" on Free; yes on paid.
+- Voice cloning: no / no / yes / yes / yes (Pro and above only).
+- Podcast hosting and publishing: yes on every plan, including Free.
+- Watermark removal (listed under video, recording and audio): no on Free;
+  yes on every paid plan.
+- Team workspace creation and collaboration: no / no / no / yes / yes
+  (Teams and Business only).
+- Producer Mode: Teams and Business only.
+- Branded waiting room widgets, Multi-host access: Pro and above.
+- Teleprompter, Local recording, Screen share recording, Echo cancellation:
+  every plan, including Free.
+- Automatic cloud backup of recordings: paid plans only.
+- Top-up packs: not on Free; "Fixed packs" on Essentials, Pro, Teams;
+  "Custom packs" on Business.
+- AI Dubbing & Lipsync: Teams and Business only.
+- Subtitle translation ("70+ languages"): Pro and above.
 
 - Default AI credits: 10 (lifetime) / 450 a month / 1200 / 3000 / Custom.
 - Media minutes uploaded to AI chat: 1 hour (lifetime) / Unlimited / ...
@@ -228,8 +254,12 @@ Source: https://async.com/products/recording, read 2026-10-17, unless noted.
   separate tracks for every speaker".
 - "Record separate audio and video tracks for every guest locally." Guests
   are invited "with a simple link".
-- Teleprompter, Producer Mode, Brand Kit for waiting room and studio,
-  scheduling.
+- Teleprompter, Brand Kit for waiting room and studio, scheduling
+  ("schedule recordings in advance").
+- Producer Mode is named on https://async.com/podcast-studio ("a
+  teleprompter and producer mode", read 2026-10-17), not on the recording
+  page. Per the pricing table it is Teams and Business only; branded waiting
+  room widgets are Pro and above.
 - "Download separate or combined recordings, plus full transcripts."
 - iPhone app: "Invite guests and record multitrack remote interviews right
   from your iPhone." https://async.com/tools/podcast-editing-software, read
@@ -247,10 +277,15 @@ Source: https://async.com/products/recording, read 2026-10-17, unless noted.
   paid 320kbps MP3 or 1411kbps WAV). The pricing page and the help article
   do not say which formats each plan can pick; treat per-plan format
   availability as unverified.
-- Video: SD 480p, HD 720p, Full HD 1080p, 4K 2160p.
+- Video: SD 480p, HD 720p, Full HD 1080p, 4K 2160p. Article dated May 26,
+  2026.
   https://help.async.com/en/articles/9983893-what-are-the-types-of-video-file-exports,
   read 2026-10-17.
-- Watermark: "To remove the watermark from your video recording, please
+- Watermark: the pricing comparison table (read 2026-10-17) lists
+  "Watermark removal" as not included on Free and included on every paid
+  plan, under the video, recording and audio sections. It does not say what
+  the watermark looks like.
+- Older help article: "To remove the watermark from your video recording, please
   upgrade to one of the paid plans." Article dated May 11, 2023, so may be
   stale. https://help.async.com/en/articles/6526247-how-do-i-remove-the-watermark,
   read 2026-10-17.
@@ -264,6 +299,10 @@ Source: https://async.com/products/recording, read 2026-10-17, unless noted.
   project?", "How do I share my project with someone?", "How to transfer a
   project between workspaces?".
   https://help.async.com/en/collections/3480383-processing, read 2026-10-17.
+- The pricing table lists "Team workspace creation and collaboration" on
+  Teams and Business only. The help articles do not say which plans can
+  comment or share, so do not state that comments or sharing work on Free,
+  Essentials or Pro.
 - Runs in the browser, no download: "Async works online"
   (https://async.com/podcast-studio FAQ, read 2026-10-17).
 - Privacy FAQ: "ensure that you are the sole owner of the content produced
@@ -274,8 +313,7 @@ Source: https://async.com/products/recording, read 2026-10-17, unless noted.
 
 - Free trial length.
 - Top-up pack prices.
-- Which checkmark-only features are on which plan (including text-based
-  editing on Free).
+- What "Limited" means for text-based audio editing on Free.
 - Whether pricing differs by country beyond what we saw in GBP.
 - Date of and reason for the Podcastle to Async rename.
 - Third-party ratings (G2, Trustpilot): only the site's own "4.9/5" and
@@ -291,6 +329,10 @@ Home pages only, read 2026-10-17. Keep claims to these.
   by changing the transcript." "Cut filler words and retakes in a click."
   "Fill in the gaps with generated video, voice audio, music, and images".
   "Get started for free" (free tier terms not read).
+- **Riverside** https://riverside.com/pricing (read 2026-10-17) shows a
+  Free plan at £0 and a feature row "AI Voice: text-to-speech" (see
+  research/riverside.md: AI Voice on Pro and above, "experimental"). The
+  pricing page displayed a notice that it was a staging environment.
 - **Riverside** https://riverside.com/ : "Capture up to 4K video and
   uncompressed audio in separate tracks, unaffected by internet connection."
   "Just search, cut, copy, and paste right in the transcript to edit your
@@ -299,6 +341,9 @@ Home pages only, read 2026-10-17. Keep claims to these.
 - **CapCut** https://www.capcut.com/ : "AI-Powered Video Editor for
   Everyone"; auto subtitles; text to speech ("Convert text to speech with AI
   using natural-sounding voices"); "Enhance Voice".
+- **Cleanvoice** FAQ on https://cleanvoice.ai/ (read 2026-10-17): "unlike
+  other AI podcast editors, Cleanvoice doesn't work based on the
+  transcript-to-edit flow."
 - **Cleanvoice** https://cleanvoice.ai/ : removes filler words and long
   silences (SDK sample shows `fillers=True, long_silences=True`); "Clean 30
   minutes for free."; "Automatic multitrack edits, always in sync."; "Export

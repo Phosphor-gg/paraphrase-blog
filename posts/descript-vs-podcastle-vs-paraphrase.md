@@ -22,14 +22,14 @@ no generated speech, ever.
 | Move words in the transcript | Rearrange by changing the transcript | Not documented | Yes, drag a word |
 | Filler removal | Remove filler words, English only | Preset list (um, uh, mhm and others) | Part of one AI cleanup |
 | Wider AI edit | Edit for Clarity, Remove Retakes | Rough Cut on video (fillers, retakes, silences) | False starts, hedges, repetition, reordering |
-| Silence removal | Not on the pages we read | Yes, threshold from 0.5 seconds | No |
+| Silence removal | Not on the pages we read | Yes, 0.5 seconds by default, adjustable; listed on paid plans | No |
 | Generated speech | Regenerate, voice clones, stock AI speakers | 1000+ AI voices, voice cloning | Never |
 | Noise and enhancement | Studio Sound | Magic Dust, noise reduction | No |
 | Remote recording | Rooms | Yes, up to 10 participants | No |
 | Podcast hosting | Not on the pages we read | Yes, RSS feed | No |
 | Transcription languages | Around 25 | 5 listed | 25 European |
 | Audio export | M4A, WAV, MP3 | MP3, WAV, FLAC and others | WAV, FLAC, MP3, M4A, Opus |
-| Free plan | 1 media hour a month, 720p, watermark | Lifetime limits, 2 hours of transcription | 15 minutes of transcription, no card |
+| Free plan | 1 media hour a month, 720p, watermark | Lifetime limits, including 2 hours of transcription and 1 hour of remote recording | 15 minutes of transcription, no card |
 | Entry paid price (checked 17 Oct 2026) | $16 per person a month billed annually | £11.99 a month on yearly, £19.99 monthly | £13.99 a month, about £4.99 on three years |
 
 ## What each one is for
@@ -53,8 +53,8 @@ recording with pieces cut out at word boundaries.
 
 All three let you remove a word by removing it from the transcript. Podcastle's Text Mode will
 "Remove a word or group of words from both the transcript and the audio file", with a warning that
-correcting a word changes the transcript only. Descript keeps cuts from its AI tools as ignored text
-you can restore. Paraphrase leaves every cut word on screen, struck through, and one click restores
+correcting a word changes the transcript only. Descript's Edit for Clarity keeps its cuts as ignored
+text you can restore. Paraphrase leaves every cut word on screen, struck through, and one click restores
 it.
 
 The automatic cleanup is where they differ.
@@ -74,7 +74,7 @@ The automatic cleanup is where they differ.
 We have not run the same recording through all three, so this compares approaches, not results.
 
 **Generated speech** separates Paraphrase from both. Descript's Regenerate types new words into an
-authorised voice clone, and Edit for Clarity's "Reword for flow" can regenerate audio. Async offers
+authorised custom voice, and Edit for Clarity's "Reword for flow" can regenerate audio with AI speech. Async offers
 "1000+ AI voices" and a voice clone that creates, in its own words, "new speech you never actually
 recorded". Paraphrase **never generates speech**, so a word you never said cannot appear in an
 export. If generated intros or sponsor reads are part of your show, that is a real strength of the
@@ -90,15 +90,15 @@ annually or $24 monthly, Creator $24 or $35, Business $50 or $65. Plans carry mo
 [Descript pricing](/blog/descript-pricing).
 
 **Podcastle (Async)** showed us GBP: Essentials £19.99 a month or £11.99 a month on yearly billing,
-Pro £39.99 or £23.99, Teams £84.99 or £49.99 per creator, Business on request. Transcription is 10,
-25 or 100 hours a month by plan. Its pages disagree on Essentials recording time (the plan card says
+Pro £39.99 or £23.99, Teams £84.99 or £49.99 per creator, Business on request. The comparison table
+gives transcription as 10, 25 or 100 hours by plan; voice cloning is on Pro and above. Its pages disagree on Essentials recording time (the plan card says
 4 hours, the comparison table 2). The trial length is not stated on the page. See
 [Podcastle pricing](/blog/podcastle-pricing).
 
 **Paraphrase** Premium is £13.99 a month, £83.85 a year (about £6.99 a month) or £179.65 for three
 years (about £4.99 a month), with 120 hours of transcription a month. Credits are spent once, at
-transcription; editing, cleanup and export cost nothing, so re-editing is free. See
-[pricing](/pricing).
+transcription; editing, cleanup and export use no credits, so re-editing is free. Cleanup has a daily
+limit (3 a day free, 30 on Premium). See [pricing](/pricing).
 
 ## What Paraphrase does not do
 
@@ -139,6 +139,12 @@ on filler words, Edit for Clarity, Regenerate, voice clones, Studio Sound, langu
 Podcastle facts come from async.com/pricing, /podcast-studio, /text-to-speech, /voice-cloning and
 /products/recording, and the Async help centre articles on Text Mode, filler words, silences, Rough
 Cut, languages and export. All were read on 17 October 2026, and we have used neither hands-on.
+Async's prices load in the browser, so we read the page rendered; it showed us pounds. Some of the
+vendors' own pages disagree, and we have flagged or left out those details: Async's Essentials card
+says 4 hours of recording where its comparison table says 2; its export article promises "7
+different audio formats" and lists eight; Descript's language page says 26 languages, lists 27, and
+its pricing page says 25; and Descript's pricing table says Remove Filler Words catches "repeated
+words" while its help article does not mention them.
 
 Paraphrase is ours, so this is not neutral. Where it leads: it never generates speech, every cut
 its AI proposes is reviewable word by word, and re-editing is free. Where it does not: it is the

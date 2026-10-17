@@ -6,10 +6,10 @@ description: "An honest review of Podcastle, now Async, from a company that make
 
 # Podcastle review: a full podcast studio, now inside Async
 
-**Bottom line:** Podcastle, now Async, is one of the most complete browser podcast studios there is:
+**Bottom line:** Podcastle, now Async, is a browser podcast studio that covers the whole job:
 remote recording on separate tracks, a timeline and transcript editor, filler word and silence
 removal, noise cleanup, AI voices and hosting, all in one place. Its trade-offs are a free plan with
-lifetime limits, transcription in five languages, filler detection from a preset list, and a product
+lifetime allowances, transcription in five languages, filler detection from a preset list, and a product
 that is increasingly about AI video. If you only need to tidy your own voice, a narrower tool may
 suit you better.
 
@@ -31,9 +31,10 @@ credits. The podcast tools are all still documented, and that is what this revie
 **Remote recording is the headline, and it is well specified.** Async says its studio records "4K
 video and uncompressed WAV audio, captured as clean, separate tracks for every speaker", recorded
 locally on each guest's machine so a shaky connection does not ruin the take. Guests join from a
-link, up to 10 participants per session, and there is a teleprompter, Producer Mode, branded waiting
-rooms and an iPhone app that can record remote interviews too. You can download separate or combined
-tracks afterwards. For interview shows, this is the part most alternatives are measured against.
+link, up to 10 participants per session, and there is a teleprompter on every plan, branded waiting
+rooms from Pro up, Producer Mode on Teams and Business, and an iPhone app that can record remote
+interviews too. You can download separate or combined recordings afterwards. For interview shows,
+this is the part to weigh first.
 
 **You can edit by transcript or on a timeline.** Text Mode transcribes your tracks, with "separate
 lines for each recording participant", and lets you click a word to remove it from "both the
@@ -51,14 +52,15 @@ silences in one pass.
 **The audio cleanup goes further than editing.** Magic Dust is Async's one-click enhancer that
 "clears away background noise, evens out distracting volume spikes, and polishes your voice", with
 separate noise reduction and auto-levelling tools documented in the help centre. Magic Dust, noise
-reduction and silence removal are listed on every paid plan.
+reduction and silence removal are listed on every paid plan, and not on Free.
 
 **AI voices are there if you want them.** Over 1,000 voices in 15 languages, multi-speaker
-narration, and voice cloning from a short sample. Async's own suggested uses for podcasters are
+narration, and, on Pro and above, voice cloning from a short sample. Async's own suggested uses for podcasters are
 intros, outros, sponsor reads and segment bridges "without re-recording".
 
 **Publishing is built in.** The Hosting Hub gives you an RSS feed and a podcast page, so a show can
-go from recording to published without leaving the browser.
+go from recording to published without leaving the browser. The pricing table lists podcast hosting
+on every plan, Free included.
 
 **Export is flexible on paid plans.** The help centre lists MP3, WAV, AIFF, FLAC, AAC, WMA, AC3 and
 OGG for audio and SD to 4K for video. Paid plans export audio at up to 320kbps MP3 or WAV.
@@ -66,8 +68,9 @@ OGG for audio and SD to 4K for video. Paid plans export audio at up to 320kbps M
 ## Where it may not suit you
 
 **The free plan is lifetime, not monthly.** 2 hours of audio transcription, 1 hour of remote
-recording and 10 AI credits for the life of the account, with audio export up to 160kbps MP3 and an
-export limit of 1 file. Fine for evaluating, not for publishing every week. Paid plans start at
+recording and 10 AI credits for the life of the account, with audio export up to 160kbps MP3, an
+export limit of 1 file, text-based editing marked "Limited", and no Magic Dust, noise reduction or
+watermark removal. Fine for evaluating, not for publishing every week. Paid plans start at
 £19.99 a month, or £11.99 a month billed yearly; we cover the detail in
 [Podcastle pricing](/blog/podcastle-pricing).
 
@@ -95,9 +98,9 @@ editor that cannot put a word you never said into your episode, this is not that
 
 ## What we could not verify
 
-We did not find the free trial length, the price of top-up credit packs, or which tick-box features
-(including text-based editing and voice cloning) are on the free plan, on Async's pages. We also did
-not find a date for the rename. We have left all of that out rather than guess.
+We did not find the free trial length, the price of top-up credit packs, or what "Limited"
+text-based editing on the free plan means, on Async's pages. We also did not find a date for the
+rename. We have left all of that out rather than guess.
 
 ## Where Paraphrase fits, and where it does not
 
@@ -128,8 +131,8 @@ approaches side by side, and a list of [Podcastle alternatives](/blog/podcastle-
 
 Podcastle is right for you if you run an interview show with remote guests and want recording,
 editing, sound cleanup and publishing in one browser tab, or if you use AI voices for intros and
-reads. For that workflow it is one of the most complete tools available, and much of what it does
-Paraphrase does not do at all.
+reads. For that workflow it covers recording, editing, cleanup and hosting in one place, and much
+of what it does Paraphrase does not do at all.
 
 It may not be the right fit if you record yourself, mostly need to cut your own stumbles, record in
 a language outside its five, or want a tool that cannot generate your voice. That is a description of

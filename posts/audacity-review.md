@@ -6,21 +6,23 @@ description: "An honest review of Audacity from a company that makes a transcrip
 
 # Audacity review: what it is good at and where it runs out for speech
 
-**Bottom line:** Audacity is the best free audio editor you can install, with genuine noise
-reduction, compression, loudness normalisation and effects, open source and on every desktop
-platform. Where it runs out is cutting long spoken recordings: you do it on the waveform, and its
+**Bottom line:** Audacity is a free, open source desktop audio editor for Windows, macOS and Linux,
+with real noise reduction, compression and effects, and loudness normalisation documented in its
+Audacity 3 manual. Where it runs out is cutting long spoken recordings: you do it on the waveform, and its
 Whisper transcription is a plugin that currently lags the latest release and does not drive the
 edit. Keep it for the polish, and add a transcript editor if cutting speech is what takes your
 time.
 
 We make Paraphrase, a transcript editor, so treat this as an interested party's view. Every claim
-about Audacity below comes from Audacity's own website, support manual and plugin pages, read on
-17 October 2026. Where its pages disagree or we could not check something, we say so.
+about Audacity below comes from Audacity's own website, support manual and plugin pages (and the
+GitHub release pages its plugin download page links to), read on 17 October 2026. We did not test
+Audacity hands-on for this review. Where its pages disagree or we could not check something, we
+say so.
 
 ## What Audacity is
 
 Audacity describes itself as "the world's most popular free software for recording and editing
-audio". It is open source under the GNU General Public License, runs on Windows, macOS and Linux
+audio". It is open source under the GNU General Public License (GPL v3), runs on Windows, macOS and Linux
 (with x86_64 and ARM64 builds), and is desktop only: the FAQ says "There is no mobile version of
 Audacity available." The current release is 4.0.1, which rebuilt the interface on Qt. Projects
 from Audacity 3 open in Audacity 4 "exactly as you saved it", according to the Audacity 4 page.
@@ -35,29 +37,27 @@ third-party plugins, covered in [Is Audacity free?](/blog/audacity-pricing).
 select a stretch of background noise, capture it, then apply the reduction to the rest. Audacity is
 honest about its limits. It "works best" on steady noise like hiss, fan noise and mains hum; for
 "traffic, crowd chatter, or background music" other tools usually do better; heavy settings can
-sound watery; and it "cannot fully substitute for good recording conditions". The Audacity 3
-manual also documents a Noise Gate, a Notch Filter for hum at a single frequency, and a tip that
-mains hum is 50 Hz in most countries and 60 Hz in North and Central America. That is the kind of
-detail most products leave you to discover.
+sound watery; and it "cannot fully substitute for good recording conditions". There is also a
+Noise Gate, and the Audacity 3 manual documents a Notch Filter for hum at a single frequency, with
+a tip that mains hum is 50 Hz in most countries and 60 Hz in North and Central America.
 
 **It does the podcast finishing steps.** A Compressor (destructive or realtime, with factory
-presets) and Loudness Normalization to a LUFS target, which the manual ties directly to what
-"podcast platforms" require. Plus reverb, echo, delay, distortion, pitch, speed and a vocal
+presets) and Loudness Normalization to a LUFS target, which the Audacity 3 manual ties directly
+to what "podcast platforms" require (we could not find it documented for Audacity 4 yet). Plus reverb, echo, delay, distortion, pitch, speed and a vocal
 remover, and third-party VST3, LV2 and Audio Units plugins.
 
-**Audacity 4 made clip editing nicer.** Clips can be selected directly and several at once with
+**Audacity 4 changed clip editing.** Clips can be selected directly and several at once with
 Shift+Click, trimmed and time stretched with handles, and split with a dedicated tool on the S key.
 Trimming is non-destructive. Sync-lock has been replaced by ripple editing, so "Delete and close
 gap (all tracks)" keeps a multitrack project in sync.
 
 **Exports are flexible.** MP3, WAV, FLAC, Opus, M4A (AAC) and Wavpack among others, with FFmpeg as
-a separate free install for M4A and WMA because of patent restrictions. Projects save as .aup3, or
+a separate install for M4A and WMA because of patent restrictions. Projects save as .aup3, or
 to audio.com with backups and versioning.
 
 **Transcription, where it works, is generous.** The Whisper plugin runs "entirely on your own
 computer", with "no minute limits, no subscription", in 99 languages, and writes a label track you
-can export as SRT, VTT or plain text. For subtitles from a local file, that is hard to beat for
-free.
+can export as SRT, VTT or plain text, all without uploading your audio anywhere.
 
 ## Where Audacity runs out for spoken word
 
@@ -71,8 +71,8 @@ repeat. Unlimited undo helps you recover from a bad cut; it does not help you fi
 
 **The transcription plugin is behind the current release.** Audacity's own OpenVINO download page
 says "The OpenVINO plugins are not yet compatible with the latest Audacity version". The builds it
-offers are for Audacity 3.7.1, on Windows and macOS only, and the latest release on Intel's
-GitHub is from December 2024. The transcription feature page, meanwhile, says "Free for Windows,
+offers are for Audacity 3.7.1, on Windows and macOS only: the Windows build is from December 2024
+and the macOS build is a June 2025 beta. The transcription feature page, meanwhile, says "Free for Windows,
 Mac & Linux" next to a 4.0.1 download button. We are reporting the download page's warning because
 it is the more specific statement, but the two pages disagree.
 
@@ -118,7 +118,7 @@ Where it does not fill the gap, plainly:
 ## Who Audacity is right for
 
 Audacity is right for anyone who wants a capable audio editor at no cost: recording, multitrack
-work, noise reduction, compression, loudness and effects, on any desktop. For spoken word with
+work, noise reduction, compression and effects, on Windows, macOS or Linux. For spoken word with
 light edits, it is all you need.
 
 It is slow on its own if you regularly cut long recordings of speech, because the cutting is done

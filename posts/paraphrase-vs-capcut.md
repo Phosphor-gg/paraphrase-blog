@@ -21,20 +21,20 @@ about which job each one is for.
 | --- | --- | --- |
 | How editing works | **Full video timeline editor, with transcript-based editing built in** | Click words to cut them, drag to move them; the export is your recording, cut |
 | Move words in the transcript | Not documented on the pages we read | Yes, drag a word to reorder |
-| AI cleanup | Highlights candidate filler words (um, uh, like, you know) and pauses for you to delete or adjust | One button: fillers, false starts, hedges, repetition, reordering; every cut struck through and restorable word by word |
+| AI cleanup | Detects filler words (examples: um, uh, like, you know) and pauses; highlights them for you to delete or adjust, or removes them in one click | One button: fillers, false starts, hedges, repetition, reordering; every cut struck through and restorable word by word |
 | Generated speech and voice cloning | Yes: AI overdub voice cloning (some regions), text to speech, AI voices | **Never: an export only contains words you said** |
 | Remote recording | Not described on the pages we read | No |
 | Noise removal and enhancement | **Background noise remover, voice enhancer** | No |
 | Captions | **Auto captions, linked to transcript edits** | No |
 | Effects, templates, music | **Large library** | No |
-| Video export | **Up to 4K and 60fps, device dependent** | MP4, picture and sound cut at the same words |
-| Watermark on exports | Added when a project uses premium elements without Pro | **None, on either plan** |
+| Video export | **Up to 4K and 60fps, device dependent (locked without Pro on desktop)** | MP4, picture and sound cut at the same words |
+| Watermark on exports | Added when a project uses premium elements without Pro; templates can also add one | **None, on either plan** |
 | Audio export formats | Not covered on the pages we read | WAV, FLAC, MP3, M4A, Opus |
-| Transcription languages | CapCut's pages disagree (see below) | 25 European |
+| Transcription languages | "100+", per CapCut's transcript editing page (not checked in the app) | 25 European |
 | Platforms | **Desktop, mobile and browser** | Browser |
-| Free plan | Yes: basic editing tools and free templates | 15 minutes of transcription once, no card |
+| Free plan | Yes: basic editing tools and free templates | 15 minutes of transcription for a new account, no card |
 | Entry price (GBP, checked 17 October 2026) | Pro £21.99 a month or £199.99 a year, as shown to us in the UK; varies by region | **£13.99 a month or £83.85 a year** |
-| Billing unit | Subscription with monthly AI credits (1,200 on Pro) | Per account; credits spent only at transcription, so cleanup, re-editing and export are free |
+| Billing unit | Subscription with monthly AI credits (1,200 on Pro) | Subscription; one credit transcribes one second of audio, spent only at transcription, so cleanup, re-editing and export use no credits |
 
 ## What CapCut does better
 
@@ -48,8 +48,8 @@ video generation. Paraphrase has none of these.
 track". For short-form video, where captions are close to expected, that may matter more than
 anything else in the table.
 
-**It is free to start** and many people never need Pro, as long as their project avoids premium
-elements. Our [CapCut pricing](/blog/capcut-pricing) post goes through what triggers the Pro
+**It is free to start**, and you may not need Pro at all if your projects avoid premium elements,
+AI tools and 4K or 60fps export. Our [CapCut pricing](/blog/capcut-pricing) post goes through what triggers the Pro
 prompt.
 
 ## How each one cuts the talking
@@ -60,8 +60,9 @@ This is where they genuinely differ.
 desktop workflow turns on "Identify filter words" in Auto captions, highlights candidates like
 "um", "uh", "like" and "you know", and you decide whether to delete or adjust each one. CapCut also
 says it "may also trim pauses". Its own advice is to "Treat highlighting as a shortlist, not a
-verdict." Its pages describe filler words and pauses; we did not find them describing false
-starts or repeated points.
+verdict." Its examples are filler words and pauses, and one page says it helps clean "repeated
+phrases"; we did not find its pages describing false starts or the same point made twice in
+different words.
 
 **Paraphrase** treats every edit as a choice of which of your words stay and in what order. Click a
 word to cut it, click again to put it back, Shift-click to cut a run, drag a word to move it. The
@@ -138,18 +139,17 @@ filler word removal and AI overdub. We have not tested CapCut hands-on.
 We make Paraphrase, so this is not a neutral comparison. What we have done instead is bold CapCut's
 wins in the table, give its strengths their own section, and leave out what we could not read.
 
-CapCut's own pages disagree in several places, and we have not picked a side. The transcript
-editing page says "100+ languages" while its FAQ lists four, so we give no language count. The
-pricing page says 1 TB of storage on Pro and a help article says 100GB. A CapCut blog article
+CapCut's own pages disagree in several places, and we have not picked a side. The pricing page
+says 1 TB of storage on Pro and a help article says 100GB. A CapCut blog article
 quotes Pro in dollars at figures that do not match the pricing page, which itself says displayed
 prices are "for reference only" and vary by region, so we quote only the pounds we were shown. And
 whether filler word removal needs Pro is unclear: one page says it is free "with CapCut's trial",
-another calls transcript editing free, and the blog article says auto captions, where the filler
+another calls its transcript editor free, and the blog article says auto captions, where the filler
 workflow starts, is Pro only. Check in the app.
 
 **Where Paraphrase leads, and where it does not.** It never generates speech, so an export can only
 contain words you said. Every AI cut is shown in the transcript and can be restored word by word.
-Credits are spent only at transcription, so cleanup, re-editing and re-exporting are free. It is
+Credits are spent only at transcription, so cleanup, re-editing and re-exporting use no credits. It is
 also by far the narrower tool: no remote recording, no noise removal, no captions, no AI voice and
 no collaboration.
 

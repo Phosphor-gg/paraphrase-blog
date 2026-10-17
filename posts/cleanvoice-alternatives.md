@@ -7,8 +7,9 @@ description: "Cleanvoice removes filler words, mouth sounds, breaths and backgro
 # Cleanvoice alternatives: the honest options for cleaning up speech
 
 **Bottom line:** if you want the same hands-off job (upload, remove ums, mouth clicks, breaths and
-noise, download), there is no closer match than Cleanvoice itself, and switching mostly buys you a
-different workflow rather than a better clean-up. If what you actually want is to **decide which
+noise, download), none of the tools below is a like-for-like replacement: each is a different kind
+of tool, so switching mostly buys you a different workflow. We have not tested how their clean-up
+sounds against Cleanvoice's. If what you actually want is to **decide which
 words stay**, cutting false starts and repeated points rather than sounds, a transcript editor such
 as **Paraphrase** does that job, and it pairs with Cleanvoice rather than replacing it.
 
@@ -46,9 +47,9 @@ including how its rollover credits work.
 | Paraphrase | Transcript editor for your own recording | Click words in the transcript; AI proposes cuts you review word by word | No | 15 minutes of transcription, no card | Cutting by meaning, seeing every cut |
 | Descript | Text-based audio and video editor | Edit the transcript | Yes (Studio Sound) | Yes | An all-in-one editor, including AI voices |
 | Riverside | Recording platform with a text-based editor | Edit the transcript | Yes (AI noise removal) | Free plan | Recording guests in separate tracks |
-| Podcastle (now Async) | AI video editor you direct by chat | Ask the AI, then review | Yes (Clean Audio) | Yes | Video creators who want an AI to rough cut |
+| Podcastle (now Async) | AI creative suite; its video editor takes instructions | Tell the AI what to cut, then review; its audio editor edits by transcript | Yes (Clean Audio) | Yes | Video creators who want an AI to rough cut |
 | CapCut | Video editor for desktop, web and mobile | Timeline | Yes (reduce noise, enhance voice) | Yes | Social video |
-| Audacity | Free, open source desktop audio editor | Waveform, by hand | Through plugins | Free | Full manual control at no cost |
+| Audacity | Free, open source desktop audio editor | Waveform, by hand | Yes (built-in Noise Reduction, plus plugins) | Free | Full manual control at no cost |
 
 We have only described the other tools from their own home pages, read on 17 October 2026, and we
 have not quoted their prices. Check each one before you choose.
@@ -57,10 +58,10 @@ have not quoted their prices. Check each one before you choose.
 
 ### Descript
 
-The best known text-based editor. Its site lists Remove Filler Words, Studio Sound, Remove Retakes,
+A text-based audio and video editor. Its site lists Remove Filler Words, Studio Sound, Remove Retakes,
 captions, translation and remote recording, and it also offers AI speech, including voice clones
 and stock AI voices. If you want a single application for recording and editing, and
-you are comfortable with generated speech being part of the toolset, it covers far more ground than
+you are comfortable with generated speech being part of the toolset, it covers more ground than
 Cleanvoice does.
 
 **Best for:** people who want one editor for everything.
@@ -68,17 +69,20 @@ Cleanvoice does.
 ### Riverside
 
 Primarily a recording platform: it records audio and up to 4K video for each guest in separate
-tracks, then gives you a text-based editor and AI audio clean-up on top. If your problem starts at
-recording, with guests on bad connections, Riverside solves something Cleanvoice was never built
+tracks, recorded locally so the internet connection does not affect them, then gives you a
+text-based editor and AI audio clean-up on top. If your problem starts at recording, with guests on
+bad connections, Riverside solves something Cleanvoice was never built
 for.
 
 **Best for:** interview shows that record remotely.
 
 ### Podcastle, now Async
 
-podcastle.ai now redirects to async.com. Its page describes an AI editor you direct by chat that
-removes "filler, pauses, repeats, bad takes", cleans audio, adds captions and makes clips, and it
-says "AI can make mistakes. Please review all edits." It leans towards video.
+podcastle.ai now redirects to async.com, which calls itself "Formerly Podcastle". Its page
+describes a video editor you instruct ("Tell Async what to cut, pace, or polish") that removes
+"filler, pauses, repeats, bad takes", plus audio clean-up, a transcript-based audio editor,
+captions and clips, and it says "AI can make mistakes. Please review all edits." It leans towards
+video.
 
 **Best for:** creators who want an AI to do the rough cut of a video.
 
@@ -86,16 +90,18 @@ says "AI can make mistakes. Please review all edits." It leans towards video.
 
 CapCut is a video editor with noise reduction, voice enhancement and auto captions among its
 tools. Audacity is the free, open source desktop audio editor for Windows, macOS and Linux, with
-plugin support. Both are free to start and very capable if you will do the editing yourself.
+plugin support and a built-in Noise Reduction effect. Both are free to start and suit you if you
+will do the editing yourself.
 
 **Best for:** doing it by hand, on video (CapCut) or audio (Audacity).
 
 ## What you will struggle to replace
 
-Worth being straight about this. **Cleanvoice's sound clean-up is its own category.** It removes
+Worth being straight about this. **Cleanvoice does a lot of sound work in one automatic pass.** It
+removes
 lip smacks, saliva crackle and mouth clicks, breaths (muted or reduced), hum, hiss, wind, traffic
 and room reverb, and it can balance loudness, all in the same pass as the cuts. It shortens long
-pauses by context rather than by a volume threshold, and it can **mute edits instead of cutting
+pauses by context (a thinking pause gets shorter, a change of topic keeps a longer one), and it can **mute edits instead of cutting
 them** so a video timeline stays in sync. It handles up to five tracks together, transcribes in 99
 languages, writes summaries and show notes, and has an API.
 
@@ -129,7 +135,7 @@ sound in Cleanvoice, or the other way round.
 ## Do you actually need to replace Cleanvoice?
 
 Usually not. If your recordings come back sounding right and you rarely change an edit, Cleanvoice
-is doing its job, and nothing above will do that job with less effort.
+is doing its job, and none of the tools above is built to do that same hands-off job.
 
 Switching makes sense if you want a full editor (Descript, CapCut, Audacity), if your trouble starts
 at recording (Riverside), or if you want to decide every cut yourself by reading what you said

@@ -9,7 +9,7 @@ description: "Podcastle, now Async, records, edits, cleans up, voices and publis
 **Bottom line:** Podcastle, now Async, is a complete podcast studio: remote recording on separate
 tracks, a transcript and timeline editor, noise cleanup, AI voices and hosting. **Paraphrase** does
 only the edit, but does it differently: a context-reading cleanup that proposes cutting false starts,
-hedges and repetition as well as ums, words you can move as well as delete, 25 languages, and an
+hedges and repetition as well as ums, words you can move as well as delete, 25 European languages, and an
 export that can only contain words you said. If you need the studio, use Podcastle. If you mostly
 cut your own voice, Paraphrase is simpler and cheaper, and plenty of people could use both.
 
@@ -24,18 +24,18 @@ Podcastle has been renamed Async (podcastle.ai redirects to async.com, whose pod
 | Move words in the transcript | Not documented | Yes, drag or Shift and arrow keys |
 | AI cleanup | Filler tab with a preset list (remove each or all), Silences tab, Rough Cut for video | One button: fillers, false starts, hedges, repetition, reordering; every cut struck through and restorable word by word |
 | Silence removal | **Yes, adjustable threshold** | No |
-| Generated speech and voice cloning | Yes: 1,000+ AI voices, voice cloning | **Never: an export only contains words you said** |
+| Generated speech and voice cloning | Yes: 1,000+ AI voices; voice cloning on Pro and above | **Never: an export only contains words you said** |
 | Remote recording | **Yes, separate local tracks, up to 10 participants** | No, solo recording in the browser |
-| Noise removal and enhancement | **Yes, Magic Dust: noise reduction and levelling** | No |
+| Noise removal and enhancement | **Yes on paid plans, Magic Dust: noise reduction and levelling** | No |
 | Captions | **AI subtitles (English only on Essentials and Pro)** | No |
 | Hosting | **Yes, RSS feed and podcast page** | No |
-| Collaboration | **Comments and project sharing, per its help centre** | No |
+| Collaboration | **Comments and project sharing, per its help centre; team workspace on Teams and Business** | No |
 | Video export | **Up to 4K, by plan** | MP4, picture and sound cut at the same words |
-| Watermark on exports | On free video recordings, per a 2023 help article; paid plans remove it | **None, on either plan** |
+| Watermark on exports | Watermark removal on paid plans only, per its pricing table | **None, on either plan** |
 | Audio export formats | MP3, WAV, AIFF, FLAC, AAC, WMA, AC3, OGG listed; Free up to 160kbps MP3 | WAV, FLAC, MP3, M4A, Opus |
 | Transcription languages | 5 listed | **25 European** |
 | Free plan | Lifetime limits: 2 hours of transcription, 1 hour of remote recording, 1 export file, no card | 15 minutes of transcription once, no card |
-| Entry price (GBP, checked 17 October 2026) | Essentials £19.99 a month, or £11.99 a month yearly | **£13.99 a month, or £6.99 a month yearly** |
+| Entry price (GBP, checked 17 October 2026) | Essentials £19.99 a month, or £11.99 a month yearly | **£13.99 a month, or about £6.99 a month yearly (£83.85 a year)** |
 | Transcription on the entry plan | 10 hours a month | **120 hours a month** |
 | Billing unit | Monthly AI credits that reset each cycle, plus hours of recording, transcription and text to speech | Per account; credits spent only at transcription, so cleanup, re-editing and export are free |
 
@@ -52,7 +52,8 @@ Async's podcast studio covers the whole job:
 - **Clean up.** A Filler tab that finds a preset list of fillers (mmm, um, uh, uhm, uhh, umm, mm,
   mhm), a Silences tab with an adjustable threshold, Rough Cut for video (filler words, retakes and
   silences), and Magic Dust for noise and levels.
-- **Generate.** Over 1,000 AI voices in 15 languages, and voice cloning from a short sample.
+- **Generate.** Over 1,000 AI voices in 15 languages, and voice cloning from a short sample on Pro
+  and above.
 - **Publish.** A Hosting Hub with an RSS feed and a podcast page.
 
 That is a lot of genuinely useful tooling in one browser tab, and most of it Paraphrase does not have.
@@ -102,7 +103,8 @@ exports WAV and FLAC, so a lossless master stays lossless.
 Everything above about Podcastle comes from Async's own pages, all read on 17 October 2026: the
 pricing page (prices shown to us in pounds), the podcast studio, recording, audio editor, Magic
 Dust, filler word, text to speech and voice cloning pages, and help centre articles on transcription
-languages, Text Mode, filler words, silence removal, Rough Cut and audio and video export. We have
+languages, Text Mode, filler words, silence removal, Rough Cut, audio and video export and
+watermarks. We have
 not used it hands-on, so where a detail is not documented we say so rather than guess.
 
 We make Paraphrase, so this is not a neutral comparison. What we have done instead is bold
@@ -112,9 +114,11 @@ not read.
 Where Async's own pages disagreed, we flagged it or left it out. The Essentials plan card says 4
 hours of recording while the comparison table on the same page says 2 hours of remote multitrack
 recording, so we quote neither. Its audio export article says "7 different audio formats" and then
-names eight; the table lists the eight it names. The pricing table's per-plan checkmarks did not
-come through when we read it, so we do not say which plan includes text-based editing or voice
-cloning. We could not find the free trial length or when and why Podcastle became Async, and we
+names eight; the table lists the eight it names. The pricing table's per-plan ticks only came through
+when we rendered the page and matched each tick to its column, so the per-plan details above (voice
+cloning from Pro up, Magic Dust and watermark removal on paid plans, team workspace on Teams and
+Business) come from that read; check the live page if one matters to you. We could not find the
+free trial length or when and why Podcastle became Async, and we
 did not use the rating badges on its site because they named no source we could open.
 
 **Where Paraphrase leads, and where it does not.** It never generates speech, so an export can only

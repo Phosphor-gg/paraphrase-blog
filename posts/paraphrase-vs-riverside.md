@@ -28,13 +28,13 @@ is what this comparison is about.
 | Noise removal and enhancement | **Yes: remove background noise, Magic Audio, audio enhancement** | No |
 | Captions and speaker labels | **Yes** | No |
 | Collaboration | **Comments; editor seats as an add-on; collaborative editing on Business** | No |
-| Video export | **Up to 4K on Pro (720p with watermark on Free)** | MP4, picture and sound cut at the same words |
-| Watermark on exports | Free: a video watermark, and a "Powered by Riverside" track at the start of audio exports; removed on paid plans | **None, on either plan** |
+| Video export | **Clips export up to 4K on Pro; Free records up to 720p, with a watermark** | MP4, picture and sound cut at the same words |
+| Watermark on exports | Free: a video watermark, and a "Powered by Riverside" track at the start of audio exports; paid plans can switch it off at export | **None, on either plan** |
 | Audio export formats | WAV or MP3 | **WAV, FLAC, MP3, M4A, Opus** |
 | Transcription languages | **Around 100** | 25 European |
-| Free plan | **2 hours of multitrack recording (one-off), unlimited single-track recording and editing, with watermark** | 15 minutes of transcription once, no card |
-| Free trial | **14 days of any plan, card required** | 7 days of Premium, card required |
-| Entry price (checked 17 October 2026) | Pro $29 a month, or $24 a month billed yearly (US dollars) | £13.99 a month, or £6.99 a month billed yearly |
+| Free plan | **Try 2 hours of multitrack recording; unlimited single-track recording and editing; with watermark** | 15 minutes of transcription once, no card |
+| Free trial | **14 days on Pro, Grow or Webinar, card required** | 7 days of Premium, card required |
+| Entry price (checked 17 October 2026) | Pro £35 a month, or £24 a month billed yearly (as shown to a UK visitor) | £13.99 a month, or about £6.99 a month billed yearly (£83.85) |
 | Billing unit | Per plan; recording and editing unlimited, separate-track downloads capped in hours, AI credits for translation, B-roll and similar | Per account; credits spent only at transcription, so cleanup, re-editing and export are free |
 
 ## What Riverside's editing actually is
@@ -72,8 +72,9 @@ side, so we are describing the approach, not claiming a winner.
 do not train on customer data. Paraphrase's cleanup runs on machines Paraphrase operates, and
 nothing you submit is used to train any model.
 
-The currencies differ, so for what Riverside actually costs see the
-[Riverside pricing breakdown](/blog/riverside-pricing) rather than a converted figure.
+The two plans buy very different things, so the prices are not a like-for-like saving. Plan by
+plan figures, and the caveats on them, are in the
+[Riverside pricing breakdown](/blog/riverside-pricing).
 
 ## What Paraphrase does not do
 
@@ -102,12 +103,12 @@ used Riverside hands-on.
 We make Paraphrase, so this is not a neutral comparison. What we have done instead is put
 Riverside's advantages in the table, bolded where it wins, and leave out what we could not read.
 
-Where Riverside's own pages disagreed, we did not pick a side quietly. The pricing page's plan cards
-and FAQ give 15, 20 and 25 hours of separate-track downloads on Pro, Grow and Webinar, while its
-comparison table gives 5, 15 and unlimited; we left the figures out of the table. Its help centre
-lists filler word removal on all plans, while the pricing page presents it as a Pro feature, so we
-make no claim about the free plan's cleanup. Riverside charges in dollars, euros and pounds by
-region; we only read the dollar prices and quote only those.
+Where Riverside's own pages disagreed, we did not pick a side quietly. The pricing page's FAQ
+still quotes Pro at $29 a month dropping to $24 billed yearly, while the plan cards shown to us in
+the UK said £35 and £24; we quote the plan cards. Its help centre lists filler word removal on all
+plans, while the pricing page presents it as a Pro feature, so we make no claim about the free
+plan's cleanup. Riverside charges in dollars, euros and pounds and adjusts pricing by region; we
+only saw the pound prices and quote only those.
 
 **Where Paraphrase leads, and where it does not.** It never generates speech, so an export can only
 contain words you said. Every AI cut is shown in the transcript and can be restored word by word.

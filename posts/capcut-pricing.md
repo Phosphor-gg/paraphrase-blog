@@ -49,22 +49,25 @@ From CapCut's own pages, Pro is mostly about premium assets, AI features and exp
 
 - **Premium templates, effects and assets.** CapCut's help centre says "Both plans unlock all
   premium features, including text templates, video effects, body effects, filters".
-- **AI credits.** Pro lists 1,200 monthly AI credits and the option to buy more, which covers
-  things like CapCut's AI video generation.
+- **AI credits and AI video.** Pro lists 1,200 monthly AI credits and the option to buy more, and
+  its plan card also lists AI video generation with CapCut's Seedance models.
 - **Export without the Pro watermark.** This is the part worth understanding. CapCut's help centre
   says you are prompted to join Pro when "your project contains one or more premium elements or
   settings", and that "watermark removal on videos using Pro materials always requires Pro,
   regardless of resolution". On desktop, it says the 4K, 60fps and No Watermark export options
-  appear locked for non-Pro users. Swapping premium stickers, transitions or filters for free ones
-  can remove the restriction.
+  appear locked for non-Pro users. On the web it lists using AI tools as one trigger, and on mobile
+  it lists exporting a video longer than 15 minutes ("free limit varies by region"). Swapping
+  premium stickers, transitions or filters for free ones can remove the restriction. Separately,
+  CapCut says templates often add a small watermark at the end of a video, and some projects get a
+  short CapCut ending clip that you can delete before export.
 
 ## Is transcript editing and filler word removal free?
 
-This is the question most readers of this post actually have, and CapCut's own pages do not give
+If you edit by transcript, this is probably the question that matters most, and CapCut's own pages do not give
 one clear answer.
 
 - CapCut's [transcript editing page](https://www.capcut.com/tools/video-transcript-editing)
-  describes it as "free and online".
+  says "CapCut offers a free online transcript editor".
 - Its [filler words page](https://www.capcut.com/tools/filler-words) says "You can remove filler
   words from the video or audio for free with CapCut's trial", which suggests it may sit behind
   Pro once a trial ends.
@@ -79,7 +82,8 @@ tell you either way. Open a project, try it, and see whether the export asks you
 From CapCut's help centre, read 17 October 2026:
 
 - **A 7 day free trial of Pro** for eligible new users. Not offered in all countries, and not if
-  you have ever had Pro before, including a past trial. On the web it needs a payment method.
+  you have ever had Pro before, including a past trial. On the web it needs a payment method, and
+  on mobile your app store account is charged after 7 days unless you cancel.
 - **Cancel at least 24 hours before renewal**, or "your account will be charged".
 - **Refunds are generally not offered.** CapCut says subscriptions "are considered virtual goods,
   and generally, purchases do not support refunds", with appeals for cases such as being billed
@@ -122,9 +126,10 @@ sound cut at the same words, and it also exports WAV, FLAC, MP3, M4A and Opus. S
 The headline prices are not comparing like with like.
 
 - **CapCut's free plan may be all you need.** If its transcript editing does what you want on your
-  footage without any premium elements, you may not need to pay anyone, including us.
-- **CapCut Pro buys a creative toolkit.** Templates, effects, AI credits, AI video generation and
-  unrestricted export. Paraphrase has none of that: no captions, no effects, no music, no
+  footage without premium elements, AI tools or 4K and 60fps export, you may not need to pay
+  anyone, including us.
+- **CapCut Pro buys a creative toolkit.** Premium templates and effects, AI credits, AI video
+  generation, and export without the Pro watermark, including 4K and 60fps on desktop. Paraphrase has none of that: no captions, no effects, no music, no
   templates.
 - **Paraphrase buys one job done carefully.** Editing what you said, with a cleanup you review, in
   a tool that never generates speech, so nothing in your export is a word you did not say.

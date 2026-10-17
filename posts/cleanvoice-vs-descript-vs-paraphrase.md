@@ -19,9 +19,9 @@ Cleanvoice.
 | | Cleanvoice | Descript | Paraphrase |
 | --- | --- | --- | --- |
 | Works on | The sound of the recording | The transcript, plus sound tools | The word-timed transcript |
-| Edit by transcript | No, by its own description | Yes | Yes |
+| Edit by transcript | No, by its own description, though it produces transcripts | Yes | Yes |
 | Filler words | Yes, 20+ languages | Remove filler words, English only | Part of one AI cleanup |
-| False starts, hedges, repeated points | Not described | Edit for Clarity | Yes, proposed by the AI cleanup |
+| False starts, hedges, repeated points | Repeated words: its pages disagree; false starts and hedges not described | Edit for Clarity | Yes, proposed by the AI cleanup |
 | Stutters, mouth sounds, breaths | Yes | Not on the pages we read | No |
 | Noise, echo, enhancement | Yes, plus loudness | Studio Sound | No |
 | Generated speech | Not among its listed features | Regenerate, voice clones | Never |
@@ -35,9 +35,10 @@ Cleanvoice.
 
 **Cleanvoice** cleans spoken audio in the browser. You upload, pick a template of fixes, and download
 the result. Its own FAQ says "Cleanvoice doesn't work based on the transcript-to-edit flow", and
-filler detection "works on how speech sounds, not on text", which is why it copes with accents and
-many languages. It also removes background noise and room reverb, balances loudness, can mute edits
-instead of cutting so video stays in sync, writes summaries and show notes, and has an API.
+filler detection "works on how speech sounds, not on text", so it "also copes with accents and with
+languages that sound similar". It still transcribes your file, in 99 languages. It also removes
+background noise and room reverb, balances loudness, can mute edits instead of cutting so video stays
+in sync, writes summaries and show notes, and has an API.
 
 **Descript** is an audio and video editor you drive by its transcript, with captions, screen
 recording, Studio Sound, Remove Filler Words, Edit for Clarity, Regenerate, translation and Rooms for
@@ -57,8 +58,10 @@ podcast more natural". Descript's filler tool works on English transcripts, and 
 removes "unnecessary or off-topic content". Paraphrase's [Clean up with AI](/docs/ai-cleanup) reads
 the transcript and proposes cutting filled pauses, false starts, hedges and repetition, including
 the same point made twice in different words, and can move words where a sentence reads better. It
-has been tested on English speech. Fluent false starts and repeated points are invisible to a tool
-that listens for sounds, and clicks and breaths are invisible to one that reads words.
+has been tested on English speech. Clicks and breaths do not show up in a transcript, and Cleanvoice's
+pages do not describe finding false starts or a point made twice in different words; on repeated
+words its own pages disagree, one listing "repeated words" and its help centre saying that feature
+is "yet to go live".
 
 **How you review.** Cleanvoice shows a report and lets you compare the original with the edited
 version. To change individual edits, its documented route is exporting markers or timestamps into
@@ -67,8 +70,8 @@ hands-on. Descript lists each filler with a timestamp and preview, and keeps Edi
 as ignored text you can restore. Paraphrase leaves every cut on screen, struck through, and one click
 puts any word back, in the browser.
 
-**Generated speech.** Descript's Regenerate and Edit for Clarity's "Reword for flow" can create
-audio in an authorised voice clone. Paraphrase **never generates speech**, so a word you never said
+**Generated speech.** Descript's Regenerate (in an authorised custom voice) and Edit for Clarity's
+"Reword for flow" can generate AI speech. Paraphrase **never generates speech**, so a word you never said
 cannot appear in an export.
 
 We have not run the same recording through all three, so this compares approaches, not results.
@@ -80,8 +83,9 @@ Checked on 17 October 2026. We have not converted currencies.
 **Cleanvoice** prices by hours of processed audio, shown in dollars and euros, excluding VAT.
 Subscriptions are $11 (€10) a month for 10 hours, $28 (€26) for 30 and $90 (€85) for 100, and unused
 hours roll over up to three times the monthly budget. Pay-as-you-go packs are $11 (€10) for 5 hours,
-$20 (€18) for 10 and $45 (€40) for 30, valid for two years. Billing rounds up to the minute. Files
-are kept for 7 days. See [Cleanvoice pricing](/blog/cleanvoice-pricing).
+$20 (€18) for 10 and $45 (€40) for 30, valid for two years. Billing rounds up to the minute. Each
+processing run is billed separately, so reprocessing a file "will count as a new edit and incur an
+additional charge". Files are kept for 7 days. See [Cleanvoice pricing](/blog/cleanvoice-pricing).
 
 **Descript** shows `$` prices without naming the currency: Hobbyist $16 per person a month billed
 annually or $24 monthly, Creator $24 or $35, Business $50 or $65, with AI credits (spent by Remove
@@ -90,8 +94,8 @@ filler words, Studio Sound and others) that do not roll over. See
 
 **Paraphrase** Premium is £13.99 a month, £83.85 a year or £179.65 for three years (about £4.99 a
 month), with 120 hours of transcription a month that does not roll over. Credits are spent only at
-transcription, so cleanup, re-editing and re-exporting are free, and recordings stay until you delete
-them. See [pricing](/pricing).
+transcription, so re-editing and re-exporting are free, and cleanup uses no credits within its daily
+limit (3 a day free, 30 on Premium). Recordings stay in your account until you delete them. See [pricing](/pricing).
 
 ## What Paraphrase does not do
 
@@ -127,7 +131,11 @@ Cleanvoice facts come from cleanvoice.ai, its pricing page, its feature pages fo
 stutters, mouth sounds, breaths, dead air, noise, transcripts and integrations, its blog, and its
 API documentation. Descript facts come from descript.com/pricing and /features and its help centre
 articles on filler words, Edit for Clarity, Regenerate, Studio Sound and languages. All were read on
-17 October 2026, and we have used neither hands-on.
+17 October 2026, and we have used neither hands-on. Where a vendor's pages disagree we have said so
+or left the detail out: Cleanvoice's stutter page says it removes "repeated words" while its help
+centre says that feature is not live yet; its integrations page names more editors for exporting
+edits than its help centre does; and Descript's pricing table says Remove Filler Words catches
+"repeated words" while its help article does not mention them.
 
 Paraphrase is ours, so this is not neutral. Where it leads: it never generates speech, every cut its
 AI proposes is reviewable word by word in the transcript, and re-editing is free. Where it does not:

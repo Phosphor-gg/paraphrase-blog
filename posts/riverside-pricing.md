@@ -1,16 +1,17 @@
 ---
 title: "Riverside pricing: what it costs and what is paywalled"
 date: 2026-10-17
-description: "Riverside has a free plan and paid plans from $24 a month billed yearly. Here is what each plan includes, what sits behind the paywall, and how Paraphrase prices transcript editing."
+description: "Riverside has a free plan and paid plans from £24 a month billed yearly, as shown to a UK visitor. Here is what each plan includes, what sits behind the paywall, and how Paraphrase prices transcript editing."
 ---
 
 # Riverside pricing: what it costs and what is paywalled
 
-**Bottom line:** Riverside's Pro plan is $29 a month, or $24 a month billed yearly ($288), and
-it buys a whole recording, editing and publishing platform. The free plan gives you 2 hours of
-multitrack recording once, with a watermark and 720p video. If all you need is to edit your own
-voice by its transcript, Paraphrase is £13.99 a month or about £4.99 a month on the three year
-cycle, but it does far less, so compare what you will actually use.
+**Bottom line:** Riverside's Pro plan was £35 a month, or £24 a month billed yearly (£288), on
+its pricing page as shown to a UK visitor on 17 October 2026, and it buys a whole recording,
+editing and publishing platform. The free plan lets you try 2 hours of multitrack recording, with
+a watermark and up to 720p video. If all you need is to edit your own voice by its transcript,
+Paraphrase is £13.99 a month or about £4.99 a month on the three year cycle, but it does far
+less, so compare what you will actually use.
 
 All prices below were read on Riverside's pricing page and help centre on 17 October 2026.
 Vendors change pricing, so check before you buy.
@@ -19,30 +20,31 @@ Vendors change pricing, so check before you buy.
 
 | Plan | Monthly billing | Yearly billing |
 | --- | --- | --- |
-| Free | $0 | n/a |
-| Pro | $29 a month | $24 a month ($288 a year) |
-| Grow | $39 a month | $34 a month ($408 a year) |
-| Webinar | $99 a month | $79 a month |
+| Free | £0 | n/a |
+| Pro | £35 a month | £24 a month (£288 a year) |
+| Grow | £45 a month | £34 a month (£408 a year) |
+| Webinar | £99 a month | £79 a month (£948 a year) |
 | Business | Contact sales | Contact sales |
 
 Two honest caveats:
 
-- **These are US dollar prices.** Riverside's help centre says it accepts USD, EUR and GBP and
-  adjusts "pricing by region", so a buyer in the UK or Europe may see a different figure. We did
-  not read the pound or euro prices, so we are not converting.
-- **The Webinar yearly total looked wrong.** The page showed "Billed $408 annually" under Webinar,
-  the same as Grow, which does not match $79 a month. Riverside's own FAQ gives $79, so that is
-  the figure we use.
+- **These are the prices the page showed us in the UK.** Riverside's help centre says it accepts
+  USD, EUR and GBP and adjusts "pricing by region", so a buyer elsewhere may see a different
+  figure. We did not see the dollar or euro prices displayed, so we are not quoting them.
+- **The page's FAQ disagrees with its plan cards.** The FAQ still says Pro "drops from $29 to
+  $24/month" on annual billing and calls the saving "up to 20%", while the plan cards showed £35
+  monthly and £24 yearly. We have used the plan card figures.
 
-Every paid plan offers a 14-day free trial. The help centre says you need a credit card to start
-it, and you are not charged until it ends.
+The pricing page shows a 14-day free trial on Pro, Grow and Webinar (Business is "Book a demo").
+The help centre says you need a credit card to start a trial, and you are not charged until it
+ends.
 
 ## What you get for free
 
 The free plan, from the pricing page:
 
-- 2 hours of multitrack recording (separate audio and video tracks), listed in the comparison
-  table as "2 hours (one-off)".
+- "Try 2 hours of multi-track recordings (Separate audio and video tracks)", in the plan card's
+  words.
 - Unlimited single-track recording and editing, and video calls as long as you want.
 - The "full suite of editing tools" and Magic Clips.
 - Up to 720p video and 44.1 kHz audio.
@@ -56,7 +58,7 @@ account.
 
 ## What sits behind the paywall
 
-**Pro** ($29, or $24 yearly) adds the things most podcasters care about:
+**Pro** (£35, or £24 a month yearly) adds:
 
 - Up to 4K video and 48kHz audio, no watermark.
 - "Unlimited text-based editing" and "Unlimited transcriptions".
@@ -68,18 +70,18 @@ account.
 
 On Pro and above the help centre also lists AI Voice (up to 5,000 characters a month in your own
 authenticated voice), voice clones (in beta, using AI credits) and VideoDub, which regenerates up
-to two words with lip sync. Find Fluff, which suggests whole segments to remove, is on all paid
+to two words at a time with lip sync. Find Fluff, which suggests whole segments to remove, is on all paid
 plans. External file uploads are 15 hours a month on Pro, Grow and Webinar.
 
-**Grow** ($39, or $34 yearly) adds live streaming in 1080p, multistreaming, social scheduling, a
+**Grow** (£45, or £34 a month yearly) adds live streaming in 1080p, multistreaming, social scheduling, a
 newsletter, a creator website, hosting for two shows, 2 studios and 20 hours of separate track
 downloads.
 
-**Webinar** ($99, or $79 yearly) adds webinar tools for up to 100 registrants, 3 studios and 25
+**Webinar** (£99, or £79 a month yearly) adds webinar tools for up to 100 registrants, 3 studios and 25
 hours of separate track downloads.
 
 **Business** (custom pricing) adds unlimited studios and separate track downloads, collaborative
-editing, non-destructive timeline exports, SSO, API access and a dedicated account manager.
+editing, non-destructive timeline exports, SSO, API access and a "Dedicated CSM".
 
 ## How the separate track hours work
 
@@ -88,10 +90,11 @@ unlimited", and the cap is on **downloading the individual per-participant track
 locally recorded studio-quality files. Hit the cap and you can still edit and export, but cannot
 download new separate tracks until the next billing cycle or an upgrade.
 
-One caveat: the plan cards and FAQ give Pro 15 hours, but the comparison table on the same page
-listed "5 hours per month" for Pro and 15 for Grow. We have used the plan card and FAQ figures,
-and you should check which applies when you sign up. If you edit inside Riverside rather than
-exporting separate tracks to another editor, the cap may not matter to you at all.
+One caveat: Riverside's help centre article on download hours describes the allowance as monthly,
+but also says the option to download disappears once you have *recorded* more than your
+allowance, mentions "lifetime recording hours", and says live streaming counts towards it. Read
+that article before relying on the cap. If you edit inside Riverside rather than exporting
+separate tracks to another editor, the cap may not matter to you at all.
 
 ## How Paraphrase prices editing
 
@@ -118,16 +121,16 @@ open: £3.99 for 4 hours, £12.99 for 13 hours 20 minutes, £34.99 for 40 hours.
 
 ## Comparing the two honestly
 
-The currencies differ and we did not read Riverside's pound prices, so we are not putting a
-saving on it. What is comparable is the shape:
+Both prices are in pounds here, but they do not buy the same thing, so a straight saving would
+mislead. What is comparable is the shape:
 
 - **Riverside is priced as a platform.** Pro bundles a 4K remote studio, local separate tracks,
   hosting, publishing, AI video tools and AI voice. If you use those, the price is buying a lot.
 - **Paraphrase is priced as one job.** It records or takes an upload, transcribes it, and lets you
   edit by the words. No remote studio, no separate per-speaker tracks, no hosting, no captions, no
   noise removal.
-- **Free plans suit different trials.** Riverside's free plan lets you try remote multitrack
-  recording for 2 hours. Paraphrase's free plan lets you try transcript editing and the AI
+- **Free plans suit different trials.** Riverside's free plan lets you try 2 hours of remote
+  multitrack recording. Paraphrase's free plan lets you try transcript editing and the AI
   cleanup on short recordings.
 - **Generated speech.** Riverside's paid plans include tools that generate speech in your voice.
   Paraphrase never generates speech at any price; your export only contains words you said.

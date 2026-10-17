@@ -1,7 +1,7 @@
 ---
 title: "Paraphrase vs Descript: a full suite versus editing only your real voice"
 date: 2026-10-17
-description: "Descript is a complete audio and video production suite with AI voices. Paraphrase edits your own recording by its transcript and never generates speech. Here is an honest comparison, so you can pick one, or use both."
+description: "Descript is a broad audio and video production suite with AI voices. Paraphrase edits your own recording by its transcript and never generates speech. Here is an honest comparison, so you can pick one, or use both."
 ---
 
 # Paraphrase vs Descript: a full suite versus editing only your real voice
@@ -12,30 +12,30 @@ cutting your own recording by its word-timed transcript, with a one-button AI cl
 and no generated speech at all. Its credits are spent only at transcription, so re-editing is
 free. If all you do is tidy spoken audio, Paraphrase is the simpler tool for it.
 
-Descript is one of the best-known tools for editing audio by its transcript, and it does a great
-deal more besides. This comparison is about where the two take different approaches, and it tries
+Descript is built around editing audio and video by its transcript, and it does a great deal
+more besides. This comparison is about where the two take different approaches, and it tries
 to be straight about how much more Descript does.
 
 ## Quick comparison
 
 | | Descript | Paraphrase |
 | --- | --- | --- |
-| How editing works | Edit audio and video by editing the transcript, plus a full video editor | Click words to cut them, drag to move them; the export is your recording, cut |
+| How editing works | Edit audio and video by editing the transcript, with a timeline if you want it | Click words to cut them, drag to move them; the export is your recording, cut |
 | AI cleanup | Remove filler words (English only) and Edit for Clarity; cuts kept as ignored text you can restore | One button: fillers, false starts, hedges, repetition, reordering; every cut struck through and restorable word by word |
-| Generated speech and voice cloning | Yes, opt-in: voice clones, Regenerate, Reword for flow | **Never: an export only contains words you said** |
+| Generated speech and voice cloning | Yes: text to speech, voice clones, Regenerate, Reword for flow | **Never: an export only contains words you said** |
 | Remote recording | **Rooms, a separate file per participant** | No |
 | Noise removal and enhancement | **Studio Sound** | No |
 | Captions and translation | **Yes** | No |
-| Collaboration | **Editor comments, team plans** | No |
+| Collaboration | **Commenting, live collaboration, team plans** | No |
 | Video export | **Up to 4K on Creator and Business (720p on Free)** | MP4, picture and sound cut at the same words |
 | Watermark on exports | None on paid plans; Free exports carry one | **None, on either plan** |
 | Audio export formats | M4A, WAV, MP3 | **WAV, FLAC, MP3, M4A, Opus** |
-| Transcription languages | Around 25, all Latin alphabet | 25 European, including Greek, Russian, Ukrainian and Bulgarian |
+| Transcription languages | Around 25; Descript says all use the Latin alphabet, though its list includes Greek and Hindi in beta | 25 European, including Greek, Russian, Ukrainian and Bulgarian |
 | Platforms | **macOS and Windows apps, Chromium browsers** | Browser |
 | Free plan | **1 media hour a month, 720p with watermark, no card** | 15 minutes of transcription once, no card |
-| Entry price (checked 17 October 2026) | $16 per person a month billed annually, $24 monthly (shown in dollars) | £6.99 a month billed annually, £13.99 monthly |
+| Entry price (checked 17 October 2026) | $16 per person a month billed annually, $24 monthly (shown in dollars) | £83.85 a year (about £6.99 a month), or £13.99 monthly |
 | Allowance on the entry plan | 10 media hours and 400 AI credits a month | **120 hours of transcription a month** |
-| Billing unit | Per person; media hours for uploads and recordings, AI credits for AI features including filler removal | **Per account; credits spent only at transcription, so cleanup, re-editing and export are free** |
+| Billing unit | Per person; media hours for uploads and recordings, AI credits for AI features including filler removal | **Per account; credits spent only at transcription, so re-editing and export are free and cleanup uses no credits (30 a day on Premium)** |
 
 The language row is not a straight win either way. Descript covers languages Paraphrase does not,
 such as Hindi, Turkish, Catalan, Norwegian and Welsh. Paraphrase transcribes some written in other
@@ -79,8 +79,9 @@ Descript offers AI speech as part of editing. Regenerate, paired with a custom v
 "generate text-to-speech audio to fix a flubbed delivery, a misspeak, or a wrong spoken word", and
 Edit for Clarity's "Reword for flow" option can "regenerate the audio with AI speech so the edits
 sound seamless". Descript gates this well: a voice clone needs "explicit recorded authorization"
-from the speaker, Regenerate needs an authorised custom speaker, and generated edits are shown in
-blue. It is opt-in and genuinely useful if you want it.
+from the speaker, changing words with Regenerate needs an authorised custom speaker, and generated
+edits are shown in blue. Each of these is something you choose to use, and genuinely useful if you
+want it.
 
 **Paraphrase never generates speech.** No voice cloning, no overdub, no text to speech, no
 regenerated words. A word you never said cannot appear in an export, because there is no audio
@@ -130,13 +131,16 @@ anything we could not read.
 Where Descript's own pages disagreed, we said so rather than picking. Its languages article says 26
 languages but its table lists 27 entries, and its pricing page says 25, so we write "around 25".
 The pricing page shows prices with a `$` sign without naming the currency and does not label
-which figure is monthly and which annual; we read that from its checkout links and the "Saving up
-to 35%" toggle, and we do not convert to pounds. We also could not find whether re-editing or
+which figure is monthly and which annual in text; we read that from its checkout links and the
+Monthly/Annual toggle (Annual by default, "Saving up to 35%"), and we do not convert to pounds. Its
+languages article says every supported language uses the Latin alphabet but lists Greek and Hindi,
+so we attribute that claim rather than repeat it. We also could not find whether re-editing or
 re-exporting ever draws on Descript's allowance, so the billing row says only what its pages list.
 
 **Where Paraphrase leads, and where it does not.** It never generates speech, so an export can only
 contain words you said. Every AI cut is shown in the transcript and can be restored word by word.
-Credits are spent only at transcription, so cleanup, re-editing and re-exporting are free. It is
+Credits are spent only at transcription, so re-editing and re-exporting are free, and cleanup is
+limited by a daily count rather than credits. It is
 also the narrowest tool in this comparison by a distance: no remote recording, no noise removal, no
 captions, no AI voice and no collaboration.
 
@@ -151,7 +155,7 @@ and our [Descript review](/blog/descript-review) covers it in more depth.
 
 **Choose Paraphrase** if you record yourself (a [podcast](/podcast-editing), a
 [voiceover](/voiceover-editing), a [course](/course-editing), an [interview](/interview-editing))
-and want a clean cut of your real voice with as little effort as possible: one cleanup button, a
+and want a clean cut of your real voice without much effort: one cleanup button, a
 proposal you review, lossless export, and no chance of a generated word.
 
 **Use both** if you like Descript for production but want the spoken edit done somewhere that

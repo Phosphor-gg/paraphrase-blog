@@ -7,13 +7,13 @@ description: "Audacity is a free, open source audio editor with real noise reduc
 # Paraphrase vs Audacity: cutting speech by its words versus on the waveform
 
 **Bottom line:** they do different jobs. **Audacity** is a free, open source audio editor with
-noise reduction, compression, loudness normalisation and effects, and you cut by selecting regions
+noise reduction, compression and effects, and you cut by selecting regions
 of a waveform. **Paraphrase** transcribes your recording and you cut by clicking words, with an AI
 pass that proposes the cuts, but it does no audio processing at all. If your problem is the sound,
 use Audacity. If your problem is the hours spent finding ums and restarts, use Paraphrase for the
 cut and Audacity for the polish.
 
-Audacity has been the default free audio editor for a long time, and for good reason. If you are
+Audacity has been around a long time: its homepage counts "100M+ downloads since 2000". If you are
 here because editing speech in it is slow, it is worth being clear about why, because that is
 exactly where Paraphrase takes a different approach.
 
@@ -24,8 +24,8 @@ exactly where Paraphrase takes a different approach.
 | How editing works | Select and delete regions of a waveform; clips, multitrack, unlimited undo | Click words to cut them, drag to move them; the export is your recording, cut |
 | AI cleanup | None built in; its Cut page suggests removing ums by hand | **One button: fillers, false starts, hedges, repetition, reordering; every cut struck through and restorable word by word** |
 | Generated speech and voice cloning | Not described on its pages | Never: an export only contains words you said |
-| Noise removal and enhancement | **Noise Reduction, noise gate, notch filter, compressor, loudness normalisation** | No |
-| Effects and plugins | **Reverb, echo, pitch and more; VST3, LV2, Audio Units, Nyquist** | No |
+| Noise removal and enhancement | **Noise Reduction, noise gate, compressor; notch filter and loudness normalisation in the Audacity 3 manual** | No |
+| Effects and plugins | **Reverb, echo, pitch and more; VST3, LV2, Audio Units** | No |
 | Multitrack | **Yes** | No |
 | Captions | **Whisper plugin labels export as SRT or VTT** | No |
 | Collaboration | **Cloud projects on audio.com, shareable with collaborators** | No |
@@ -34,8 +34,8 @@ exactly where Paraphrase takes a different approach.
 | Transcription languages | Optional Whisper plugin, 99 languages; plugin builds are for 3.7.1, not the current 4.0.1 | Built in, 25 European |
 | Platforms | Windows, macOS and Linux desktop | Browser |
 | Free plan | **The whole app, free and open source (GPL)** | 15 minutes of transcription once, no card |
-| Entry price (checked 17 October 2026) | **Free** | £13.99 a month, or £6.99 a month billed yearly |
-| Billing unit | **Nothing to pay; paid cloud storage is optional** | Per account; credits spent only at transcription, so cleanup, re-editing and export are free |
+| Entry price (checked 17 October 2026) | **Free** | £13.99 a month, or about £6.99 a month billed yearly (£83.85) |
+| Billing unit | **Nothing to pay; paid cloud storage is optional** | Subscription or credit packs; credits spent only at transcription, so cleanup, re-editing and export are free |
 
 ## What editing speech in Audacity actually is
 
@@ -99,7 +99,7 @@ This is the setup we would actually suggest for spoken word that needs real clea
    that matters, and make your own cuts and reorders.
 3. **Export WAV** (lossless) and open it in Audacity.
 4. **Finish the sound in Audacity**: Noise Reduction from a noise profile, a Compressor preset,
-   then Loudness Normalization to your platform's target.
+   then Loudness Normalization to your platform's target (documented in the Audacity 3 manual).
 5. **Export the final file** from Audacity in whatever format you publish.
 
 Because Paraphrase is non-destructive and re-exporting costs nothing, you can go back and change
@@ -111,7 +111,8 @@ Everything above about Audacity comes from Audacity's own pages, all read on 17 
 home page, the features pages for cutting, noise reduction and transcription, the FAQ, the download
 and Audacity 4 pages, the OpenVINO plugin download page, the AI plugins page, and the support
 manual's pages on editing, saving and exporting, FFmpeg, the compressor and loudness normalisation.
-Some of the manual still describes Audacity 3, and we have not tested every feature in 4.0.1.
+Some of the manual still describes Audacity 3, and we have not tested Audacity ourselves, so
+features documented only for Audacity 3 are marked as such.
 
 We make Paraphrase, so this is not a neutral comparison. What we have done instead is bold
 Audacity's wins in the table, and there are a lot of them.
